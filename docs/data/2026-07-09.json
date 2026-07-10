@@ -1,0 +1,878 @@
+{
+  "date": "2026-07-09",
+  "generatedAt": "07/09/2026 12:05:46",
+  "count": 123,
+  "categories": {
+    "news": [
+      {
+        "title": "US and Iran trade strikes for second night in a row after Trump declares ceasefire 'over'",
+        "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 09 Jul 2026 09:53:21 GMT",
+        "summary": "Traffic through the Strait of Hormuz has dropped 'dramatically' since the lastest attacks began."
+      },
+      {
+        "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+        "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 09 Jul 2026 02:18:21 GMT",
+        "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\"."
+      },
+      {
+        "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
+        "link": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 09 Jul 2026 06:28:08 GMT",
+        "summary": "Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates."
+      },
+      {
+        "title": "It was 'love at first sight' with their adopted baby. Then they were told he may have been trafficked",
+        "link": "https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 08 Jul 2026 23:31:53 GMT",
+        "summary": "When they adopted Marcus, David and Ally's dream of having a child was complete - but now they could lose him."
+      },
+      {
+        "title": "Watch: We're a step closer to finding out if bees have feelings, here's why",
+        "link": "https://www.bbc.co.uk/news/videos/cpq309jrve4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 09 Jul 2026 00:28:16 GMT",
+        "summary": "New research found bumblebees showed \"emotion-like behaviours\" previously only seen in mammals."
+      },
+      {
+        "title": "International court tells BBC of breakthrough in Sudan war crimes probe",
+        "link": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Thu, 09 Jul 2026 08:49:45 GMT",
+        "summary": "The ICC has been looking into atrocities committed in Darfur over the past three years."
+      },
+      {
+        "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
+        "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 08 Jul 2026 17:18:14 GMT",
+        "summary": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times."
+      },
+      {
+        "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
+        "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Wed, 08 Jul 2026 20:40:11 GMT",
+        "summary": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey."
+      },
+      {
+        "title": "Graham Platner ends Senate bid. And, why Nolan Wells' death captured national attention",
+        "link": "https://www.npr.org/2026/07/09/g-s1-132694/up-first-newsletter-graham-platner-trump-iran-israel-nolan-wells",
+        "source": "NPR News",
+        "published": "Thu, 09 Jul 2026 07:22:04 -0400",
+        "summary": "Democrat Graham Platner ended his bid last night for U.S. Senate. And, prominent civil rights attorney Ben Crump has been enlisted to help get answers in the July Fourth weekend death of Nolan Wells."
+      },
+      {
+        "title": "Bonnie Tyler, singer of ballad 'Total Eclipse of the Heart,' has died at 75",
+        "link": "https://www.npr.org/2026/07/09/nx-s1-5887107/bonnie-tyler-obit",
+        "source": "NPR News",
+        "published": "Thu, 09 Jul 2026 05:50:28 -0400",
+        "summary": "Tyler died \"unexpectedly\" in a hospital in Portugal where she was being treated for an illness, her family said Thursday in a statement on her website."
+      },
+      {
+        "title": "A Florida airport is officially renamed for Trump. What does he stand to gain?",
+        "link": "https://www.npr.org/2026/07/09/nx-s1-5825868/trump-airport-florida-pbi-trademark",
+        "source": "NPR News",
+        "published": "Thu, 09 Jul 2026 05:01:00 -0400",
+        "summary": "Trump is the first president to have an airport named after him while in office. The Trump Organization says he won't get royalties from the renaming, but legal experts see potential loopholes."
+      },
+      {
+        "title": "New aviation mechanics graduate with jobs in hand, thanks to a labor shortage",
+        "link": "https://www.npr.org/2026/07/09/nx-s1-5860843/aviation-mechanics-labor-shortage",
+        "source": "NPR News",
+        "published": "Thu, 09 Jul 2026 05:00:00 -0400",
+        "summary": "Aviation is literally soaring in the U.S., with record passenger numbers. But with a generation of mechanics set to leave the workforce, the industry needs new graduates to fill the gap."
+      },
+      {
+        "title": "Campaign staffers keep trying to bet on races despite push to curb insider trading",
+        "link": "https://www.npr.org/2026/07/09/nx-s1-5869569/kalshi-election-staffers-caught",
+        "source": "NPR News",
+        "published": "Thu, 09 Jul 2026 05:00:00 -0400",
+        "summary": "Kalshi says it has blocked \"dozens\" of trades from campaign insiders, but experts say the company's approach leaves lots of potential loopholes. NPR has found at least one trade that slipped through."
+      },
+      {
+        "title": "The Iran war has pushed some countries away from oil and toward clean energy",
+        "link": "https://www.npr.org/2026/07/09/nx-s1-5872786/iran-war-evs-solar-energy-transition",
+        "source": "NPR News",
+        "published": "Thu, 09 Jul 2026 05:00:00 -0400",
+        "summary": "The new round of bombing in the Middle East has underscored the precarity of relying on fossil fuels. The war is speeding up the global transition to EVs, solar, and batteries, experts say."
+      },
+      {
+        "title": "How England's class divide shaped Andy Burnham, the U.K.'s likely next prime minister",
+        "link": "https://www.npr.org/2026/07/09/nx-s1-5876065/andy-burnham-england-uk",
+        "source": "NPR News",
+        "published": "Thu, 09 Jul 2026 05:00:00 -0400",
+        "summary": "As mayor of Manchester, Andy Burnham brought growth to the postindustrial city. Can he scale that nationally as the next prime minister?"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/07/09/nx-s1-5883697/morning-news-brief",
+        "source": "NPR News",
+        "published": "Thu, 09 Jul 2026 04:59:51 -0400",
+        "summary": "Trump criticizes Iran's leaders and says ceasefire is over, Middle East countries prepare for the potential of more war as U.S. and Iran renew strikes, Graham Platner drops his bid for Senate."
+      },
+      {
+        "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
+        "link": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+        "source": "The Guardian (World)",
+        "published": "Tue, 07 Jul 2026 15:17:19 GMT",
+        "summary": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along ΓÇô it worked as well as the artificial chemical used globally A homegrown catnip lotion has proven ΓÇ£just as effective as DeetΓÇ¥ as a mosquito repellant in trials carried out in Uganda.Catnip, or Nepeta cataria, is a common herb from the mint family. The chemical in the plant that causes feline euphoria ΓÇô nepetalactone ΓÇô also has insect-repelling properties but this has not previously been commercialised. Continue reading..."
+      },
+      {
+        "title": "What will define Elon MuskΓÇÖs legacy? Doge cuts to USAID Ebola programs",
+        "link": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
+        "source": "The Guardian (World)",
+        "published": "Tue, 07 Jul 2026 11:00:06 GMT",
+        "summary": "Experts say cuts have hindered the response to DRCΓÇÖs Ebola outbreak and resulted in ΓÇÿsignificant numbersΓÇÖ of deathsElon Musk has an Ebola problem. SpaceX stock dropped precipitously after its initial public offering, and Tesla faces a wave of lawsuits. But instead of focusing on his companies, Musk has posted frequently on X about the US Agency for International Development (USAID), which he helped dismantle ΓÇô or, in his words, feed into the woodchipper ΓÇô last year.ΓÇ£ElonΓÇÖs USAID crash-out over the past week has been a thing to behold,ΓÇ¥ said Jeremy Konyndyk, a former top USAID official who oversaw the agencyΓÇÖs Ebola response in 2014-2015 and the president of Refugees International. ΓÇ£In a way, itΓÇÖs helpful that Elon is doing this, because itΓÇÖs putting attention back on the issue of what he did last year.ΓÇ¥ Continue reading..."
+      },
+      {
+        "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
+        "link": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
+        "source": "The Guardian (World)",
+        "published": "Tue, 07 Jul 2026 06:30:31 GMT",
+        "summary": "Shipment discovered at airport in Monrovia and valued at ┬ú14.2m had been falsely declared as seasoning cubesAuthorities in Liberia have charged five suspects over one of the largest drug seizures in the countryΓÇÖs history, after police found more than 200kg of cocaine falsely declared as Maggi seasoning cubes.The shipment, with an estimated value of $19m (┬ú14.2m), was discovered at the international airport in Monrovia on 8 June, but the suspects were not named until a press briefing at the weekend. Continue reading..."
+      },
+      {
+        "title": "Archaeologists uncover ancient Byzantine city in EgyptΓÇÖs western desert",
+        "link": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+        "source": "The Guardian (World)",
+        "published": "Sat, 04 Jul 2026 20:32:52 GMT",
+        "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activitiesArchaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert.The fourth-century quarters had residential and religious structures, including a basilica-style church in the Dakhla oasis. Archaeologists also found coins, pottery fragments and tools. Continue reading..."
+      },
+      {
+        "title": "ΓÇÿThe situation is terribleΓÇÖ: aid workers on life in Sudanese city pummelled by drone strikes",
+        "link": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+        "source": "The Guardian (World)",
+        "published": "Sat, 04 Jul 2026 15:14:18 GMT",
+        "summary": "El Obeid becomes key battleground in war between SudanΓÇÖs armed forces and their paramilitary enemies, the RSFFatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past weekend were the most violent so far.The drones hit schools and fuel stations, killing more than 20 people, including students, she said. ΓÇ£Over the past few months, seeing 40 or 45 drones is the norm. You can literally count them,ΓÇ¥ said the aid volunteer, whose name has been changed for fear of retribution. Continue reading..."
+      },
+      {
+        "title": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
+        "link": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law",
+        "source": "The Guardian (World)",
+        "published": "Wed, 08 Jul 2026 14:01:35 GMT",
+        "summary": "Activist is challenging ruling last year that restored colonial-era homophobic law against same-sex intimacySome of the UKΓÇÖs top judges are hearing arguments over whether a Trinidad and Tobago court had the legal right to overturn a 2018 ruling to remove colonial-era homophobic laws that criminalise anal sex between consenting men.The countryΓÇÖs ΓÇ£buggery lawΓÇ¥, often referred to as its ΓÇ£sodomyΓÇ¥ law, was created in 1925 and was written into Trinidad and TobagoΓÇÖs 1986 Sexual Offences Act. In 2017 a Trinidadian LGBTQ+ rights activist, Jason Jones, challenged the law, and in 2018 a high court ruled that it infringed upon his constitutional right to privacy and equality. Continue reading..."
+      },
+      {
+        "title": "French prosecutors investigate racist abuse of Kylian Mbapp├⌐ by Paraguayan senator",
+        "link": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
+        "source": "The Guardian (World)",
+        "published": "Tue, 07 Jul 2026 15:06:41 GMT",
+        "summary": "Celeste Amarilla could face charges after French Football Federation complains about social media posts over World Cup matchProsecutors in France have opened an investigation into the racist attack on Kylian Mbapp├⌐ by a Paraguayan senator, with officials weighing whether to demand that the senator be charged with aggravated public insult or incitement to hatred or violence.The Paris prosecutorΓÇÖs office told the Guardian on Tuesday it had launched the inquiry after the French Football Federation (FFF) filed a complaint with the national unit for combating online hate. Continue reading..."
+      },
+      {
+        "title": "ΓÇÿLiving like this is agonyΓÇÖ: Cuba suffers third nationwide blackout in six months",
+        "link": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
+        "source": "The Guardian (World)",
+        "published": "Mon, 06 Jul 2026 19:30:09 GMT",
+        "summary": "Impoverished island was already struggling to keep the lights on before the US imposed a blockade in JanuaryCuba on Monday suffered its third nationwide power outage since the start of the year, the state electricity company said.The impoverished island was already struggling to keep the lights on before the US president, Donald Trump, imposed an oil blockade in January, which has depleted the already dwindling supply of fuel for CubaΓÇÖs power plants. Continue reading..."
+      },
+      {
+        "title": "UK Labour leadership nominations begin: WhoΓÇÖs running and how it works",
+        "link": "https://www.aljazeera.com/news/2026/7/9/uk-labour-leadership-nominations-begin-whos-running-and-how-it-works?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "published": "Thu, 09 Jul 2026 11:38:54 +0000",
+        "summary": "Former Greater Manchester Mayor Andy Burnham is the frontrunner. If no rival emerges, he could become PM this month."
+      },
+      {
+        "title": "India floods sweep away thousands of gas cylinders",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/india-floods-sweep-away-thousands-of-gas-cylinders?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "published": "Thu, 09 Jul 2026 11:32:58 +0000",
+        "summary": "India floods sweep away thousands of gas cylinders"
+      },
+      {
+        "title": "Deadly US strikes trigger Iranian attacks on Gulf states",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/deadly-us-strikes-trigger-iranian-attacks-on-gulf-states?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "published": "Thu, 09 Jul 2026 11:23:34 +0000",
+        "summary": "The US military says it has struck 90 targets in Iran. Iran says it sent drone strikes on US-linked sites in the Gulf."
+      },
+      {
+        "title": "Iran prepares to bury slain leader Khamenei after mass funeral processions",
+        "link": "https://www.aljazeera.com/news/2026/7/9/iran-prepares-to-bury-slain-leader-khamenei-after-mass-funeral-ceremonies?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "published": "Thu, 09 Jul 2026 10:52:38 +0000",
+        "summary": "The late supreme leader will be buried in his hometown, the eastern holy city of Mashhad."
+      },
+      {
+        "title": "US strikes Iran for second night ΓÇô is the peace process all over now?",
+        "link": "https://www.aljazeera.com/news/2026/7/9/us-strikes-iran-for-second-night-is-the-peace-process-all-over-now?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "published": "Thu, 09 Jul 2026 10:49:40 +0000",
+        "summary": "Neither side has officially called off the interim peace agreement, despite the escalation."
+      },
+      {
+        "title": "UN probe finds mass killings, gang rapes by SudanΓÇÖs RSF amount to genocide",
+        "link": "https://www.aljazeera.com/news/2026/7/9/un-probe-finds-mass-killings-gang-rapes-by-sudans-rsf-amount-to-genocide?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "published": "Thu, 09 Jul 2026 10:19:12 +0000",
+        "summary": "UN Fact-Finding Mission found that the paramilitary&#039;s systematic campaign of violence in Darfur amounted to genocide."
+      },
+      {
+        "title": "Australia to begin selling uranium to India for peaceful purposes",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/australia-to-begin-selling-uranium-to-india-for-peaceful-purposes?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "published": "Thu, 09 Jul 2026 10:09:03 +0000",
+        "summary": "Australia to begin selling uranium to India for peaceful purposes"
+      },
+      {
+        "title": "Air raid sirens in Bahrain after uneasy night of US-Iran strikes",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/air-raid-sirens-in-bahrain-after-uneasy-night-of-us-iran-strikes?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "published": "Thu, 09 Jul 2026 10:06:58 +0000",
+        "summary": "After a tense night of overnight US-led strikes on Iran, air raid alerts sounded across Gulf states."
+      },
+      {
+        "title": "New attacks raise questions about what comes next in the Iran war",
+        "link": "https://apnews.com/article/trump-iran-war-ceasefire-strikes-c45111ed270afa7dac285016ce07362f",
+        "source": "AP News",
+        "published": "",
+        "summary": ""
+      },
+      {
+        "title": "US and Iran exchange intensifying fire across the Gulf",
+        "link": "https://apnews.com/article/iran-us-israel-war-oil-july-9-2026-0472764b119d7aa204de4f7f5e44a9bf",
+        "source": "AP News",
+        "published": "",
+        "summary": ""
+      },
+      {
+        "title": "Bitterly divided Iran grapples with KhameneiΓÇÖs legacy",
+        "link": "https://apnews.com/article/iran-war-khamenei-politics-religion-society-a9e0405878db8266e1965d7c0b396243",
+        "source": "AP News",
+        "published": "",
+        "summary": ""
+      },
+      {
+        "title": "Trump flies partway home from Turkey in an old Air Force One, not the new Qatari-gifted jet",
+        "link": "https://apnews.com/article/trump-air-force-one-nato-iran-qatar-6cb08dcb613a2d7f77d3b0a143f3b216",
+        "source": "AP News",
+        "published": "",
+        "summary": ""
+      },
+      {
+        "title": "E. Jean Carroll case, Platner to drop Senate bid, inside APΓÇÖs on-the-ground Ukraine coverage",
+        "link": "https://apnews.com/newsletter/morning-wire/july-9-2026",
+        "source": "AP News",
+        "published": "",
+        "summary": ""
+      },
+      {
+        "title": "Graham Platner plans to withdraw from Maine Senate race after sexual assault claim",
+        "link": "https://apnews.com/article/graham-platner-sexual-assault-maine-senate-campaign-a4c732f54ad999abcb73f1854351187f",
+        "source": "AP News",
+        "published": "",
+        "summary": ""
+      },
+      {
+        "title": "List grows of possible Platner replacements",
+        "link": "https://apnews.com/article/maine-senate-graham-platner-48d472ac4a043792032f3e3f5a33ef1b",
+        "source": "AP News",
+        "published": "",
+        "summary": ""
+      },
+      {
+        "title": "Republican grip on the Senate tightens with Democratic dysfunction in Maine",
+        "link": "https://apnews.com/article/maine-senate-platner-collins-0abe847799b9779d604425de03a914de",
+        "source": "AP News",
+        "published": "",
+        "summary": ""
+      }
+    ],
+    "tech-science": [
+      {
+        "title": "Payloads used to dictate the terms of launch. That's finally changing.",
+        "link": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
+        "source": "Ars Technica",
+        "published": "Thu, 09 Jul 2026 11:00:26 +0000",
+        "summary": "\"The Starship Pez dispenser demonstrates very smart industrial design and scale.\""
+      },
+      {
+        "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+        "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+        "source": "Ars Technica",
+        "published": "Wed, 08 Jul 2026 21:42:44 +0000",
+        "summary": "AI cheating leads to \"a failed society,\" professor says."
+      },
+      {
+        "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
+        "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
+        "source": "Ars Technica",
+        "published": "Wed, 08 Jul 2026 19:56:37 +0000",
+        "summary": "More young girls sue X over Grok CSAM; X accused of shielding child predators."
+      },
+      {
+        "title": "Judge rejects Kalshi attempt to override New York state gambling laws",
+        "link": "https://arstechnica.com/tech-policy/2026/07/new-york-can-restrict-sports-gambling-on-prediction-markets-us-judge-rules/",
+        "source": "Ars Technica",
+        "published": "Wed, 08 Jul 2026 19:14:02 +0000",
+        "summary": "Kalshi tried to ignore gambling laws on its prediction market, NY governor says."
+      },
+      {
+        "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+        "link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+        "source": "Ars Technica",
+        "published": "Wed, 08 Jul 2026 19:01:19 +0000",
+        "summary": "Both vulnerabilities allow untrusted users to gain root privileges."
+      },
+      {
+        "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
+        "link": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
+        "source": "Ars Technica",
+        "published": "Wed, 08 Jul 2026 18:10:16 +0000",
+        "summary": "But the devices could \"easily be reflashed.\""
+      },
+      {
+        "title": "TikTok users don't have as much agency over their FYPs as they think",
+        "link": "https://arstechnica.com/science/2026/07/how-much-control-do-tiktok-users-really-have-over-fyps/",
+        "source": "Ars Technica",
+        "published": "Wed, 08 Jul 2026 18:00:49 +0000",
+        "summary": "The \"not interested\" feature is your friend, but users must intentionally and constantly curate their FYPs"
+      },
+      {
+        "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
+        "link": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
+        "source": "Ars Technica",
+        "published": "Wed, 08 Jul 2026 17:44:54 +0000",
+        "summary": "US military drone losses in Iran war spur Pentagon call for cheap replacements."
+      },
+      {
+        "title": "SpaceX is on track for record-setting Starlink deployments",
+        "link": "https://www.theverge.com/news/963196/spacex-is-on-track-for-record-setting-starlink-deployments",
+        "source": "The Verge",
+        "published": "2026-07-09T07:51:31-04:002026-07-09T07:52:48-04:00",
+        "summary": "SpaceX is currently ahead of last year's record-setting pace for Starlink satellite deployments. SpaceX launched 1,589 Starlink satellites into low-Earth orbit in the first half of 2026, according to launch data compiled by Jonathan McDowell's satellite tracker, compared to 1,489 satellites deployed at the same point in 2025. 2025 was already a record year for [&#8230;]"
+      },
+      {
+        "title": "Meta is reportedly working on smart glasses that would be recording all the time",
+        "link": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+        "source": "The Verge",
+        "published": "2026-07-08T18:37:25-04:002026-07-08T18:37:25-04:00",
+        "summary": "Meta might be the next company to make an always-on AI wearable. The company is working on prototype \"super sensing\" always-aware smart glasses that could continuously record audio and snap photos \"every few seconds,\" according to the Financial Times. The wearer could then ask Meta AI about the captured audio and images. However, the images [&#8230;]"
+      },
+      {
+        "title": "Get a $30 credit when you reserve SamsungΓÇÖs upcoming Galaxy phones",
+        "link": "https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder",
+        "source": "The Verge",
+        "published": "2026-07-08T16:00:00-04:002026-07-08T15:45:38-04:00",
+        "summary": "Even though they havenΓÇÖt been officially announced yet, Samsung is giving you a chance to save some cash when you preorder what weΓÇÖre expecting to be the brandΓÇÖs updated Galaxy Z Fold phones. The next Galaxy Unpacked event will take place on July 22nd, 2026, and features the tagline ΓÇ£A new shape unfolds.ΓÇ¥ In addition [&#8230;]"
+      },
+      {
+        "title": "Microsoft&#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed",
+        "link": "https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs",
+        "source": "The Verge",
+        "published": "2026-07-08T14:50:27-04:002026-07-08T14:50:27-04:00",
+        "summary": "As part of Microsoft's big Xbox \"reset,\" which includes layoffs affecting 3,200 staffers, jettisoning studios, and shifting investments to focus on \"higher priority projects,\" Obsidian Entertainment is changing its plans. The studio, behind games like Grounded and The Outer Worlds, is starting work on a new Fallout title and has canceled \"multiple projects,\" including a [&#8230;]"
+      },
+      {
+        "title": "AmericaΓÇÖs cheapest new EV is smaller than a ping-pong table and tops out at 19mph",
+        "link": "https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty",
+        "source": "The Verge",
+        "published": "2026-07-08T13:57:53-04:002026-07-08T13:57:53-04:00",
+        "summary": "When searching for an affordable electric vehicle these days, there are always tradeoffs. How much range are you willing to sacrifice, how much leg room and storage space, how many features, in the pursuit of that magic sticker price that won't break the bank? The Fiat Topolino is basically the ultimate embodiment of those tradeoffs. [&#8230;]"
+      },
+      {
+        "title": "Cockroaches will learn to fear my SwitchBot Bot Rechargeable",
+        "link": "https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review",
+        "source": "The Verge",
+        "published": "2026-07-08T13:30:00-04:002026-07-07T14:07:04-04:00",
+        "summary": "A little robotic switch-flipper has become my sidekick in combating cockroaches. Before I got the SwitchBot Bot Rechargeable, I'd tiptoe through the dark every morning, hoping I wouldn't step on one of those terrible bugs scurrying around as I made my way to the light switch across the room. Now I'm ready for battle before [&#8230;]"
+      },
+      {
+        "title": "If Microsoft sold off Xbox, who would even buy it?",
+        "link": "https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma",
+        "source": "The Verge",
+        "published": "2026-07-08T13:10:05-04:002026-07-08T13:13:07-04:00",
+        "summary": "This week, Microsoft took a huge ax to its Xbox business. The company announced that it would be laying off 1,600 workers now, 1,600 more over the next fiscal year, and that it would be shedding four studios. Xbox CEO Asha Sharma hasn't been shy about why she's making such dramatic cuts, saying in a [&#8230;]"
+      },
+      {
+        "title": "Twelve SouthΓÇÖs AirFly Pro is a great travel companion, and it&#8217;s on sale for $40",
+        "link": "https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale",
+        "source": "The Verge",
+        "published": "2026-07-08T13:09:28-04:002026-07-08T13:09:28-04:00",
+        "summary": "If you&#8217;ve got a summer trip coming up, the last-gen Twelve South AirFly Pro is one of those gadgets that can make a long flight feel a little shorter. It lets you use your wireless headphones with in-flight entertainment systems, and right now itΓÇÖs on sale for $39.99 ($15 off) at Amazon. That&#8217;s the best [&#8230;]"
+      },
+      {
+        "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+        "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+        "source": "Hacker News",
+        "published": "Wed, 08 Jul 2026 23:37:43 +0000",
+        "summary": "Comments"
+      },
+      {
+        "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
+        "link": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+        "source": "Hacker News",
+        "published": "Thu, 09 Jul 2026 10:02:33 +0000",
+        "summary": "Comments"
+      },
+      {
+        "title": "Spider venom kills varroa mites without harming honeybees",
+        "link": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+        "source": "Hacker News",
+        "published": "Thu, 09 Jul 2026 05:14:45 +0000",
+        "summary": "Comments"
+      },
+      {
+        "title": "Meta reuses old RAM in new servers with custom bridge chip",
+        "link": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+        "source": "Hacker News",
+        "published": "Fri, 03 Jul 2026 19:27:05 +0000",
+        "summary": "Comments"
+      },
+      {
+        "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+        "link": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+        "source": "Hacker News",
+        "published": "Thu, 09 Jul 2026 08:22:52 +0000",
+        "summary": "Comments"
+      },
+      {
+        "title": "In-browser programmable robot simulator",
+        "link": "https://bittlex-sim.petoi.com/",
+        "source": "Hacker News",
+        "published": "Sat, 04 Jul 2026 09:41:30 +0000",
+        "summary": "Comments"
+      },
+      {
+        "title": "I Built the Only 2026 WWII Jeep",
+        "link": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
+        "source": "Hacker News",
+        "published": "Tue, 07 Jul 2026 05:38:26 +0000",
+        "summary": "Comments"
+      },
+      {
+        "title": "My Thoughts on the Bun Rust Rewrite",
+        "link": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+        "source": "Hacker News",
+        "published": "Thu, 09 Jul 2026 09:47:28 +0000",
+        "summary": "Comments"
+      },
+      {
+        "title": "Is Life Just Different?",
+        "link": "https://www.quantamagazine.org/is-life-just-different-20260708/",
+        "source": "Quanta Magazine",
+        "published": "Wed, 08 Jul 2026 14:21:36 +0000",
+        "summary": "The idea of ΓÇÿbiological agencyΓÇÖ ΓÇö that life devises its own goals and behaves accordingly ΓÇö complicates our understanding of what it means to be alive. But does it serve a scientific purpose?             The post Is Life Just Different? first appeared on Quanta Magazine"
+      },
+      {
+        "title": "Researchers Reveal the Power of ΓÇÿQuantum ProofsΓÇÖ",
+        "link": "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/",
+        "source": "Quanta Magazine",
+        "published": "Mon, 06 Jul 2026 14:33:56 +0000",
+        "summary": "When checking that solutions to certain problems are correct, it turns out, you canΓÇÖt get around the inherent complexity of the quantum world.             The post Researchers Reveal the Power of ΓÇÿQuantum ProofsΓÇÖ first appeared on Quanta Magazine"
+      },
+      {
+        "title": "Astrophysicists Puzzle Over WebbΓÇÖs New Universe",
+        "link": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+        "source": "Quanta Magazine",
+        "published": "Thu, 02 Jul 2026 14:57:31 +0000",
+        "summary": "Faced with observations of early black holes and galaxies that werenΓÇÖt expected to exist, scientists have come up with a wealth of new theories to explain them. Now they just need to figure out which ones are true.            The post Astrophysicists Puzzle Over WebbΓÇÖs New Universe first appeared on Quanta Magazine"
+      },
+      {
+        "title": "For the First Time, a Cell Built From Scratch Grows and Divides",
+        "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+        "source": "Quanta Magazine",
+        "published": "Wed, 01 Jul 2026 14:00:02 +0000",
+        "summary": "Scientists built a synthetic cell that combines more lifelike properties than ever before ΓÇö proof of concept that itΓÇÖs possible to bring nonliving materials to life, or something close to it, in the lab.            The post For the First Time, a Cell Built From Scratch Grows and Divides first appeared on Quanta Magazine"
+      },
+      {
+        "title": "What Breaks a CellΓÇÖs Ribs Can Make It Stronger",
+        "link": "https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629/",
+        "source": "Quanta Magazine",
+        "published": "Mon, 29 Jun 2026 14:00:09 +0000",
+        "summary": "The mechanical process of cell division exerts powerful, if microscopic, forces. How do the molecular machines that power it manage the strain?            The post What Breaks a CellΓÇÖs Ribs Can Make It Stronger first appeared on Quanta Magazine"
+      }
+    ],
+    "anime": [
+      {
+        "title": "Mirmo de Pon! New Manga Ends, Gets 'Season 2,' Side Story",
+        "link": "https://www.animenewsnetwork.com/news/2026-07-09/mirmo-de-pon-new-manga-ends-gets-season-2-side-story/.239382",
+        "source": "Anime News Network",
+        "published": "Thu, 09 Jul 2026 03:39:53 -0400",
+        "summary": "Latest manga of Hiromu Shinozuka's Mirmo de Pon! series launched on March 3"
+      },
+      {
+        "title": "Live-Action Koi o Suru Nara Nidome ga J┼ìt┼ì Series Gets 2nd Season",
+        "link": "https://www.animenewsnetwork.com/news/2026-07-09/live-action-koi-o-suru-nara-nidome-ga-joto-series-gets-2nd-season/.239408",
+        "source": "Anime News Network",
+        "published": "Thu, 09 Jul 2026 02:22:27 -0400",
+        "summary": "Makoto Hasegawa, Robin Furuya reprise roles in 2nd season debuting in September 1"
+      },
+      {
+        "title": "New Director of Black Clover Season 2 Delivers on Tabata's Wish for 'Extra Cool' Battles",
+        "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/new-director-of-black-clover-season-2-delivers-on-tabata-wish-for-extra-cool-battles/.239392",
+        "source": "Anime News Network",
+        "published": "Tue, 07 Jul 2026 18:30:00 -0400",
+        "summary": "Director Tanemura himself commented, ΓÇ£I'm very happy with what I saw, and it's hard to believe I made that. That was me.ΓÇ¥"
+      },
+      {
+        "title": "Everyday Host Anime Sequel Series to Premiere in January 2027",
+        "link": "https://www.animenewsnetwork.com/news/2026-07-07/everyday-host-anime-sequel-series-to-premiere-in-january-2027/.239388",
+        "source": "Anime News Network",
+        "published": "Tue, 07 Jul 2026 13:46:13 -0400",
+        "summary": "Musical stage play also announced"
+      },
+      {
+        "title": "Shangri-La Frontier Anime Season 3 Streams New Teaser",
+        "link": "https://www.animenewsnetwork.com/news/2026-07-07/shangri-la-frontier-anime-season-3-streams-new-teaser/.239394",
+        "source": "Anime News Network",
+        "published": "Tue, 07 Jul 2026 13:35:53 -0400",
+        "summary": "Series premieres in January 2027"
+      },
+      {
+        "title": "Naruto Shippuden: The Kazekage's Rescue (Telugu Dub) - Episode 1 - Homecoming",
+        "link": "http://www.crunchyroll.com/watch/G4VUWQ1WG/homecoming",
+        "source": "Crunchyroll new releases",
+        "published": "Mon, 06 Jul 2026 01:30:00 GMT",
+        "summary": "A figure passes through the gates. ItΓÇÖs an older Naruto, who has returned from a long training journey with Jiraiya. Naruto Uzumaki is back!"
+      }
+    ],
+    "comedy": [
+      {
+        "title": "#663 2C or Not 2C",
+        "link": "https://2218a635-1d78-4a47-a42f-37c1d7825f1d.libsyn.com/663-tbd",
+        "source": "Mark Normand - Tuesdays with Stories",
+        "published": "Tue, 07 Jul 2026 01:00:00 +0000",
+        "summary": "Joe deals with a human speed bump on his trip! Mark comes out with a new plan for flying with a plump middle-seater! It's Tuesdays! Our Stuff: - https://www.patreon.com/tuesdays - youtube.com/tuesdayswithstories - https://www.tuesdayspod.com ┬á -Upgrade your workout wardrobe. Sign up as a VIP & get 70-80% off everything at https://fabletics.com/TUESDAYS"
+      },
+      {
+        "title": "#662 Handy Nasty",
+        "link": "https://2218a635-1d78-4a47-a42f-37c1d7825f1d.libsyn.com/662-tbd",
+        "source": "Mark Normand - Tuesdays with Stories",
+        "published": "Tue, 30 Jun 2026 01:00:00 +0000",
+        "summary": "It's taking over the nation - the boys are talking SOCCER baby!┬á A selfish fan tries to cancel on Joe! Mark goes out on a limb with a new jacket and the heckles come flushing in! It's Tuesdays! Our Stuff: ┬á - https://www.patreon.com/tuesdays ┬á┬á - youtube.com/tuesdayswithstories - https://www.tuesdayspod.com - For a limited time only, Tuesdays with Stories fans get 20% off + free shipping by using code TUESDAYS at checkout at http://blueprint.bryanjohnson.com ┬á#Blueprint #ad┬á - Sheath. The underwear of legends. Go to https://www.sheath.com/TUESGAYS ┬áand use code TUESGAYS for 20% off."
+      },
+      {
+        "title": "#661 Busker Keaton",
+        "link": "https://2218a635-1d78-4a47-a42f-37c1d7825f1d.libsyn.com/661-busker-keaton",
+        "source": "Mark Normand - Tuesdays with Stories",
+        "published": "Tue, 23 Jun 2026 01:00:00 +0000",
+        "summary": "Joe spends a night with one of the most prolific directors of all time! Mark has a big take on America's Funniest Home Videos, and Joe has a good time with Marc Maron, Jordan Jensen and Margo Price. It's Tuesdays!┬á Our Stuff: - https://www.patreon.com/tuesdays ┬á- youtube.com/tuesdayswithstories ┬á- https://www.tuesdayspod.com ┬á- Don't sleep on @ultrapouches. New customers get 15% off with code TUESDAYS at http://takeultra.com #UltraPouches #ad ┬á- Get 20% off your first 6 months of Quo business communications at http://Quo.com/TUESDAYS ┬á- Buy 2 months of BlueChew Gold & get your 3rd month FREE when you use promo code TUESDAYS @ http://BlueChew.com/ ┬á- Upgrade your workout wardrobe. Sign up as a VIP & get 70-80% off everything at https://fabletics.com/TUESDAYS"
+      },
+      {
+        "title": "#660 Travel Hacks",
+        "link": "https://2218a635-1d78-4a47-a42f-37c1d7825f1d.libsyn.com/660-travel-hacks",
+        "source": "Mark Normand - Tuesdays with Stories",
+        "published": "Tue, 16 Jun 2026 01:00:00 +0000",
+        "summary": "Mark double books the show in Canada! Where in the world was Joe List? All over the UK! How often does he get taken advantage of financially? More than you'd expect! It's Tuesdays! ┬áOur Stuff: -┬áhttps://www.patreon.com/tuesdays - youtube.com/tuesdayswithstories - https://www.tuesdayspod.com ┬á - For free shipping on your order & 365-day returns go to https://www.Quince.com/tuesdays - Save 20% on your first online order at http://lucy.co/TUESDAYS with promo code TUESDAYS. - Support the show & sign up for your $1/month trial of Shopify. Head to https://www.shopify.com/tuesdays"
+      },
+      {
+        "title": "#659 Power Manger",
+        "link": "https://2218a635-1d78-4a47-a42f-37c1d7825f1d.libsyn.com/659-power-manger",
+        "source": "Mark Normand - Tuesdays with Stories",
+        "published": "Tue, 09 Jun 2026 01:00:00 +0000",
+        "summary": "Joe and Mark are getting ΓÇª religious! Who's God? Is he Jesus? What about Superman? We're talking behind the scenes of the Netflix Is a Joke fest and Joe's time at TD Garden! The boys are spilling their guts ladies and gentlemen. It's Tuesdays! Our Stuff: ┬á - https://www.patreon.com/tuesdays ┬á┬á - youtube.com/tuesdayswithstories - https://www.tuesdayspod.com - Upgrade your workout wardrobe. Sign up as a VIP & get 70-80% off everything at https://fabletics.com/TUESDAYS - ┬áBuy 2 months of BlueChew Gold & get your 3rd month FREE when you use promo code TUESDAYS @ http://BlueChew.com/ - Support the show & get 30% off SITEWIDE for Father's Day at https://www.sheathunderwear.com"
+      },
+      {
+        "title": "#658 Carrey the Zero",
+        "link": "https://2218a635-1d78-4a47-a42f-37c1d7825f1d.libsyn.com/658-carrey-the-zero",
+        "source": "Mark Normand - Tuesdays with Stories",
+        "published": "Tue, 02 Jun 2026 01:00:00 +0000",
+        "summary": "The boys are in California talking about the big Netflix Fest. Where does Joe want to move next? How does Mark sh*t? What are these boys up to at the fest? It's Tuesdays! Video and Audio by Matt Salacuse Our Stuff: ┬á - https://www.patreon.com/tuesdays ┬á┬á - youtube.com/tuesdayswithstories - https://www.tuesdayspod.com - Support the show & get 20% off your 1st Sheath order with code TUESGAYS at https://www.sheathunderwear.com - Upgrade your workout wardrobe. Sign up as a VIP & get 70-80% off everything at https://fabletics.com/TUESDAYS - ┬áSupport the show & sign up for your $1/month trial of Shopify. Head to https://www.shopify.com/tuesdays"
+      },
+      {
+        "title": "#657 Live in LA w/ Bill Burr, Greg Fitzsimmons & Fahim Anwar",
+        "link": "https://2218a635-1d78-4a47-a42f-37c1d7825f1d.libsyn.com/657-live-in-la-w-bill-burr-greg-fitzsimmons-fahim-anwar",
+        "source": "Mark Normand - Tuesdays with Stories",
+        "published": "Tue, 26 May 2026 01:00:00 +0000",
+        "summary": "Mark and Joe are coming in HOT live from LA with Bill Burr, Greg Fitzsimmons & Fahim Anwar! Big thanks to Jason Katz for filming. It's Tuesdays! Our Stuff: - http://www.patreon.com/tuesdays - youtube.com/tuesdayswithstories ┬á-Upgrade your workout wardrobe. Sign up as a VIP & get 70-80% off everything at https://fabletics.com/TUESDAYS ┬á-Don't sleep on @ultrapouches. New customers get 15% off with code TUESDAYS at http://takeultra.com #UltraPouches #ad -Buy 2 months of BlueChew Gold & get your 3rd month FREE when you use promo code TUESDAYS @ http://BlueChew.com/"
+      },
+      {
+        "title": "#656 Whore-nado",
+        "link": "https://2218a635-1d78-4a47-a42f-37c1d7825f1d.libsyn.com/656-whore-nado",
+        "source": "Mark Normand - Tuesdays with Stories",
+        "published": "Tue, 19 May 2026 01:00:00 +0000",
+        "summary": "It's a kooky one folks! We're talking monster trucks, garbage ladies, and celebrity alcohols. Plus Joe gets a depressing, complete stop to his show when an audience member drops a bomb on him! It's Tuesdays Our Stuff: - http://www.patreon.com/tuesdays - youtube.com/tuesdayswithstories - For free shipping on your order & 365-day returns go to https://www.Quince.com/tuesdays - Save 20% on your first online order at http://lucy.co/TUESDAYS with promo code TUESDAYS - Support the show & sign up for your $1/month trial of Shopify. Head to https://www.shopify.com/tuesdays - Get 20% off your first 6 months of Quo business communications at http://Quo.com/TUESDAYS"
+      },
+      {
+        "title": "474: Liz and Myq Give Advice",
+        "link": "https://hangoutwithme.libsyn.com/474-liz-and-myq-give-advice",
+        "source": "Myq Kaplan - Hang Out With Me",
+        "published": "Thu, 24 Dec 2020 23:11:23 +0000",
+        "summary": "Liz Glazer is my wonderful friend. I'm my wonderful me. Together, we make a team of people who talk to each other every Wednesday on Instagram. This week I recorded us for this podcast, which we're calling (for now) \"Liz and Myq Give Advice.\" We do that. Mostly to me. But also to other people! Like you in the future? Thanks for listening if you want to!"
+      },
+      {
+        "title": "473: Don't Rock the Cazh Boat (Or Do If You Want, Totally Cazh Here)",
+        "link": "https://hangoutwithme.libsyn.com/473-dont-rock-the-cazh-boat-or-do-if-you-want-totally-cazh-here",
+        "source": "Myq Kaplan - Hang Out With Me",
+        "published": "Sat, 31 Oct 2020 20:04:47 +0000",
+        "summary": "On today's Hang Out With Me, Myq appreciates that you are here, discusses the alphabet, encourages folks to vote, and as always, wonders why people continue to download a podcast that doesn't exist? There hasn't been a podcast here in twoooooooo years! Happy Halloween!"
+      },
+      {
+        "title": "472: All My Podcasts",
+        "link": "https://hangoutwithme.libsyn.com/472-all-my-podcasts",
+        "source": "Myq Kaplan - Hang Out With Me",
+        "published": "Mon, 12 Oct 2020 22:31:39 +0000",
+        "summary": "Today, Myq continues his investigation of why you, the listener, are here, continuing to listen to a podcast that stopped being produced several years ago, but now is rising from the dead much like a [whatever dead-riser suits your tastes]. Please enjoy, and let me know why you're here! And thanks for considering listening to The Faucet, and Broccoli and Ice Cream, two of Myq's podcasts which ARE currently being produced and perpetuated sincerely on a weekly-plus basis! You're nice, thank you!"
+      },
+      {
+        "title": "471: The Center of the Night",
+        "link": "https://hangoutwithme.libsyn.com/471-the-center-of-the-night",
+        "source": "Myq Kaplan - Hang Out With Me",
+        "published": "Wed, 23 Sep 2020 06:11:04 +0000",
+        "summary": "Today, Myq asks why everyone is here as it gets later and later into the night. He's happy that you're here. He's also simply curious. There hasn't been a podcast here in *spooky ghost voice* THIRTY MONTHS! And yet you are still listening. Much gratitude. And curiosity! Please enjoy, if you dare!"
+      },
+      {
+        "title": "470: For Your #GramMYQ Consideration",
+        "link": "https://hangoutwithme.libsyn.com/470-for-your-grammyq-consideration",
+        "source": "Myq Kaplan - Hang Out With Me",
+        "published": "Tue, 15 Sep 2020 04:43:14 +0000",
+        "summary": "On the latest episode of \"Why are you still listening to this podcast that doesn't exist anymore? Ok, it still kind of does,\" Myq shares today's exciting announcement: His latest standup album \"A.K.A.\" has been submitted to be considered to be nominated for a Best Comedy Album Grammy┬«! As they say, it's an honor to be submitted to be considered to be nominated. Thanks for listening and spreading the good #GramMYQ word!"
+      },
+      {
+        "title": "469: Are you still here? Go listen to the Faucet! Ok fine listen to this one, too.",
+        "link": "https://hangoutwithme.libsyn.com/469-are-you-still-here-go-listen-to-the-faucet-ok-fine-listen-to-this-one-too",
+        "source": "Myq Kaplan - Hang Out With Me",
+        "published": "Tue, 08 Sep 2020 04:16:35 +0000",
+        "summary": "This is Myq's old podcast. The last episode came out in 2018. Until last week. The Faucet is Myq's new podcast. He started releasing them this year, and wants everyone to know it. Myq just learned recently that people are still downloading THIS old podcast, despite there being no new episodes in 2.5 years. So, he's releasing new episodes here to encourage people to listen to his other podcasts, the Faucet and Broccoli & Ice Cream. So if you're here, go there! And thanks! Enjoy what you enjoy!"
+      },
+      {
+        "title": "468: Listen to my NEW new podcast called The Faucet!",
+        "link": "https://hangoutwithme.libsyn.com/468-listen-to-my-new-new-podcast-called-the-faucet",
+        "source": "Myq Kaplan - Hang Out With Me",
+        "published": "Mon, 31 Aug 2020 21:54:03 +0000",
+        "summary": "In 2012, this podcast began. In 2018, this podcast un-began. In 2018, the new Myq Kaplan podcast  Broccoli and Ice Cream began. In 2020, Myq realized that people were still downloading and listening to THIS podcast, so it UN-unbegan. It's back! At least this once. If only to let you know, there's a NEW new podcast as of this year, 2020! It's called  The Faucet and I invite you to listen!"
+      },
+      {
+        "title": "467: Listen To My New Podcast - Broccoli and Ice Cream",
+        "link": "https://hangoutwithme.libsyn.com/466-listen-to-my-new-podcast-broccoli-and-ice-cream-0",
+        "source": "Myq Kaplan - Hang Out With Me",
+        "published": "Mon, 02 Apr 2018 14:00:00 +0000",
+        "summary": "Myq hangs out with Andrea Allan on the KATG Network"
+      },
+      {
+        "title": "RIDICULOUS - 2026 Special - Trailer #1",
+        "link": "https://www.youtube.com/watch?v=hTRH2YwzAB4",
+        "source": "Louis CK (YouTube)",
+        "published": "2026-06-16T15:03:44+00:002026-06-19T21:29:42+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Order 'Ingram' Now For Christmas",
+        "link": "https://www.youtube.com/shorts/zKDgxkJ0zBU",
+        "source": "Louis CK (YouTube)",
+        "published": "2025-12-20T00:50:00+00:002026-06-18T02:11:58+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Adrienne Iapalucci set from Louis CK: Back to the Garden (1/28/2023)",
+        "link": "https://www.youtube.com/watch?v=C3Zd7x5gwG8",
+        "source": "Louis CK (YouTube)",
+        "published": "2024-11-12T13:34:16+00:002026-05-04T23:49:32+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Homelessness (from Louis CK: Back to The Garden)",
+        "link": "https://www.youtube.com/watch?v=vd8DfFp5ono",
+        "source": "Louis CK (YouTube)",
+        "published": "2024-02-01T18:25:48+00:002026-05-04T05:44:05+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Jesus and the Fig Tree (from Louis CK: Back to The Garden)",
+        "link": "https://www.youtube.com/watch?v=nyuQjNCpqEI",
+        "source": "Louis CK (YouTube)",
+        "published": "2024-02-01T18:23:37+00:002026-04-30T02:03:30+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Travel / Zoo (Outtake from Louis C.K. at The Dolby)",
+        "link": "https://www.youtube.com/watch?v=UdCpgrF6Txw",
+        "source": "Louis CK (YouTube)",
+        "published": "2023-04-11T17:11:22+00:002026-04-22T01:20:27+00:00",
+        "summary": ""
+      },
+      {
+        "title": "92% (Outtake from Louis C.K. at The Dolby)",
+        "link": "https://www.youtube.com/watch?v=GQ1vEb8d0UE",
+        "source": "Louis CK (YouTube)",
+        "published": "2023-04-11T17:09:53+00:002026-05-28T19:45:25+00:00",
+        "summary": ""
+      },
+      {
+        "title": "Abortion by Louis C.K.",
+        "link": "https://www.youtube.com/watch?v=5XchZEx2SP0",
+        "source": "Louis CK (YouTube)",
+        "published": "2023-04-02T22:29:01+00:002026-05-05T10:52:10+00:00",
+        "summary": ""
+      }
+    ],
+    "podcast": [
+      {
+        "title": "Episode 335: The Wright Stuff",
+        "link": "https://78700ea2-cdf8-41c6-b616-fd5f05b760d7.libsyn.com/episode-336-the-wright-stuff",
+        "source": "Very Bad Wizards",
+        "published": "Tue, 30 Jun 2026 22:06:00 +0000",
+        "summary": "The great Robert Wright returns to the podcast to talk about his new book The God Test: Artificial Intelligence and Our Coming Cosmic Reckoning. We debate the magnitude of AI's potential impact, the natural selection analogy Bob presses in the book, and a whole lot more. Plus, a new AI-powered collar can translate your pet's sounds and behavior into language with 95% accuracy! Still skeptical about the power of this new technology Tamler?┬á  AI Pet Translator [dexerto.com] The God Test by Robert Wright [amazon.com affiliate link]"
+      },
+      {
+        "title": "Episode 334: Let's Get Metaphysical",
+        "link": "https://78700ea2-cdf8-41c6-b616-fd5f05b760d7.libsyn.com/lets-get-metaphysical",
+        "source": "Very Bad Wizards",
+        "published": "Tue, 16 Jun 2026 20:00:00 +0000",
+        "summary": "What are the legitimate ways to inquire about the nature of the universe? We have science, metaphysics, phenomenological inquiry, but what about mystical and meditative practices? David and Tamler talk about a paper that argues for allowing mystical insight into our broader search for insight into fundamental reality. Plus, since the dawn of time man has wondered why people act like simps ΓÇô we look at a study that operationalizes simping behavior and offers a theory for how it evolves.┬á┬á Ho, D., Tan, K., Li, N. P., & Sim, L. (2026).┬áThe (Simp)le Truth About Excessive and Obsessive Romantic Behaviors in Men. Journal of personality, 10.1111/jopy.70082. Advance online publication. https://doi.org/10.1111/jopy.70082 Albahari, M. (2019).  The mystic and the metaphysician: Clarifying the role of meditation in the search for ultimate reality. Journal of Consciousness Studies, 26(7-8), 12-36."
+      },
+      {
+        "title": "Episode 333: P-hacking the Mind",
+        "link": "https://78700ea2-cdf8-41c6-b616-fd5f05b760d7.libsyn.com/episode-333-p-hacking-the-mind",
+        "source": "Very Bad Wizards",
+        "published": "Tue, 26 May 2026 15:00:00 +0000",
+        "summary": "David and Tamler do another tier ranking--this time on philosophical thought experiments, so as not to further alienate our chemistry-adjacent listeners. We hit most of the big ones: Pascal's wager, Pascal's mugging, Mary the color scientist, the Ring of Gyges, Jarvis Thomson's violinist, the experience machine, the utility monster, and a lot more. Can you guess our grade for the trolley dilemma?  The Chinese Room (Searle) [wikipedia.org] Descartes' Evil Demon (Descartes) [wikipedia.org] The Experience Machine (Nozick) [wikipedia.org] Mary the Color Scientist (F. Jackson) [wikipedia.org] Pascal's Mugging (Yudkowsky/Bostrom) [wikipedia.org] Pascal's Wager (Pascal) [wikipedia.org] The Ring of Gyges (Plato) [wikipedia.org] The Shallow Pond (Singer) [wikipedia.org] The Ship of Theseus (Hobbes) [wikipedia.org] The Trolley Problem (Philippa Foot/J.J. Thomson) [wikipedia.org] The Utility Monster (Nozick) [wikipedia.org] The Veil of Ignorance (Rawls) ┬á[wikipedia.org] The Violinist (J.J. Thomson) [wikipedia.org]"
+      },
+      {
+        "title": "Episode 332: Talking to Myself (\"The Other\" by Jorge Luis Borges)",
+        "link": "https://78700ea2-cdf8-41c6-b616-fd5f05b760d7.libsyn.com/episode-332-talking-to-myself-the-other-by-jorge-luis-borges",
+        "source": "Very Bad Wizards",
+        "published": "Tue, 12 May 2026 22:11:00 +0000",
+        "summary": "David and Tamler talk about Jorge Luis Borges' disorienting short story \"The Other.\" A 70-year-old Borges sits on a bench by the Charles River and who should he encounter but himself as a 19-year-old, by the Rh├┤ne River in 1918 Geneva. Is this a dream? Who is dreaming it? What does the Heraclitean river metaphor reveal about this impossible meeting? (Stick around after the closing music, David reads the story in English and in Spanish.) ┬á Plus Richard Dawkins has a memorable encounter of his own, but with his AI Claudia (n├⌐e Claude). If you think AI isn't conscious then how do you explain Claudia's rapturous and penetrating insight into Dawkins' unpublished novel? ┬á  When Dawkins met Claude: Could this AI be conscious? (paywalled) [unherd.com]  Unpaywalled at archive.org┬á  The Other by Jorge Luis Borges┬á[wikipedia.org] The Collected Fictions of Jorge Luis Borges trans. by Andrew Hurley [amazon.com affiliate link]"
+      },
+      {
+        "title": "Episode 331: Who's Your Law Daddy? (Plato's \"Crito\")",
+        "link": "https://78700ea2-cdf8-41c6-b616-fd5f05b760d7.libsyn.com/episode-331-whos-your-law-daddy-platos-crito",
+        "source": "Very Bad Wizards",
+        "published": "Tue, 28 Apr 2026 19:14:00 +0000",
+        "summary": "In another Back 2 Basics episode, David and Tamler talk about Plato's \"Crito,\" a dialogue that takes place two days before Socrates' death by hemlock. His friend Crito wants him to escape, but Socrates will only agree if they judge that it's the right thing to do. One imagined debate between him and the Laws of Athens later, Socrates decides to accept his punishment. Plus we open with \"Contrarian Corner\" (Cinema Edition), in which we list our top 3 movies where we just don't understand all the love. ┬á ┬á Crito (Plato's Dialogue) [wikipedia.org]"
+      },
+      {
+        "title": "Episode 330: A Fact-Based Podcast (Gogol's \"The Overcoat\")",
+        "link": "https://78700ea2-cdf8-41c6-b616-fd5f05b760d7.libsyn.com/episode-330-a-fact-based-podcast-gogols-the-overcoat",
+        "source": "Very Bad Wizards",
+        "published": "Tue, 14 Apr 2026 18:57:00 +0000",
+        "summary": "David and Tamler return to the strange world of Nikolai Gogol and discuss his absurdist masterpiece \"The Overcoat,\" a story that both┬ácalls for and steadfastly resists interpretation. But first we┬ádiscuss a forthcoming Phil Studies article \"Philosophy as Fact-Based┬áDiscipline: 200 Philosophical Facts.\" Wait until you hear what they┬áare. Frances, B. (2026).┬áPhilosophy as fact-based discipline: 200 philosophical facts. Philosophical Studies, 183(2), 551-581. [springer.com] The Overcoat by Nikolai Gogol┬á[wikipedia.org]"
+      },
+      {
+        "title": "Episode 329: Why We Suffer",
+        "link": "https://78700ea2-cdf8-41c6-b616-fd5f05b760d7.libsyn.com/episode-329-why-we-suffer",
+        "source": "Very Bad Wizards",
+        "published": "Tue, 31 Mar 2026 22:34:00 +0000",
+        "summary": "David and Tamler return to the work of Richard Shweder and colleagues, focusing this time on his foundational paper \"The \"Big Three\" of Morality (Autonomy, Community, Divinity) and the \"Big Three\" Explanations of Suffering. What are the various ways that people explain suffering and illness across cultures? What do we lose when we only emphasize biomedical explanations? Why can't social psychology be more like this? Plus a new Chalmers (not that one) paper argues that monogamy is impermissible. Hello ladies!  Join at the right Patreon tier and vote on an episode topic! ┬á[patreon.com] Chalmers, H. (2019).┬á  Is monogamy morally permissible?. The Journal of Value Inquiry, 53(2), 225-241. Harry Chalmers'  Substack post on Monogamy┬á Shweder, R. A., Much, N. C., Mahapatra, M., & Park, L. (1997). The \"big three\" of morality (autonomy, community, and divinity) and the \"big three\" explanations of suffering. In A. Brandt & P. Rozin (Eds.), Morality and health (pp. 119ΓÇô169). Routledge."
+      },
+      {
+        "title": "Episode 328: Weapons Free",
+        "link": "https://78700ea2-cdf8-41c6-b616-fd5f05b760d7.libsyn.com/episode-328-weapons-free",
+        "source": "Very Bad Wizards",
+        "published": "Tue, 17 Mar 2026 20:18:00 +0000",
+        "summary": "David and Tamler cross the border into Denis Villeneuve's taut and┬ápropulsive thriller Sicario, the story of an FBI agent who gets pulled into a task force drawn from the shadiest elements of the US government. The assignment: to disrupt, infiltrate, and take down a major Mexican cartel. But what's the deal with Alejandro, and who does he work for? This is Roger Deakins in God mode and Villeneuve, Emily Blunt, Josh Brolin, and Benicio Del Toro at the very top of their games. Plus, we select 16 topics from the hundreds submitted by our beloved patrons for VBW Madness 2, a tournament to determine what we discuss on the listener selected episode. Join the VBW Patreon to vote on the winner! Sicario [wikipedia.org]"
+      },
+      {
+        "title": "#484 ΓÇö Artificial Intimacy",
+        "link": "https://wakingup.libsyn.com/484-artificial-intimacy",
+        "source": "Sam Harris - Making Sense",
+        "published": "Wed, 08 Jul 2026 17:35:00 +0000",
+        "summary": "Sam Harris speaks with Paul Bloom about our relationships with AI and the future of human connection. They discuss the surprising pace of AI progress, AI companions as a remedy for loneliness, the importance of mattering to other people, digitally resurrecting the dead, whether AI can be conscious, the moral failings of artists, what science actually knows about parenting, the ethics of apology, why late converts from Trump provoke outrage, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe."
+      },
+      {
+        "title": "#483 ΓÇö The Knots We Tie Ourselves Into",
+        "link": "https://wakingup.libsyn.com/483-the-knots-we-tie-ourselves-into",
+        "source": "Sam Harris - Making Sense",
+        "published": "Wed, 01 Jul 2026 17:00:00 +0000",
+        "summary": "Sam Harris speaks with Alain de Botton about the psychology of unhappiness, the secular world's discomfort with ecstasy and ritual, psychedelics as a tool for self-discovery, Freud's legacy, AI as the ultimate mirror, the case against meritocracy, the cancel culture purity trap, the psychological meaning of death, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe."
+      },
+      {
+        "title": "#482 ΓÇö More From Sam: The Iran Deal, College in the AI Age, Mamdani's DSA, and More",
+        "link": "https://wakingup.libsyn.com/482-more-from-sam-the-iran-deal-college-in-the-ai-age-mamdanis-dsa-and-more",
+        "source": "Sam Harris - Making Sense",
+        "published": "Thu, 25 Jun 2026 18:10:00 +0000",
+        "summary": "In this latest episode of the More From Sam series, Sam and Jaron talk about current events. They discuss topics from Making Sense Community, including one-world government, the value of a degree as AI reshapes careers, and factory farming ethics, along with Mamdani's DSA-aligned candidates, Trump's humiliating capitulation in the Iran deal, the Tulsi Gabbard guru story, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe."
+      },
+      {
+        "title": "#481 ΓÇö Sam Harris Receives the 2026 Richard Dawkins Award",
+        "link": "https://wakingup.libsyn.com/481-sam-harris-receives-the-2026-richard-dawkins-award",
+        "source": "Sam Harris - Making Sense",
+        "published": "Wed, 17 Jun 2026 16:55:00 +0000",
+        "summary": "Richard Dawkins presents Sam Harris with the 2026 Richard Dawkins Award at a live Center for Inquiry event. After the tribute, the two friends discuss consciousness and epiphenomenalism, AI and the Turing test, the scientific basis of morality, the failures of democracy and Trump's corruption, the role of philosophy, changing deeply held beliefs, Sam's path to meditation, the legacy of Christopher Hitchens, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe."
+      },
+      {
+        "title": "#480 ΓÇö The Economics of Everything",
+        "link": "https://wakingup.libsyn.com/480-the-economics-of-everything",
+        "source": "Sam Harris - Making Sense",
+        "published": "Fri, 12 Jun 2026 17:15:00 +0000",
+        "summary": "Sam Harris speaks with economist and Substack writer Noah Smith about the U.S. national debt, wealth inequality, and the economic consequences of AI. They discuss the mechanics of debt and inflation, the case for fiscal austerity, why the U.S. squandered low interest rates, modern monetary theory, how AI may restructure labor and ownership, the anti-billionaire politics of the American left, the degrowth movement and its failures, demographic decline and fertility trends, the role of smartphones in eroding democratic culture, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe."
+      },
+      {
+        "title": "#479 ΓÇö When Robots Take Over",
+        "link": "https://wakingup.libsyn.com/479-when-robots-take-over",
+        "source": "Sam Harris - Making Sense",
+        "published": "Thu, 04 Jun 2026 17:05:00 +0000",
+        "summary": "Sam Harris speaks with Vinod Khosla about AI, economic disruption, and political risk. They discuss the prospect of mass job displacement, a trillion-dollar policy framework to redistribute AI's gains, the failure of the California wealth tax, the corporate capitulation to Trump, Elon Musk's embrace of white nationalist rhetoric, US-China competition, semiconductor dependence, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe."
+      },
+      {
+        "title": "#478 ΓÇö The Psychedelic Mind",
+        "link": "https://wakingup.libsyn.com/478-the-psychedelic-mind",
+        "source": "Sam Harris - Making Sense",
+        "published": "Fri, 29 May 2026 18:00:00 +0000",
+        "summary": "Sam Harris speaks with Robin Carhart-Harris about psychedelic research and its therapeutic potential. They discuss the current state of the field, the FDA denial of MDMA-assisted therapy for PTSD, the critical role of set and setting, risks for vulnerable populations, the REBUS model of how psychedelics work on the brain, the default mode network and ego dissolution, microdosing, the neuroscience of consciousness, DMT entities, and other topics. If the Making Sense podcast logo in your player is BLACK, you can SUBSCRIBE to gain access to all full-length episodes at samharris.org/subscribe."
+      },
+      {
+        "title": "#477 ΓÇö More From Sam: Iran's Unraveling, The Gaza Information War, AI-Generated Music, and More",
+        "link": "https://wakingup.libsyn.com/477-more-from-sam-irans-unraveling-the-gaza-information-war-ai-generated-music-and-more",
+        "source": "Sam Harris - Making Sense",
+        "published": "Tue, 26 May 2026 18:45:00 +0000",
+        "summary": "Warning: This episode contains graphic descriptions of violence against civilians during the October 7 attacks (33:49 - 34:35). Listener discretion is advised. In this latest episode of the More From Sam series, Sam and Jaron talk about current events. They discuss the Trump administration's bungled Iran campaign, the information war surrounding Gaza and October 7, Nicholas Kristof's disputed New York Times report on Israeli prisoner abuse, Sam's controversial take on AI-generated music, OpenAI solving a decades-old math problem, the ethics of concealing GLP-1 use, and other topics."
+      },
+      {
+        "title": "About Graham Platner Dropping Out and the \"Missing Middle\"",
+        "link": "https://shows.acast.com/were-not-wrong/episodes/about-graham-platner-dropping-out-and-the-missing-middle",
+        "source": "We're Not Wrong",
+        "published": "Thu, 09 Jul 2026 03:05:32 GMT",
+        "summary": "The gang convenes to discuss the latest Graham Platner scandal, this time in the form of a sexual assault allegation. Following multiple supporters distancing themselves from Platner, the candidate was heavily rumored to drop out days before the deadline ΓÇö and, indeed, dropped out hours after this recording. The crew discusses the legacy of Platner's campaign, what's next for Democrats in Maine, and why this was the story that finally sunk his career. Then they turn to the \"Missing Middle,\" as the 45-64 population continues to shrink, potentially causing havoc on both key elements of society and the economy.Chapters00:00:00 - Intro00:20:51 - Graham Platner00:51:02 - Missing Middle01:03:37 - Emails01:17:49 - Wrap-up Hosted on Acast. See acast.com/privacy for more information."
+      },
+      {
+        "title": "About America at 250 and the Rise of the DSA",
+        "link": "https://shows.acast.com/were-not-wrong/episodes/about-america-at-250-and-the-rise-of-the-dsa",
+        "source": "We're Not Wrong",
+        "published": "Wed, 01 Jul 2026 23:40:19 GMT",
+        "summary": "The gang discusses the legacy and history of America as it celebrates its 250th anniversary. Are some of the more brutal chapters enough to outweigh the good the USA has brought to the world, or is it worth giving these first 250 years a failing grade? After, the group turns to the ongoing rise of the DSA. Fresh off some big primary wins in NYC and Colorado, who should be the most overjoyed at these recent successes: Democrats, Republicans, or simply the DSA themselves?Chapters00:00:00 - Intro00:20:20 - America at 25000:41:55 - Rise of the DSA01:19:19 - Emails01:31:13 - Wrap-up Hosted on Acast. See acast.com/privacy for more information."
+      },
+      {
+        "title": "About FreddyLA7 and Keir Starmer's Resignation",
+        "link": "https://shows.acast.com/were-not-wrong/episodes/about-freddyla7-and-keir-starmers-resignation",
+        "source": "We're Not Wrong",
+        "published": "Wed, 24 Jun 2026 23:24:29 GMT",
+        "summary": "The gang explores the tale of FreddyLA7, the social media handle of a German World Cup tourist who, following viral attention, has received negative attention following old tweets, private plane offers, and other various paid experience at absolutely no expense. Is this a simple story of jealousy, or is there a deeper lesson to be learned here? They also dive into the resignation of Keir Starmer, the UK's 7th Prime Minister in a decade. What exactly is Britain looking for in a leader, and will it ever find it?Chapters00:00:00 - Intro00:12:19 - FreddyLA700:40:26 - Keir Starmer00:56:45 - Emails01:09:07 - Wrap-up Hosted on Acast. See acast.com/privacy for more information."
+      },
+      {
+        "title": "About Trump's Iran Deal and the SpaceX IPO",
+        "link": "https://shows.acast.com/were-not-wrong/episodes/about-trumps-iran-deal-and-the-spacex-ipo",
+        "source": "We're Not Wrong",
+        "published": "Thu, 18 Jun 2026 14:49:51 GMT",
+        "summary": "The gang discusses Trump's memorandum of understanding reached with Iran, opening a 60-day window for further negotiations. Is this something meant to stick, or yet another doomed prospect to end this war? Then they turn to SpaceX's record-smashing IPO that has some rushing to invest ΓÇö and others cautious about the stock. Is this a guarantee on returns, or gambling by another name?Chapters00:00:00 - Intro00:14:55 - Iran Deal00:50:45 - SpaceX01:13:59 - Emails01:42:04 - Wrap-up Hosted on Acast. See acast.com/privacy for more information."
+      },
+      {
+        "title": "About AI Political Ads and the Cultural Conservatism Wave",
+        "link": "https://shows.acast.com/were-not-wrong/episodes/about-ai-political-ads-and-the-cultural-conservatism-wave",
+        "source": "We're Not Wrong",
+        "published": "Thu, 11 Jun 2026 03:08:33 GMT",
+        "summary": "Hot off some controversial new AI ads ahead of the midterms, the gang digs into whether our current class of campaigns are going too far in putting words in the mouths of their opponents. They also look into recent poll results that suggest a coming cultural conservatism wave, and ask if such a thing is real, what might be causing it?Chapters00:00:00 - Intro00:29:06 - AI Political Ads00:55:32 - Cultural Conservatism Wave01:12:36 - Emails01:20:33 - Wrap-up Hosted on Acast. See acast.com/privacy for more information."
+      },
+      {
+        "title": "About Graham Platner and Pattie Gonia",
+        "link": "https://shows.acast.com/were-not-wrong/episodes/about-graham-platner-and-pattie-gonia",
+        "source": "We're Not Wrong",
+        "published": "Thu, 04 Jun 2026 14:17:05 GMT",
+        "summary": "The gang looks at the latest scandal out of Graham Platner's Maine senatorial campaign and wonder whether it's enough to sink the ship, or yet another hurdle on the way to Democrats winning back the Senate in November. Then the dig into the ongoing feud between outdoor clothing retailer Patagonia and drag performer Pattie Gonia over trademark infringement, asking who, at the end of the day, is in the right.Chapters00:00:00 - Intro00:20:36 - Graham Platner00:45:41 - Patagonia vs. Pattie Gonia01:05:09 - Emails01:36:27 - Wrap-up Hosted on Acast. See acast.com/privacy for more information."
+      },
+      {
+        "title": "About Climate Change and Paid Social Media Influencers",
+        "link": "https://shows.acast.com/were-not-wrong/episodes/about-climate-change-and-paid-social-media-influencers",
+        "source": "We're Not Wrong",
+        "published": "Thu, 28 May 2026 14:12:21 GMT",
+        "summary": "The gang digs into the quiet retirement of RCP 8.5, the most extreme climate scenario suggested by scientists, after making some genuine progress towards slowing global warming. What does this say about our relationship with science media? Then they turn to recent reports over Tom Steyer's campaign allegedly paying off influencers and creators for promotion and positive press and ask whether we should have stricter guidelines over these sorts of ads.Chapters00:00:00 - Intro00:23:09 - Climate Change00:46:55 - Paid Social Media Influencers01:06:51 - Emails02:04:40 - Wrap-up Hosted on Acast. See acast.com/privacy for more information."
+      },
+      {
+        "title": "About the AI Hate Wave and the Heir to Bernie Sanders",
+        "link": "https://shows.acast.com/were-not-wrong/episodes/about-the-ai-hate-wave-and-the-heir-to-bernie-sanders",
+        "source": "We're Not Wrong",
+        "published": "Thu, 21 May 2026 03:02:38 GMT",
+        "summary": "With pro-AI commencement speeches repeatedly getting booed and ongoing hostility over data center expansions, the gang digs into what's causing this growing AI hate wave. They also discuss who owns the \"Bernie Sanders heir apparent\" lane, as both AOC and Ro Khanna begin staffing up with former Bernie staffers ahead of potential runs in 2028.Chapters00:00:00 - Intro00:13:59 - AI Hate Wave01:08:13 - Heir to Bernie01:28:59 - Emails01:47:58 - Wrap-up Hosted on Acast. See acast.com/privacy for more information."
+      }
+    ]
+  }
+}
