@@ -1,0 +1,258 @@
+{
+  "date": "2026-07-11",
+  "generatedAt": "2026-07-11T14:29:21.4123642Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+          "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "Washington is pressing Tehran to publicly commit to keeping the Strait of Hormuz open and to stop firing on passing vessels, amid a sharp US-Iran standoff. US officials say Iran privately told them that an attack on ships transiting the strait earlier in the week was 'a mistake', as Trump traded threats with Iran's new supreme leader in the wake of Ayatollah Khamenei's funeral.",
+          "flags": [
+            "Iran's characterization of the attack as 'a mistake' is relayed via unnamed US officials and not independently confirmed"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+          "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "Firefighters in southern Spain are fighting one of the country's deadliest wildfires on record, with at least 12 people killed and another 23 reported missing. Most of the dead are believed to be British and Belgian nationals along with one Spaniard, and crews near Almeria have shifted to an offensive strategy to try to bring the blaze under control.",
+          "flags": [
+            "Death and missing tolls are still being updated as the fire is fought"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "Landmark US housing bill becomes law despite Trump protest",
+          "link": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "A bipartisan bill aimed at lowering housing costs and boosting supply has become US law, with President Trump letting it take effect without his signature as a protest. Trump had wanted Republican voter-ID legislation passed first, and his refusal to sign highlights friction between the White House and members of his own party over legislative priorities.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "India-New Zealand: साझा विकास के लिए रोडमैप और अन्य खबरें | Samachar",
+          "origTitle": "India-New Zealand: साझा विकास के लिए रोडमैप और अन्य खबरें | Samachar",
+          "link": "https://www.youtube.com/watch?v=K99LExw8-Xs",
+          "source": "DD News (Hindi)",
+          "summary": "India's public broadcaster leads its bulletin on India and New Zealand agreeing on a roadmap for shared development and stronger bilateral ties, framed around a major goal for the relationship, alongside other national headlines.",
+          "flags": [
+            "State broadcaster — coverage foregrounds the government's framing of the India-NZ engagement"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "पीएम मोदी के प्रेस कॉन्फ़्रेंस न करने को लेकर अब न्यूज़ीलैंड में पूछा गया सवाल",
+          "origTitle": "पीएम मोदी के प्रेस कॉन्फ़्रेंस न करने को लेकर अब न्यूज़ीलैंड में पूछा गया सवाल",
+          "link": "https://www.bbc.com/hindi/articles/c78ypvlk24vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Hindi",
+          "summary": "After a similar question in Norway, a New Zealand journalist has now pressed PM Narendra Modi over his practice of not holding open press conferences during official visits. India's foreign ministry responded to the query, and the exchange has drawn attention to Modi's media accessibility on the same NZ trip that state media covers as a diplomatic success.",
+          "flags": [
+            "Independent framing highlights press-access criticism that state coverage of the NZ visit omits"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "美国再次在联合国安理会否决加沙停火决议草案",
+          "origTitle": "美国再次在联合国安理会否决加沙停火决议草案",
+          "link": "http://world.people.com.cn/n1/2025/0605/c1002-40494451.html",
+          "source": "People's Daily (Chinese)",
+          "summary": "People's Daily reports that the US again used its veto in the UN Security Council to block a draft resolution demanding an immediate, unconditional and permanent ceasefire in Gaza, the release of all detainees, and removal of restrictions on humanitarian access. Fourteen of the 15 members voted in favor, with the US the sole no vote.",
+          "flags": [
+            "State media",
+            "Stale-dated: article is timestamped June 2025 and appears to have resurfaced in the scan rather than being fresh"
+          ],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "На Тайване 87 человек пострадали из-за тайфуна \"Бави\"",
+          "origTitle": "На Тайване 87 человек пострадали из-за тайфуна \"Бави\"",
+          "link": "https://ria.ru/20260711/tajvan-2104254783.html",
+          "source": "RIA Novosti (Russian)",
+          "summary": "Russian state agency RIA Novosti reports that 87 people were injured in Taiwan as Typhoon Bavi passed over the island before moving toward mainland China, where authorities are evacuating residents ahead of landfall.",
+          "flags": [
+            "Russian state media"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "В Сумах в результате российского удара погибли четыре человека. Еще 17 получили ранения",
+          "origTitle": "В Сумах в результате российского удара погибли четыре человека. Еще 17 получили ранения",
+          "link": "https://meduza.io/news/2026/07/11/v-sumah-v-rezultate-rossiyskogo-udara-pogibli-chetyre-cheloveka-esche-17-poluchili-raneniya",
+          "source": "Meduza (Russian)",
+          "summary": "Independent outlet Meduza reports that a daytime Russian strike on the center of Sumy on 11 July killed four people and wounded 17, according to the head of the regional civil administration, Oleh Hryhorov.",
+          "flags": [],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "state",
+          "title": "高市首相“安倍元首相にならい新たな挑戦続けていく”姿勢示す",
+          "origTitle": "高市首相“安倍元首相にならい新たな挑戦続けていく”姿勢示す",
+          "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174561000.html",
+          "source": "NHK (Japanese)",
+          "summary": "At an event marking four years since the assassination of former Prime Minister Shinzo Abe, Prime Minister Takaichi said Abe took on divisive national issues head-on and signaled her intent to keep pursuing new challenges in the same spirit.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "東京ドームシティ、従業員死亡事故　「組織的な問題」調査委が指摘",
+          "origTitle": "東京ドームシティ、従業員死亡事故　「組織的な問題」調査委が指摘",
+          "link": "http://www.asahi.com/articles/ASV7B3FP6V7BUTIL02GM.html?ref=rss",
+          "source": "Asahi Shimbun (Japanese)",
+          "summary": "An investigative committee concluded that 'organizational problems' contributed to a fatal accident that killed a worker at the Tokyo Dome City entertainment complex, pointing to systemic failures rather than isolated error.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Vermont",
+          "title": "Tulloch to be resentenced for Zantop murders",
+          "link": "https://vtdigger.org/2026/07/11/tulloch-to-be-resentenced-for-zantop-murders/",
+          "source": "VTDigger",
+          "summary": "Robert Tulloch, 43, will be resentenced and is seeking an alternative to the two concurrent life-without-parole sentences he is serving. As a teenager from Chelsea, Vermont, he and a friend killed a pair of Dartmouth College professors in one of the region's most notorious murder cases.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "place": "Puerto Rico",
+          "title": "Cae uno de los más buscados por la DEA en un operativo en San Juan",
+          "origTitle": "Cae uno de los más buscados por la DEA en un operativo en San Juan",
+          "link": "https://www.elnuevodia.com/noticias/seguridad/notas/cae-uno-de-los-mas-buscados-por-la-dea-en-un-operativo-en-san-juan/",
+          "source": "El Nuevo Día (Spanish)",
+          "summary": "Police captured Luis Amézquita Falú, described as one of the DEA's most-wanted fugitives, in an operation in San Juan. According to authorities, he is suspected in several killings in the San Juan and Carolina areas.",
+          "flags": [],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+          "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+          "source": "Hacker News",
+          "summary": "Apple has filed suit against OpenAI, accusing former Apple employees who moved to the AI company of stealing trade secrets. The case escalates the rivalry between the two companies as they increasingly compete over on-device AI and consumer products.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "China recovered its first reusable rocket and showed a new way to do it",
+          "link": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
+          "source": "Ars Technica",
+          "summary": "China has recovered a reusable rocket for the first time, demonstrating an approach to landing and reuse that observers say clearly draws inspiration from SpaceX while introducing some novel techniques of its own. The milestone marks a significant step in China's push toward lower-cost, reusable launch capability.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "A Jupiter-size planet that escaped its star's death",
+          "link": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
+          "source": "Ars Technica",
+          "summary": "Astronomers have found a Jupiter-size planet that appears to have survived its host star's transformation into a bloated red giant, a stage that normally engulfs nearby worlds. How the planet avoided destruction remains unclear and challenges assumptions about planetary survival around dying stars.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "White House taps the guy who keeps crying 'aliens' to run UFO group",
+          "link": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
+          "source": "The Verge",
+          "summary": "Harvard astrophysicist Avi Loeb, known for his repeated speculation about extraterrestrial origins for anomalous objects, will head a new UAP Science Advisory Council established by the White House together with the Pentagon, ODNI, the FBI and the intelligence community. The council is tasked with providing scientific advice to a UAP Governing Board aiming to 'resolve the nature of UAP.'",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "title": "Anime",
+      "picks": [
+        {
+          "title": "Crunchyroll Reveals Cast, Staff for Same-Day English Dub of Hanaori-san Still Wants to Fight in the Next Life Anime",
+          "link": "https://www.animenewsnetwork.com/news/2026-07-11/crunchyroll-reveals-cast-staff-for-same-day-english-dub-of-hanaori-san-still-wants-to-fight-in-the-/.239521",
+          "source": "Anime News Network",
+          "summary": "Crunchyroll has announced the cast and staff for a same-day English dub of the anime 'Hanaori-san Still Wants to Fight in the Next Life,' with Kelly Greenshield and Mauricio Ortiz-Segura among the leads. The dub debuts Saturday alongside the subtitled release.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "A Chat with Wistoria: Wand and Sword Season 2 Director, Hideaki Nakano",
+          "link": "https://www.animenewsnetwork.com/interview/2026-07-10/holding-nothing-back-and-giving-it-absolutely-everything-a-chat-with-wistoria-wand-and-sword-season-/.239160",
+          "source": "Anime News Network",
+          "summary": "In an interview, Hideaki Nakano discusses stepping into the director's chair for the second season of 'Wistoria: Wand and Sword,' what he loves about the show, and his approach to the new season.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "comedy",
+      "title": "Comedy",
+      "picks": []
+    },
+    {
+      "key": "podcast",
+      "title": "Podcasts",
+      "picks": []
+    }
+  ]
+}
