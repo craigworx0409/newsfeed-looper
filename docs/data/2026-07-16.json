@@ -1,0 +1,273 @@
+{
+  "date": "2026-07-16",
+  "generatedAt": "2026-07-16T08:02:00Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "Iran targets military bases as US launches wave of strikes",
+          "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "The US-Iran war escalated overnight, with explosions heard across Iran shortly after Gulf states began reporting attacks. The US launched a fresh wave of strikes while Iran targeted military bases in the region, deepening a conflict that has already disrupted global oil shipping through the Strait of Hormuz.",
+          "flags": [
+            "Active war; casualty and damage claims from both sides are unverified"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "French MPs approve assisted dying law with strict rules after years of argument",
+          "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "France's National Assembly approved a landmark assisted-dying bill after years of contentious debate. The law would allow assisted dying for terminally ill adults who meet strict eligibility criteria, marking one of the most significant social-policy shifts in France in years.",
+          "flags": [
+            "Ethically divisive; safeguards and scope contested"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "China and Xi favored over U.S. and Trump in many nations: Survey",
+          "link": "https://www.npr.org/2026/07/15/g-s1-133827/china-and-xi-favored-over-us-and-trump-in-many-nations-survey",
+          "source": "NPR News",
+          "summary": "A new Pew Research survey finds that across many countries, more people now view China and Xi Jinping favorably than the United States and Trump — a shift driven both by improved perceptions of China and sharply declining views of the US. It's a striking marker of how America's global standing is being reassessed abroad.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "India की पहली Hydrogen Train तैयार, जींद-सोनीपत रूट पर दौड़ेगी",
+          "origTitle": "India की पहली Hydrogen Train तैयार, जींद-सोनीपत रूट पर दौड़ेगी | H2 | Indian Railways | Samachar",
+          "link": "https://www.youtube.com/watch?v=q9pPPjQISco",
+          "source": "DD News (Hindi)",
+          "summary": "The state broadcaster showcases India's first hydrogen-powered train, reported ready to run on the Jind-Sonipat route — framed as a milestone for Indian Railways and the government's clean-energy push, in the promotional register typical of DD News.",
+          "flags": [
+            "State-media source — celebratory framing of a government initiative"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "पटना हाई कोर्ट- सलवार उतारने का प्रयास रेप की कोशिश नहीं, टिप्पणी पर सुप्रीम कोर्ट हुआ नाराज़",
+          "origTitle": "पटना हाई कोर्ट- सलवार उतारने का प्रयास रेप की कोशिश नहीं, टिप्पणी पर सुप्रीम कोर्ट हुआ नाराज़",
+          "link": "https://www.bbc.com/hindi/articles/c0ej88l3rj0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Hindi",
+          "summary": "The Patna High Court ruled that grabbing a woman's chest and attempting to remove her salwar do not amount to attempted rape — a finding that drew sharp displeasure from the Supreme Court. The story spotlights a contentious judicial reasoning and the higher court's rebuke, the kind of scrutiny of institutions independent outlets foreground.",
+          "flags": [
+            "Sensitive subject; judicial reasoning widely criticised"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "报告：所谓“南海仲裁案”裁决是一面之词，一股逆流，一张废纸",
+          "origTitle": "报告：所谓“南海仲裁案”裁决是一面之词，一股逆流，一张废纸 | 真相",
+          "link": "https://www.chinanews.com.cn/gj/2026/07-16/10660486.shtml",
+          "source": "China News Service (Chinese)",
+          "summary": "Chinese state media promotes a newly released Beijing report arguing that the 2016 South China Sea arbitration ruling is 'one-sided, a countercurrent, a scrap of waste paper' and does not represent international law. The framing reflects China's continued rejection of the tribunal's decision on its maritime claims.",
+          "flags": [
+            "State media advancing Beijing's official legal position"
+          ],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "Британия разработает новую баллистическую ракету для Украины, пишут СМИ",
+          "origTitle": "Британия разработает новую баллистическую ракету для Украины, пишут СМИ",
+          "link": "https://ria.ru/20260716/britanija-2105141889.html",
+          "source": "RIA Novosti (Russian)",
+          "summary": "The state agency reports, citing media, that Britain will develop a new ballistic missile for Ukraine — coverage that emphasises Western escalation and foreign arming of Kyiv, a recurring frame in Russian state reporting on the war.",
+          "flags": [
+            "Russian state-media framing of Western involvement"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "Россия нанесла ракетный удар по Киеву. Два человека погибли",
+          "origTitle": "Россия нанесла ракетный удар по Киеву. Два человека погибли",
+          "link": "https://meduza.io/news/2026/07/16/rossiya-nanesla-raketnyy-udar-po-kievu-dva-cheloveka-pogibli",
+          "source": "Meduza (Russian)",
+          "summary": "Russian forces struck Kyiv with missiles overnight on July 16, killing two people and wounding six, including a 16-year-old, according to the city's military administration and mayor Vitali Klitschko. The independent outlet centers the civilian toll of Russia's attack — a counterpoint to state coverage's focus on Ukrainian strikes.",
+          "flags": [],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "state",
+          "title": "国産AI開発会社 エヌビディアと連携 次世代システム導入へ",
+          "origTitle": "国産AI開発会社 エヌビディアと連携 次世代システム導入へ",
+          "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178411000.html",
+          "source": "NHK (Japanese)",
+          "summary": "Noetra, a new company pursuing home-grown Japanese AI, will adopt Nvidia's latest next-generation chips and systems to accelerate development of 'physical AI' — the foundation technology for autonomously operating robots and machines. NHK frames it as a step toward Japanese technological self-reliance.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "戦後初の再審制度見直し、改正刑訴法が成立へ　施行後5年ごと再検討",
+          "origTitle": "戦後初の再審制度見直し、改正刑訴法が成立へ　施行後5年ごと再検討",
+          "link": "http://www.asahi.com/articles/ASV7J266JV7JUQIP03GM.html?ref=rss",
+          "source": "Asahi Shimbun (Japanese)",
+          "summary": "Japan is set to enact a revised Code of Criminal Procedure overhauling its retrial system — the first such reform since World War II — with the law to be re-examined every five years after taking effect. The independent daily treats it as a landmark change to how wrongful convictions can be reopened.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Vermont",
+          "title": "Ben & Jerry's Foundation says it will shut down amid legal dispute with parent company",
+          "link": "https://vtdigger.org/2026/07/15/ben-jerrys-foundation-says-it-will-shut-down-amid-legal-dispute-with-parent-company/",
+          "source": "VTDigger",
+          "summary": "The Ben & Jerry's Foundation says it will shut down amid an escalating legal fight with parent company Unilever over the ice cream maker's social mission. The closure puts roughly $600,000 in annual philanthropic support to Vermont organizations at risk.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "place": "Puerto Rico",
+          "title": "'Public administration doesn't work, politics ate it': experts analyze the DDEC scandal",
+          "origTitle": "“La administración pública no funciona, se la comió la política”: expertos analizan los efectos del escándalo en el DDEC",
+          "link": "https://www.elnuevodia.com/negocios/economia/notas/el-gobierno-da-la-espalda-a-los-problemas-reales-de-la-gente-aseguran-expertos/",
+          "source": "El Nuevo Día (Spanish)",
+          "summary": "El Nuevo Día convened legal and governance experts to dissect the controversy engulfing the DDEC (economic development department), centered on officials Sebastián Negrón and Francisco Domenech. The specialists argue Puerto Rico's public administration has been hollowed out by politics, turning its back on residents' real problems.",
+          "flags": [],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
+          "link": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
+          "source": "Ars Technica",
+          "summary": "A new Windows zero-day dubbed 'HiveLegacy' surfaced on the same day Microsoft shipped a record-size Patch Tuesday. Researchers describe it as a 'powerful primitive' likely capable of a range of malicious actions, raising the urgency of the month's already unusually large patch load.",
+          "flags": [
+            "Active zero-day disclosed"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "xAI sues a man for using Grok to generate CSAM 'deepfakes'",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+          "source": "The Verge",
+          "summary": "Elon Musk's xAI is suing a South Carolina man, Terry Wayne Harwood, who it alleges knowingly circumvented Grok's safeguards to alter non-consensual images and generate and distribute child sexual abuse material. The suit is a notable move by an AI company to pursue a user for abusing its model.",
+          "flags": [
+            "Subject matter: alleged CSAM generation"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
+          "link": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+          "source": "Ars Technica",
+          "summary": "Convenience-store chain Sheetz is moving 838 stores and about 11,000 virtual machines off VMware to StorMagic, citing too much uncertainty since Broadcom's acquisition. It's another prominent enterprise defection illustrating the post-Broadcom VMware exodus.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "title": "Anime",
+      "picks": [
+        {
+          "title": "Hiroyasu Kobayashi, SAFEHOUSE, AREA35 Unveil Tiny Metal: Zero Line Anime",
+          "link": "https://www.animenewsnetwork.com/news/2026-07-15/hiroyasu-kobayashi-safehouse-area35-unveil-tiny-metal-zero-line-anime/.239636",
+          "source": "Anime News Network",
+          "summary": "A new anime, Tiny Metal: Zero Line — from Hiroyasu Kobayashi with studios SAFEHOUSE and AREA35 — was unveiled, with the pilot episode getting a world premiere at Japan Expo in France on July 9.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "comedy",
+      "title": "Comedy",
+      "picks": [
+        {
+          "title": "Tuesdays with Stories #633 — Puerto Rican Fattlesnake",
+          "link": "https://tuesdayspod.com",
+          "source": "Tuesdays with Stories (Mark Normand)",
+          "summary": "A Skankfest-themed episode: Mark and Joe recap the festival's ups and downs, Joe steps out on Schtick or Treat, and Mark recounts doing a set in a sauna. (From the show's back catalog surfacing in the feed.)",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "podcast",
+      "title": "Podcasts",
+      "picks": [
+        {
+          "title": "Very Bad Wizards #305 — Emile Is the Name of the Goat (with Paul Bloom)",
+          "link": "https://78700ea2-cdf8-41c6-b616-fd5f05b760d7.libsyn.com/episode-305-emile-is-the-name-of-the-goat-with-paul-bloom",
+          "source": "Very Bad Wizards",
+          "summary": "Paul Bloom joins David and Tamler to break down the Severance season finale and season 2 — which they agree is a return to form — then turn to an evolutionary account of the 'ick.' (A catalog episode surfacing as the feed backfills.)",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Making Sense #453 — AI and the New Face of Antisemitism",
+          "link": "https://wakingup.libsyn.com/453-ai-and-the-new-face-of-antisemitism",
+          "source": "Sam Harris - Making Sense",
+          "summary": "Sam Harris speaks with computer scientist Judea Pearl about causality, artificial intelligence, and a resurgent antisemitism. (A catalog episode surfacing as the feed backfills.)",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    }
+  ]
+}
