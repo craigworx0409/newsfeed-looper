@@ -1,0 +1,241 @@
+{
+  "date": "2026-07-17",
+  "generatedAt": "2026-07-17T08:03:00Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "US launches new strikes as Iran says civilian infrastructure hit",
+          "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "The US pressed on with a sixth straight night of strikes on Iran, with Tehran saying bridges and civilian infrastructure were hit and casualties reported. US forces also boarded a ship in the Strait of Hormuz as the campaign widened, deepening fears of a broader escalation across the Gulf.",
+          "flags": [
+            "Active war; casualty and target claims from both sides unverified"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "China's economy grows at 4.3%, one of its lowest rates on record",
+          "link": "https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns",
+          "source": "The Guardian (World)",
+          "summary": "China's economy expanded just 4.3% in the three months to June — below the government's 4.5–5% target and among the weakest quarterly readings since official GDP reporting began in the early 1990s. The worse-than-expected figures intensify concerns about a lopsided, slowing Chinese economy with global ripple effects.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
+          "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "In a primetime address, Trump alleged 'shocking vulnerabilities' in US election security and accused China of meddling in the 2020 election — claims that directly contradict past US intelligence findings and for which he offered no evidence. The speech, days ahead of the midterms, drew scrutiny over reviving baseless voter-fraud narratives.",
+          "flags": [
+            "No evidence provided; contradicts US intelligence findings"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "PM Modi ने Jind से ₹14,700 करोड़ की विकास परियोजनाओं का किया शुभारंभ | H2 Train",
+          "origTitle": "PM Modi ने Jind से ₹14,700 करोड़ की विकास परियोजनाओं का किया शुभारंभ | H2 Train",
+          "link": "https://www.youtube.com/watch?v=mDADE-7--tA",
+          "source": "DD News (Hindi)",
+          "summary": "The state broadcaster covers PM Modi launching ₹14,700 crore of development projects from Jind, Haryana — headlined by India's first hydrogen train — with the celebratory, achievement-focused framing typical of DD News.",
+          "flags": [
+            "State-media source — celebratory framing of a government event"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "इसरो से इतनी बड़ी संख्या में वैज्ञानिक इस्तीफ़ा क्यों दे रहे हैं?",
+          "origTitle": "इसरो से इतनी बड़ी संख्या में वैज्ञानिक इस्तीफ़ा क्यों दे रहे हैं? बदले गए इस्तीफ़ा स्वीकार करने के नियम",
+          "link": "https://www.bbc.com/hindi/articles/cm2g32m3191o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Hindi",
+          "summary": "ISRO has changed its rules for accepting resignations after an estimated 100–120 scientists left the space agency over the past year, many joining private space startups. The piece probes the brain-drain behind the move — a scrutiny of institutional strain that contrasts with state media's triumphant space coverage.",
+          "flags": [
+            "Independent framing of a problem state media downplays"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "中国驻比利时使馆和驻欧盟使团联合举办建军节招待会",
+          "origTitle": "中国驻比利时使馆和驻欧盟使团联合举办建军节招待会",
+          "link": "https://www.chinanews.com.cn/gj/2026/07-17/10661344.shtml",
+          "source": "China News Service (Chinese)",
+          "summary": "China's embassy in Belgium and its mission to the EU jointly hosted a reception in Brussels marking the 99th anniversary of the People's Liberation Army. The item is a characteristic piece of Chinese state diplomacy coverage — showcasing military-anniversary outreach on European soil.",
+          "flags": [
+            "State media — promotional coverage of official diplomacy"
+          ],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "Совфед одобрил закон о разработке, внедрении и регулировании ИИ в России",
+          "origTitle": "Совфед одобрил закон о разработке, внедрении и регулировании ИИ в России",
+          "link": "https://ria.ru/20260717/zakon-2105357324.html",
+          "source": "RIA Novosti (Russian)",
+          "summary": "Russia's Federation Council approved a law on the development, deployment, and regulation of artificial intelligence in the country. The state agency frames it as a step toward domestic AI governance amid Moscow's broader tech-sovereignty push.",
+          "flags": [],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "Российские войска нанесли удар по Одессе. Повреждены 11 жилых домов, погибли два человека",
+          "origTitle": "Российские войска нанесли удар по Одессе. Повреждены 11 жилых домов, погибли два человека",
+          "link": "https://meduza.io/news/2026/07/17/rossiyskie-voyska-nanesli-udar-po-odesse-povrezhdeny-11-zhilyh-domov-pogibli-dva-cheloveka",
+          "source": "Meduza (Russian)",
+          "summary": "A Russian missile strike on Odesa overnight on July 17 damaged 11 residential buildings and killed two people, with six wounded including three children, per the city's military administration. The independent outlet foregrounds the civilian toll of the attack.",
+          "flags": [],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "state",
+          "title": "皇族数確保に向けた改正皇室典範 参議院本会議で可決・成立",
+          "origTitle": "皇族数確保に向けた改正皇室典範 参議院本会議で可決・成立",
+          "link": "http://www3.nhk.or.jp/news/html/20260717/k10015179021000.html",
+          "source": "NHK (Japanese)",
+          "summary": "The upper house passed and enacted a revised Imperial House Law to shore up the shrinking imperial family, allowing female royals to remain in the family after marriage and permitting male-line descendants of former imperial branches to be adopted (though adoptees themselves won't hold succession rights, their sons would). It's the first substantive revision of the law since 1949, passed over opposition from several parties; the ban on female emperors remains.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "急浮上した養子案、皇室の方々に戸惑い　男系男子の継承と向き合い",
+          "origTitle": "急浮上した養子案、皇室の方々に戸惑い　男系男子の継承と向き合い",
+          "link": "http://www.asahi.com/articles/ASV7J3GN1V7JUTIL027M.html?ref=rss",
+          "source": "Asahi Shimbun (Japanese)",
+          "summary": "The independent daily reports that the suddenly-advanced adoption plan — bringing male-line descendants into the imperial family — has bewildered members of the imperial household as they grapple with male-line succession. It offers a more skeptical, human angle on the same reform NHK reports as passed.",
+          "flags": [
+            "Independent outlet surfaces unease around the reform"
+          ],
+          "lang": "ja",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Vermont",
+          "title": "He's the high bailiff of Orange County, Vermont. Now he's in Iran — and saluting its 'holy war' with the US",
+          "link": "https://vtdigger.org/2026/07/16/hes-the-high-bailiff-of-orange-county-vermont-now-hes-in-iran-and-saluting-its-holy-war-with-the-us/",
+          "source": "VTDigger",
+          "summary": "Christopher Helali, the elected (largely ceremonial) high bailiff of Orange County, Vermont, invoked his office in social-media posts from Iran during the state funeral for Ayatollah Ali Khamenei — including a selfie in front of a large red banner reading 'Kill Trump' and messaging endorsing Iran's 'holy war' with the US.",
+          "flags": [
+            "Involves a sitting local official endorsing violent rhetoric"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "place": "Puerto Rico",
+          "title": "Army Corps of Engineers closer to intervening in LUMA Energy vegetation-clearing projects",
+          "origTitle": "Más cerca la intervención del Cuerpo de Ingenieros en proyectos de despeje de vegetación de líneas eléctricas de LUMA Energy",
+          "link": "https://www.elnuevodia.com/noticias/locales/notas/mas-cerca-la-intervencion-del-cuerpo-de-ingenieros-en-proyectos-de-despeje-de-vegetacion-de-lineas-electricas-de-luma-energy/",
+          "source": "El Nuevo Día (Spanish)",
+          "summary": "The US Army Corps of Engineers is moving closer to taking over vegetation-clearing work along LUMA Energy's power lines in Puerto Rico, though none of the entities involved has specified which sectors would be assigned. It's the latest turn in the island's long-running struggle to stabilize its fragile electrical grid.",
+          "flags": [],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "It's official: EU will force Google to share search data and open up AI on Android",
+          "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+          "source": "Ars Technica",
+          "summary": "The EU will require Google to share search data with rivals and open up AI features on Android, a significant antitrust-driven intervention. Google warns the changes could endanger user privacy and security; critics see it as a major crack in the company's search-and-mobile dominance.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Kimi K3: Open Frontier Intelligence",
+          "link": "https://www.kimi.com/blog/kimi-k3",
+          "source": "Hacker News",
+          "summary": "Moonshot AI released Kimi K3, billed as an open, frontier-class model — the latest in a wave of powerful open-weights releases from Chinese labs that keep narrowing the gap with closed frontier systems.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Trump teleprompter aide made $100,000 betting on what Trump would say, reports say",
+          "link": "https://arstechnica.com/culture/2026/07/trump-teleprompter-aide-made-100000-betting-on-what-trump-would-say-reports-say/",
+          "source": "Ars Technica",
+          "summary": "A Trump teleprompter operator reportedly made about $100,000 on prediction markets by betting on what Trump would say in speeches, with Kalshi saying it flagged the apparent insider trading. The episode raises fresh questions about information asymmetry and integrity on political prediction markets.",
+          "flags": [
+            "Alleged insider trading, per reports"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "title": "Anime",
+      "picks": [
+        {
+          "title": "I'm Dating a Dark Summoner Anime's Teaser Video Reveals More Staff",
+          "link": "https://www.animenewsnetwork.com/news/2026-07-17/im-dating-a-dark-summoner-anime-teaser-video-reveals-more-staff/.239715",
+          "source": "Anime News Network",
+          "summary": "A teaser video for the 'I'm Dating a Dark Summoner' anime revealed additional staff; the series premieres in October with HIDIVE streaming.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Fatal Fury: City of the Wolves game trailer reveals season 3's new characters, July 23 launch",
+          "link": "https://www.animenewsnetwork.com/news/2026-07-16/fatal-fury-city-of-the-wolves-game-trailer-reveals-3rd-season-new-characters-july-23-launch/.239688",
+          "source": "Anime News Network",
+          "summary": "A new trailer for Fatal Fury: City of the Wolves revealed its third season of characters and a July 23 launch, with Rick Strowd arriving in July, Duck King in August, Kim Kaphwan in September, and Laocorn in November.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    }
+  ]
+}
