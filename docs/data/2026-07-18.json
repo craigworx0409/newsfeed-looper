@@ -1,0 +1,245 @@
+{
+  "date": "2026-07-18",
+  "generatedAt": "2026-07-18T08:05:00Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "US strikes hit Iran for seventh consecutive night",
+          "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "US forces struck Iran for a seventh straight night as the conflict ground on, with Iran retaliating against US allies in the region — Kuwait reported a power-and-water plant was hit, and a seventh night of strikes was said to have cut water to villages in Iran's south. The tit-for-tat is exposing the water and energy vulnerability of the dry Gulf.",
+          "flags": [
+            "Active war; both sides' strike claims are unverified"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "EU proposes slowing down cuts to carbon emissions for businesses",
+          "link": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "The EU proposed relaxing its emissions-trading system to give companies more time to cut their carbon output — a notable softening of the bloc's flagship climate policy amid competitiveness and cost pressures. Environmental groups warn it risks blunting Europe's decarbonization push.",
+          "flags": [
+            "Contested climate-policy rollback"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+          "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "Trump threatened new tariffs on Canada, blaming it for wildfire smoke sending 'filthy' air into US cities and claiming poor forest management costs the US billions. Canadian PM Mark Carney countered that both countries share responsibility to fight climate change, which experts say is worsening the wildfire conditions behind the smoke.",
+          "flags": [
+            "Frames a climate-driven event as a trade grievance"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "Vikram-1 | Skyroot | Mission Aagaman — India's First Private Orbital Rocket",
+          "origTitle": "Vikram-1 | Test Flight-1 | Skyroot | Mission Aagaman India's First Private Orbital Rocket",
+          "link": "https://www.youtube.com/watch?v=WSfjDhiLyfk",
+          "source": "DD News (Hindi)",
+          "summary": "The state broadcaster celebrates Skyroot Aerospace's launch of Vikram-1, India's first private orbital rocket — a 40-tonne, 20-metre vehicle able to carry satellites to orbit — framed as a landmark for India's private space sector in DD News's achievement-focused register.",
+          "flags": [
+            "State-media source — celebratory framing of a national milestone"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "सोनम वांगचुक को पुलिस ने जंतर मंतर से हटाया, पत्नी ने कहा- मैं करूंगी मार्च का नेतृत्व",
+          "origTitle": "सोनम वांगचुक को पुलिस ने जंतर मंतर से हटाया, पत्नी ने कहा- मैं करूंगी मार्च का नेतृत्व, डॉक्टरों ने कहा- पोटैशियम लेवल हुआ कम",
+          "link": "https://www.bbc.com/hindi/articles/cd69q3y7l2po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Hindi",
+          "summary": "Delhi police cleared activist Sonam Wangchuk — on hunger strike some 20 days — from Jantar Mantar, citing High Court directions, as doctors reported his potassium levels had dropped; his wife vowed to lead the march in his place. The independent outlet centers the civil-liberties stakes of the forced removal, a story the government has sought to downplay.",
+          "flags": [
+            "Civil-liberties dispute; framing differs sharply from state coverage"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "印尼国家经济委员会主席：中印尼投资合作前景广阔",
+          "origTitle": "印尼国家经济委员会主席：中印尼投资合作前景广阔",
+          "link": "https://www.chinanews.com.cn/gj/2026/07-18/10661964.shtml",
+          "source": "China News Service (Chinese)",
+          "summary": "Chinese state media highlights the chair of Indonesia's national economic council saying China's support is indispensable and that China-Indonesia investment cooperation has broad prospects — a characteristic showcase of Beijing's economic-diplomacy narrative in Southeast Asia.",
+          "flags": [
+            "State media — promotional economic-diplomacy framing"
+          ],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "Губернатор Тамбовской области посетил пострадавших от удара ВСУ по складу",
+          "origTitle": "Губернатор Тамбовской области посетил пострадавших от удара ВСУ по складу",
+          "link": "https://ria.ru/20260718/gubernator-2105551808.html",
+          "source": "RIA Novosti (Russian)",
+          "summary": "The state agency reports the Tambov region governor visiting those injured in a Ukrainian drone strike on a warehouse — coverage that foregrounds Russian civilian victims and official response to the attack.",
+          "flags": [
+            "Russian state-media framing of the same strike"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "Украинские дроны атаковали склады Wildberries в двух регионах России; в Тамбовской области погибли семь сотрудников",
+          "origTitle": "Украинские дроны атаковали склады Wildberries в двух регионах России. В Тамбовской области погибли семь сотрудников компании, в Подмосковье — более 20 пострадавших",
+          "link": "https://meduza.io/news/2026/07/18/ukrainskie-drony-atakovali-sklady-wildberries-v-dvuh-regionah-rossii-v-tambovskoy-oblasti-pogibli-sem-sotrudnikov-kompanii",
+          "source": "Meduza (Russian)",
+          "summary": "Ukrainian drones struck Wildberries logistics warehouses in Russia's Tambov and Moscow regions overnight on July 18, killing seven company employees in Kotovsk (Tambov) and wounding more than 20 in the Moscow region. The independent outlet reports the same strike RIA covers, detailing the toll.",
+          "flags": [],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "state",
+          "title": "京アニ放火殺人事件から7年 スタジオ跡地で追悼式 京都",
+          "origTitle": "京アニ放火殺人事件から7年 スタジオ跡地で追悼式 京都",
+          "link": "http://www3.nhk.or.jp/news/html/20260718/k10015179541000.html",
+          "source": "NHK (Japanese)",
+          "summary": "Seven years on from the Kyoto Animation arson that killed 36 employees, bereaved families and colleagues gathered at the former studio site in Kyoto for a memorial service, offering prayers for the victims.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "皇室典範の「男系男子」に息苦しさ　「生むも継ぐも、本来は自分で」",
+          "origTitle": "皇室典範の「男系男子」に息苦しさ　「生むも継ぐも、本来は自分で」",
+          "link": "http://www.asahi.com/articles/ASV7K2VNFV7KUTIL01NM.html?ref=rss",
+          "source": "Asahi Shimbun (Japanese)",
+          "summary": "The independent daily runs a reflective piece on the suffocating weight of the Imperial House Law's 'male-line male' succession rule, voicing the view that childbearing and succession should ultimately be one's own choice — a critical, personal counterpoint to the recently passed reform.",
+          "flags": [
+            "Independent outlet critical of the succession framework"
+          ],
+          "lang": "ja",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Vermont",
+          "title": "FBI Most Wanted Suspect Captured in Alburgh",
+          "link": "https://www.sevendaysvt.com/news/fbi-most-wanted-suspect-captured-in-alburgh/",
+          "source": "Seven Days",
+          "summary": "Nitish Kaushal, an FBI Most Wanted suspect, was captured in the small northern-Vermont town of Alburgh. He could face a life sentence over alleged involvement in extortion, kidnappings, murders, and international drug and weapons trafficking.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "place": "Puerto Rico",
+          "title": "Milestone in animal health: Puerto Rico's first teaching veterinary hospital ready to open",
+          "origTitle": "Hito en salud animal: todo listo para la apertura del primer hospital veterinario de enseñanza en Puerto Rico",
+          "link": "https://www.elnuevodia.com/noticias/locales/notas/hito-en-salud-animal-todo-listo-para-la-apertura-del-primer-hospital-veterinario-de-ensenanza-en-puerto-rico/",
+          "source": "El Nuevo Día (Spanish)",
+          "summary": "Puerto Rico is set to open its first teaching veterinary hospital, at the Ana G. Méndez University School of Veterinary Medicine in Gurabo. The 31,000-square-foot facility required a multimillion-dollar investment and marks a milestone for animal health and veterinary training on the island.",
+          "flags": [],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "First atmosphere found on an Earth-like planet in a distant star's habitable zone",
+          "link": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+          "source": "Hacker News / BBC",
+          "summary": "Astronomers report detecting an atmosphere around an Earth-like planet in the habitable zone of a distant star — a significant step in the search for potentially life-supporting worlds, since a stable atmosphere is considered a key prerequisite for habitability.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+          "link": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+          "source": "Hacker News",
+          "summary": "Researchers found that TP-Link Kasa cameras exposed users' home GPS coordinates over an unauthenticated UDP service for about six years — a serious privacy flaw letting anyone on the network (or reachable over the internet) locate a camera owner's home.",
+          "flags": [
+            "Long-standing IoT privacy vulnerability"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "San Francisco orders Apple, Google to remove 'nudify' apps from app stores",
+          "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+          "source": "Ars Technica",
+          "summary": "San Francisco's city attorney ordered Apple and Google to pull AI 'nudify' apps from their stores, arguing the companies likely made millions in fees from apps used to generate non-consensual explicit imagery. It's a notable escalation in pressure on platform gatekeepers over AI-enabled abuse.",
+          "flags": [
+            "Concerns non-consensual explicit-image generation"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "title": "Anime",
+      "picks": [
+        {
+          "title": "An older Eri thanks her heroes in My Hero Academia: 'I Am a Hero Too' anime short",
+          "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/an-older-eri-thanks-her-heroes-in-my-hero-academia-i-am-a-hero-too-anime-short/.239737",
+          "source": "Anime News Network",
+          "summary": "A new My Hero Academia anime short, 'I Am a Hero Too,' shows a now-grown-up Eri — years after the Season 4 school-festival concert arc — thanking the heroes who saved her.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Fate/kaleid liner Prisma Illya sequel film 'Licht: Nameless Girl' to reveal new details July 20",
+          "link": "https://www.animenewsnetwork.com/daily-briefs/2026-07-17/sequel-work-to-fate-kaleid-liner-prisma-illya-licht-nameless-girl-film-to-reveal-new-details-on-/.239732",
+          "source": "Anime News Network",
+          "summary": "The Fate/kaleid liner Prisma Illya franchise's official account says the sequel film 'Licht: Nameless Girl' will reveal new information on July 20.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    }
+  ]
+}
