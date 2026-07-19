@@ -1,0 +1,239 @@
+{
+  "date": "2026-07-19",
+  "generatedAt": "2026-07-19T08:06:00Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+          "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "The US-Iran war sharply escalated after an Iranian missile-and-drone attack on a base in Jordan killed two US soldiers (with one missing) — the conflict's first US combat deaths on the ground. US forces struck Iran's Revolutionary Guard for an eighth straight night to 'punish' the attack, while Iran fired drones at US forces in Kuwait; officials say 16 US service members have now died in the war.",
+          "flags": [
+            "Active war escalating toward wider conflict; casualty figures still emerging"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+          "link": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
+          "source": "Al Jazeera English",
+          "summary": "Russia hit Kyiv with what Ukraine called its largest ballistic missile attack since the war began, killing at least one person and wounding more than a dozen. Ukraine is especially exposed to ballistic strikes amid a shortage of Patriot interceptor munitions.",
+          "flags": [
+            "Casualty counts still being confirmed"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
+          "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "'Manosphere' influencer Andrew Tate and his brother Tristan were arrested in Miami by US Marshals after UK prosecutors filed additional charges; the Crown Prosecution Service has requested their extradition. Their lawyer maintains they are innocent. The case has drawn heavy international attention to how the US handles the extradition request.",
+          "flags": [
+            "Charges are allegations; defendants deny wrongdoing"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "Jammu Kashmir में भारी बारिश से बाढ़ जैसे हालात; श्री अमरनाथ यात्रा स्थायी रूप से रोकी गई",
+          "origTitle": "Jammu Kashmir में भारी बारिश से बाढ़ जैसे हालात | श्री अमरनाथ यात्रा स्थायी रूप से रोकी गई",
+          "link": "https://www.youtube.com/watch?v=is3NoplVcBI",
+          "source": "DD News (Hindi)",
+          "summary": "The state broadcaster reports flood-like conditions in Jammu & Kashmir after heavy rain, and that the Amarnath Yatra pilgrimage has been permanently halted for the season — with the government-response framing typical of DD News.",
+          "flags": [
+            "State-media source"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "'हमें नई ज़िंदगी दीजिए या इच्छामृत्यु': राजस्थान में मां बनने के बाद डायलिसिस पर पांच महिलाएं",
+          "origTitle": "'हमें नई ज़िंदगी दीजिए या इच्छामृत्यु': राजस्थान में मां बनने के बाद डायलिसिस पर पांच महिलाएं",
+          "link": "https://www.bbc.com/hindi/articles/ce97jjknmrpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Hindi",
+          "summary": "Five women in Rajasthan who gave birth at government hospitals have written to President Droupadi Murmu demanding either 'a new life or euthanasia' after their health collapsed post-delivery, leaving them on dialysis. The independent outlet spotlights a wrenching maternal-health failure and demand for accountability.",
+          "flags": [
+            "Sensitive health story; alleges systemic hospital failures"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "比利时拟禁止进口以色列非法定居点产品",
+          "origTitle": "比利时拟禁止进口以色列非法定居点产品",
+          "link": "https://www.chinanews.com.cn/gj/2026/07-19/10662251.shtml",
+          "source": "China News Service (Chinese)",
+          "summary": "Chinese state media reports that Belgium's government announced it will draft a trade ban prohibiting imports of products from illegal Israeli settlements — coverage that reflects Beijing's readiness to amplify European moves critical of Israel.",
+          "flags": [
+            "State media — selective amplification of anti-Israel measures"
+          ],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "Погрузку нефти на терминале КТК в Черном море остановили после атаки БПЛА",
+          "origTitle": "Погрузку нефти на терминале КТК в Черном море остановили после атаки БПЛА",
+          "link": "https://ria.ru/20260719/ktk-2105666190.html",
+          "source": "RIA Novosti (Russian)",
+          "summary": "The state agency reports that oil loading at the Caspian Pipeline Consortium (CPC) terminal in the Black Sea was halted after a drone attack — and, in a companion item, stresses that no oil spill occurred, a framing that downplays the strike's impact.",
+          "flags": [
+            "Russian state-media framing minimises the damage"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "Украинские беспилотники атаковали два танкера в морском терминале КТК в Новороссийске",
+          "origTitle": "Украинские беспилотники атаковали два танкера в морском терминале Каспийского трубопроводного консорциума в Новороссийске",
+          "link": "https://meduza.io/news/2026/07/19/ukrainskie-bespilotniki-atakovali-dva-tankera-v-morskom-terminale-kaspiyskogo-truboprovodnogo-konsortsiuma-v-novorossiyske",
+          "source": "Meduza (Russian)",
+          "summary": "Meduza reports Ukrainian drones struck two tankers during oil loading at the Caspian Pipeline Consortium's marine terminal in Novorossiysk — the same strike RIA covers, but framing it as a direct hit on tankers rather than a contained incident.",
+          "flags": [],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "state",
+          "title": "スタンフォード大 佐々木麟太郎 大リーグ・マーリンズ入り表明",
+          "origTitle": "スタンフォード大 佐々木麟太郎 大リーグ・マーリンズ入り表明",
+          "link": "http://www3.nhk.or.jp/news/html/20260719/k10015180711000.html",
+          "source": "NHK (Japanese)",
+          "summary": "Stanford University's Rintaro Sasaki — drafted by both Japanese pro baseball and MLB, making his choice closely watched — announced at a press conference in Hanamaki, Iwate, that he will sign with the MLB Miami Marlins.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "殺人事件の現場を地域つなぐ存在に　特殊清掃業者が開いた子ども食堂",
+          "origTitle": "殺人事件の現場を地域つなぐ存在に　特殊清掃業者が開いた子ども食堂",
+          "link": "http://www.asahi.com/articles/ASV7L369TV7LOXIE03HM.html?ref=rss",
+          "source": "Asahi Shimbun (Japanese)",
+          "summary": "A human-interest piece from the independent daily on a specialist crime-and-death-scene cleanup company that opened a children's cafeteria (kodomo shokudo), turning a site associated with a murder into a place that helps knit the local community together.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Vermont",
+          "title": "Asbestos complicates Royalton mill demolition",
+          "link": "https://vtdigger.org/2026/07/18/asbestos-complicates-royalton-mill-demolition/",
+          "source": "VTDigger",
+          "summary": "The demolition of a mill in Royalton has been delayed by asbestos, dismaying residents who'd been told the structure would be gone by spring. Last fall the Royalton Selectboard gave property owner Eric Jacobs 120 days to remove it.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "place": "Puerto Rico",
+          "title": "The boricuas keep reigning at Centrobasket! Puerto Rico wins its fifth straight title",
+          "origTitle": "¡Las boricuas siguen reinando en el Centrobasket! Puerto Rico conquista su quinto título al hilo",
+          "link": "https://www.elnuevodia.com/deportes/baloncesto/notas/las-boricuas-siguen-reinando-en-el-centrobasket-puerto-rico-conquista-su-quinto-titulo-al-hilo/",
+          "source": "El Nuevo Día (Spanish)",
+          "summary": "Puerto Rico's women's basketball team beat Mexico in the final to claim its fifth consecutive Centrobasket regional title — extending a run of dominance for the boricua squad.",
+          "flags": [],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "The report oil companies are worried about: climate attribution science",
+          "link": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
+          "source": "Ars Technica",
+          "summary": "A new National Academies report finds that the science of attributing specific weather damages to climate change is maturing (though still with limits) — a development the fossil-fuel industry is watching warily, since firmer attribution could strengthen climate-liability lawsuits.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Mathematicians still don't know the fastest way to multiply numbers",
+          "link": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
+          "source": "Hacker News / Scientific American",
+          "summary": "Despite decades of progress and clever algorithms, mathematicians still haven't pinned down the theoretically fastest way to multiply large numbers — a surprisingly deep open problem at the heart of computation.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Speech recognition and text-to-speech in less than 500kb",
+          "link": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+          "source": "Hacker News",
+          "summary": "Moonshine's 'micro' project packs both speech recognition and text-to-speech into under 500kb — a striking demonstration of how compact on-device voice models can now be, opening the door to voice interfaces on tiny, offline hardware.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "title": "Anime",
+      "picks": [
+        {
+          "title": "Crunchyroll reveals English dub casts for new seasons of Mushoku Tensei, 100 Girlfriends, You and I Are Polar Opposites",
+          "link": "https://www.animenewsnetwork.com/news/2026-07-19/crunchyroll-reveals-english-dub-casts-for-new-seasons-of-mushoku-tensei-100-girlfriends-you-and-i-/.239751",
+          "source": "Anime News Network",
+          "summary": "Crunchyroll unveiled English dub casts for new seasons of Mushoku Tensei, The 100 Girlfriends Who Really, Really, Really, Really, Really Love You, and You and I Are Polar Opposites — with all three dubs debuting Sunday.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Tune in to the Midnight Heart anime's 2nd season reveals more cast, 2027 debut",
+          "link": "https://www.animenewsnetwork.com/news/2026-07-18/tune-in-to-the-midnight-heart-anime-2nd-season-reveals-more-cast-2027-debut/.239746",
+          "source": "Anime News Network",
+          "summary": "The second season of 'Tune in to the Midnight Heart' revealed additional cast — Ami Koshimizu and Kaede Hondo join as Arisu's sisters — and set a 2027 debut.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    }
+  ]
+}
