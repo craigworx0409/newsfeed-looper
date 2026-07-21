@@ -1,0 +1,255 @@
+{
+  "date": "2026-07-21",
+  "generatedAt": "2026-07-21T08:12:00Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "US strikes Iran for 10th consecutive night as Tehran strikes a tanker in the Strait of Hormuz",
+          "link": "https://apnews.com/article/iran-us-hormuz-strait-war-july-21-2026-1664f6a4dad005a99771b2ad15213585",
+          "source": "AP News",
+          "summary": "The US-Iran war ground into a 10th straight night of American strikes, and Iran struck a tanker in the Strait of Hormuz — a direct threat to the world's most important oil chokepoint. US officials told outlets the 'devastating' bombing will continue 'until the president decides' to stop, and Iran said it also hit three US bases in Kuwait. Against that escalation, Axios reported mediators (Qatar, Egypt, Pakistan and others) have floated a 10-day ceasefire that would reopen Hormuz to shipping and start talks on its long-term use.",
+          "flags": [
+            "Active, escalating war; strike and casualty claims from both sides are contested"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "Nicaragua's president says the country will not hold any more elections",
+          "link": "https://www.theguardian.com/world/2026/jul/20/nicaraguas-president-says-country-will-not-hold-any-more-elections",
+          "source": "The Guardian",
+          "summary": "Daniel Ortega, the 80-year-old who has ruled Nicaragua since 2007, said the country will hold no further elections, framing the move as building a 'wall' to keep the opposition from ever coming to power, and said he'd use the congress he controls to pass laws to that end. It is an open declaration of permanent one-party rule in a country whose democratic institutions he has steadily dismantled.",
+          "flags": [
+            "Authoritarian consolidation — an incumbent openly abolishing elections"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+          "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "Trump imposed an additional 50% tariff on a range of Canadian goods, a major escalation of trade tensions between the two neighbours and top trading partners. Canadian PM Mark Carney said Ottawa would 'intensify' trade talks rather than immediately retaliate — the world watching a US administration turning tariff pressure on its closest allies.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "पीएम का देश को आश्वासन: भविष्य में लीक नहीं होंगे पेपर | NEET Paper Leak",
+          "origTitle": "Mid Day Prime LIVE : पीएम का देश को आश्वासन भविष्य में लीक नहीं होंगे पेपर | NEET Paper Leak",
+          "link": "https://www.youtube.com/watch?v=CJ1Dezil9xM",
+          "source": "DD News (Hindi)",
+          "summary": "The state broadcaster leads with the PM assuring the nation that exam papers 'will not leak in future' after the NEET medical-entrance paper leak — government-forward framing that centers the reassurance rather than the accountability questions the leak raised.",
+          "flags": [
+            "State-media source — reassurance-first framing of a government under criticism"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "दिल्ली की सड़कों पर उतरे हज़ारों युवाओं ने कैसे बढ़ाई मोदी सरकार की मुश्किलें",
+          "origTitle": "दिल्ली की सड़कों पर उतरे हज़ारों युवाओं ने कैसे बढ़ाई मोदी सरकार की मुश्किलें",
+          "link": "https://www.bbc.com/hindi/articles/c74g84nvkzro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Hindi",
+          "summary": "Thousands of young people held Delhi's Jantar Mantar from morning to late evening amid lathis and tear gas in a 'March to Parliament' protest, and BBC Hindi frames it as a fresh headache for the Modi government — a youth movement (tied to the NEET-leak anger the state media plays down) that authorities are finding hard to suppress.",
+          "flags": [
+            "Contested protest coverage; framing diverges sharply from state media"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "沙特外交部、联合国等回应胡塞武装对沙特实施海上禁运",
+          "origTitle": "沙特外交部、联合国等回应胡塞武装对沙特实施海上禁运",
+          "link": "https://www.chinanews.com.cn/gj/2026/07-21/10663461.shtml",
+          "source": "China News Service (Chinese)",
+          "summary": "Chinese state media relays that Yemen's Houthis have declared a naval blockade on Saudi Arabia, drawing responses from the Saudi foreign ministry, the Saudi-led coalition (which says it has moved to protect shipping) and the UN, which voiced deep concern — widening the Middle East maritime crisis beyond the US-Iran fight in the Gulf.",
+          "flags": [
+            "State-media source relaying a regional escalation"
+          ],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "Российские разведчики выбили ВСУ с позиции в районе Орехова",
+          "origTitle": "Российские разведчики выбили ВСУ с позиции в районе Орехова",
+          "link": "https://ria.ru/20260721/razvedchiki-2105994314.html",
+          "source": "RIA Novosti (Russian)",
+          "summary": "The state agency reports Russian reconnaissance troops dislodged Ukrainian forces from a position near Orikhiv — a battlefield-advance dispatch foregrounding Russian gains, the mirror image of the drone-damage coverage the independent press runs the same day.",
+          "flags": [
+            "Russian state-media framing centers Russian battlefield success"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "В Липецке после воздушной тревоги начался крупный пожар «на территории производственных объектов»; во Владимире беспилотник попал в многоэтажный дом",
+          "origTitle": "В Липецке после воздушной тревоги начался крупный пожар «на территории производственных объектов». Во Владимире беспилотник попал в многоэтажный дом",
+          "link": "https://meduza.io/news/2026/07/21/v-lipetske-posle-vozdushnoy-trevogi-nachalsya-krupnyy-pozhar-na-territorii-proizvodstvennyh-ob-ektov-vo-vladimire-bespilotnik-popal-v-mnogoetazhnyy-dom",
+          "source": "Meduza (Russian)",
+          "summary": "Meduza reports a major fire broke out at 'industrial facilities' in Lipetsk after an air-raid alert, and a drone struck a multi-storey apartment block in Vladimir — documenting the damage inside Russia from the overnight strikes that state outlets downplay in favor of interception counts.",
+          "flags": [],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "public",
+          "title": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
+          "origTitle": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
+          "link": "http://www3.nhk.or.jp/news/html/20260720/k10015181411000.html",
+          "source": "NHK (Japanese)",
+          "summary": "Japan's Defense Ministry says a Chinese navy vessel conducted machine-gun firing drills inside Japan's exclusive economic zone near Okinotorishima on the 19th, with a Russian navy ship also spotted nearby — prompting Tokyo to keep up surveillance amid rising Chinese and Russian activity around Japanese waters.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "救援物資は「第2の災害」か　発災1年半後も体育館に山積み、古着も",
+          "origTitle": "救援物資は「第2の災害」か　発災1年半後も体育館に山積み、古着も",
+          "link": "http://www.asahi.com/articles/ASV7K1FPCV7KUJUB00CM.html?ref=rss",
+          "source": "Asahi Shimbun (Japanese)",
+          "summary": "Asahi asks whether relief donations become a 'second disaster': a year and a half after a quake, gymnasiums are still piled with unsorted supplies including used clothing that recipients can't use — an accountability look at how well-meaning aid overwhelms disaster zones when it isn't coordinated.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Vermont",
+          "title": "A New York paper mill is closing part of its operation. Vermont loggers are sounding the alarm.",
+          "link": "https://vtdigger.org/2026/07/20/a-new-york-paper-mill-is-closing-part-of-its-operation-vermont-loggers-are-sounding-the-alarm/",
+          "source": "VTDigger",
+          "summary": "Finch Paper is closing one of its mills in Glens Falls, New York — and Vermont loggers, who see the mill as a pillar of the region's timber supply chain (a buyer for low-grade wood), warn the closure threatens the economics of the whole logging industry they depend on.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "place": "Puerto Rico",
+          "title": "FEMA obligates $332 million for 18 energy projects after nearly a year of evaluation",
+          "origTitle": "FEMA obliga $332 millones para 18 proyectos energéticos tras casi un año de evaluación",
+          "link": "https://www.elnuevodia.com/noticias/locales/notas/fema-obliga-332-millones-para-18-proyectos-energeticos-tras-casi-un-ano-de-evaluacion/",
+          "source": "El Nuevo Día (Spanish)",
+          "summary": "After nearly a year of review, FEMA has obligated $332 million for 18 energy projects in Puerto Rico — including rehabilitating the underground transmission circuit that powers the San Juan metro area, vegetation management, distribution segments and generation needs — a concrete injection into the island's fragile, crisis-plagued grid.",
+          "flags": [],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "Sony sues Udio's AI music generator over more than 30,000 songs",
+          "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+          "source": "The Verge",
+          "summary": "Sony Music filed another lawsuit against AI music generator Udio, accusing it of infringing copyright on more than 30,000 songs — from Elvis Presley's 'Hound Dog' to Beyoncé's 'Say My Name' and Harry Styles' 'As It Was.' The New York suit sharpens the escalating legal fight over training generative-AI models on copyrighted music.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+          "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+          "source": "Nikkei Asia (via Hacker News)",
+          "summary": "A Nikkei analysis finds off-balance-sheet and 'hidden' debts at five US tech giants have swollen to about $1.65 trillion, driven by opaque financing structures behind the AI-infrastructure buildout — raising questions about how much leverage is really underwriting the data-center boom.",
+          "flags": [
+            "Analysis of off-balance-sheet figures — interpretation of 'hidden' debt varies"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+          "link": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+          "source": "Ars Technica",
+          "summary": "A federal judge granted a restraining order blocking Paramount's $111 billion acquisition of Warner Bros., saying the merger is 'likely to violate antitrust laws' — a win for the states challenging it and a major setback for one of the largest media consolidations ever proposed.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "title": "Anime",
+      "picks": [
+        {
+          "title": "Anime NYC screens the world premiere of 'Magical Buffs: The Support Caster Is Stronger Than He Realized!'",
+          "link": "https://www.animenewsnetwork.com/news/2026-07-20/anime-nyc-screens-world-premiere-of-magical-buffs-the-support-caster-is-stronger-than-he-realized-/.239799",
+          "source": "Anime News Network",
+          "summary": "Crunchyroll will screen the first two episodes of 'Magical Buffs: The Support Caster Is Stronger Than He Realized!' as a world premiere at Anime NYC on August 22 — an early look at one of the season's support-class fantasy titles.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "TIFF screens the North American premiere of the live-action 'Look Back' film",
+          "link": "https://www.animenewsnetwork.com/news/2026-07-20/tiff-screens-n-american-premiere-of-live-action-look-back-film/.239795",
+          "source": "Anime News Network",
+          "summary": "The Toronto International Film Festival (Sept 10-20) will host the North American premiere of the live-action adaptation of Tatsuki Fujimoto's acclaimed 'Look Back' — bringing the manga one-shot's screen treatment to a major international festival.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "comedy",
+      "title": "Comedy",
+      "picks": [
+        {
+          "title": "Tuesdays with Stories #665 — 'Yamahomo'",
+          "link": "https://www.tuesdayspod.com",
+          "source": "Mark Normand — Tuesdays with Stories",
+          "summary": "In episode #665, Mark Normand agonizes over the dreaded 'fifth show' of a stand-up weekend while Joe Machi wonders why every new male comic at the Comedy Cellar is suddenly hot — plus Mark prying a branch out of his Uber and getting 'randomly selected' for an unfortunate security search.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    }
+  ]
+}
