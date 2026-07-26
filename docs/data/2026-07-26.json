@@ -1,0 +1,235 @@
+{
+  "date": "2026-07-26",
+  "generatedAt": "2026-07-26T10:30:00Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
+          "link": "https://apnews.com/article/iran-war-trump-diplomacy-netanyahu-d491158a4c9a1d3429a87a6ed58f2f72",
+          "source": "AP News",
+          "summary": "After weeks of US strikes deep inside Iran and Houthi retaliation against Saudi Arabia, the Trump administration has paused further escalation — reportedly out of concern that continued strikes would exhaust dwindling US Patriot interceptor stocks in the region — while diplomatic talks pick up pace to find an off-ramp from the conflict.",
+          "flags": [
+            "Ceasefire/pause is informal and could break down quickly; sourcing on US motives is anonymous"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "German police hunt suspect in Berlin Pride van-ramming attack that left 1 dead and 16 injured",
+          "link": "https://apnews.com/article/germany-berlin-lgbtq-pride-parade-van-ramming-3ba5e3f1becffd0da5f47b29aa08da9d",
+          "source": "AP News",
+          "summary": "A vehicle plowed into a crowd at a Berlin Pride event, killing one person and injuring roughly 16 others; German police are hunting a suspect in what is being treated as a targeted attack on the LGBTQ+ event, and the mayor has vowed unity in response.",
+          "flags": [
+            "Attacker's identity/motive unconfirmed at time of writing"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "Biden ghostwriter tapes to be released",
+          "link": "https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate",
+          "source": "NPR News",
+          "summary": "The Justice Department is set to release recordings of interviews Joe Biden gave to a ghostwriter, material that has become a flashpoint in ongoing political sparring between Biden allies and the Trump administration.",
+          "flags": [
+            "Politically charged release; framing will likely diverge sharply along partisan lines"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "धर्मेंद्र प्रधान के इस्तीफ़े और प्रदर्शन पर अंतरराष्ट्रीय मीडिया में क्या कहा जा रहा है?",
+          "origTitle": "धर्मेंद्र प्रधान के इस्तीफ़े और प्रदर्शन पर अंतरराष्ट्रीय मीडिया में क्या कहा जा रहा है?",
+          "link": "https://www.bbc.com/hindi/articles/cx270rp44jmo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Hindi",
+          "summary": "India's education minister Dharmendra Pradhan has resigned amid the 'Cockroach Janata Party' Gen-Z protest movement, and international media are giving the story heavy play — BBC Hindi rounds up how outlets abroad are covering the resignation and the wider protest wave against Modi's government.",
+          "flags": [
+            "No state (DD News) item today directly covers the resignation — DD's slate skewed toward Kargil Vijay Diwas coverage"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "美媒曝特朗普暂停打击伊朗内幕",
+          "origTitle": "美媒曝特朗普暂停打击伊朗内幕",
+          "link": "https://www.chinanews.com.cn/gj/2026/07-26/10666735.shtml",
+          "source": "China News Service (Chinese)",
+          "summary": "Citing the New York Times, Chinese state media reports that Trump has shelved plans to sharply escalate strikes on Iran, out of concern that continued escalation would dangerously deplete the Pentagon's already-reduced stock of Patriot interceptors and other air-defense munitions in the Middle East.",
+          "flags": [
+            "State-media framing emphasizes US military strain/limits"
+          ],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "Космонавт Дубров принял командование российским сегментом МКС",
+          "origTitle": "Космонавт Дубров принял командование российским сегментом МКС",
+          "link": "https://ria.ru/20260726/mks-2107061026.html",
+          "source": "RIA Novosti (Russian)",
+          "summary": "Cosmonaut Dubrov has taken command of the Russian segment of the ISS, per Russian state media.",
+          "flags": [],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "В Берлине во время ЛГБТ-прайда автомобиль въехал в толпу. Один человек погиб, 16 ранены. Террориста ищут. Главное",
+          "origTitle": "В Берлине во время ЛГБТ-прайда автомобиль въехал в толпу. Один человек погиб, 16 ранены. Террориста ищут. Главное",
+          "link": "https://meduza.io/feature/2026/07/26/v-berline-vo-vremya-lgbt-prayda-avtomobil-v-ehal-v-tolpu-odin-chelovek-pogib-16-raneny-terrorista-ischut-glavnoe",
+          "source": "Meduza (Russian)",
+          "summary": "Independent outlet Meduza's rundown of the Berlin Pride van-ramming attack: one dead, 16 injured, attacker still at large.",
+          "flags": [],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "state",
+          "title": "ヨーロッパ山火事拡大 フランスとスペインで30万人以上が避難",
+          "origTitle": "ヨーロッパ山火事拡大 フランスとスペインで30万人以上が避難",
+          "link": "http://www3.nhk.or.jp/news/html/20260726/k10015186461000.html",
+          "source": "NHK (Japanese)",
+          "summary": "NHK reports that wildfires are spreading across Europe, with more than 300,000 people evacuated across France and Spain and at least one death reported in eastern Spain.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "「飛鳥・藤原の宮都」世界文化遺産に登録決定 国内で27件に",
+          "origTitle": "「飛鳥・藤原の宮都」世界文化遺産に登録決定 国内で27件に",
+          "link": "http://www.asahi.com/articles/ASV7S2TYZV7STIPE012M.html?ref=rss",
+          "source": "Asahi Shimbun (Japanese)",
+          "summary": "Asahi Shimbun reports that the Asuka-Fujiwara palace and temple ruins in Nara have been approved as Japan's newest UNESCO World Heritage Site, bringing the country's total to 27.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Vermont",
+          "title": "Protesters again block access to ICE surveillance hub in Williston, prompting arrests",
+          "link": "https://vtdigger.org/2026/07/24/protesters-again-block-access-to-ice-surveillance-hub-in-williston-prompting-arrests/",
+          "source": "VTDigger",
+          "summary": "Police arrested 13 people Friday morning after protesters again blocked access to ICE's National Criminal Analysis and Targeting Center in Williston, part of an ongoing series of demonstrations against the facility.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "place": "Puerto Rico",
+          "title": "\"Resultado de muchos sacrificios\": Puerto Rico se consolida como la principal potencia del polo acuático masculino en la región",
+          "origTitle": "\"Resultado de muchos sacrificios\": Puerto Rico se consolida como la principal potencia del polo acuático masculino en la región",
+          "link": "https://www.elnuevodia.com/deportes/otros-deportes/notas/resultado-de-muchos-sacrificios-puerto-rico-se-consolida-como-la-principal-potencia-del-polo-acuatico-masculino-en-la-region/",
+          "source": "El Nuevo Día (Spanish)",
+          "summary": "Puerto Rico's men's water polo team has cemented itself as the region's top power after repeating as Central American and Caribbean Games gold medalists in Santo Domingo, a decade-long build the athletes credit to sustained sacrifice.",
+          "flags": [],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+          "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+          "source": "Ars Technica",
+          "summary": "After a clean 13th Starship flight, SpaceX is now considering attempting to catch the booster back at the launch tower on the next mission.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
+          "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
+          "source": "Ars Technica",
+          "summary": "Paramount has agreed to delay its merger with Warner Bros. Discovery for months after losing a court bid, as a multi-state antitrust lawsuit heads toward trial; New York's AG called the delay a critical win.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "DeepSeek pauses fundraise after comments on compute gap to US leaked",
+          "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "Hacker News",
+          "summary": "A leaked transcript of an investor meeting reportedly shows DeepSeek founder Liang Wenfeng discussing a widening compute gap versus US AI labs; DeepSeek has since paused its fundraising round.",
+          "flags": [
+            "Leaked/unofficial transcript — authenticity not independently verified"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "title": "Anime",
+      "picks": [
+        {
+          "title": "New Ranma 1/2 Anime's Season 3 Reveals More Cast Members, October 3 Debut",
+          "link": "https://www.animenewsnetwork.com/news/2026-07-26/new-ranma-1-2-anime-season-3-reveals-more-cast-members-october-3-debut/.239978",
+          "source": "Anime News Network",
+          "summary": "Ranma 1/2's third season has revealed more returning cast members ahead of its October 3 premiere.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "New Galaxy Express 999 Theatrical Anime Announced With Story by Rintarō",
+          "link": "https://www.animenewsnetwork.com/news/2026-07-25/new-galaxy-express-999-theatrical-anime-announced-with-story-by-rintaro/.239959",
+          "source": "Anime News Network",
+          "summary": "A new Galaxy Express 999 theatrical film has been announced, with a story by Rintarō, who directed the original 1979 film and other entries in the franchise.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "comedy",
+      "title": "Comedy",
+      "picks": []
+    },
+    {
+      "key": "podcast",
+      "title": "Podcasts",
+      "picks": []
+    }
+  ]
+}
