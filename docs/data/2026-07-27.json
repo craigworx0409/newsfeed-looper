@@ -1,0 +1,168 @@
+{
+  "date": "2026-07-27",
+  "generatedAt": "2026-07-27T07:56:55Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "US pauses Iran attacks after Trump advised to halt bombing",
+          "link": "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz",
+          "source": "The Guardian (World)",
+          "summary": "The US has paused strikes on Iran for a third straight night after top military officials told Trump the bombing campaign had reached the limit of its effectiveness and warned of dwindling munitions stocks; oil prices fell on the pause while diplomatic talks continue to try to avert a return to all-out war over the Strait of Hormuz.",
+          "flags": [
+            "Pause framed as tactical/munitions-driven rather than a genuine de-escalation"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
+          "link": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss",
+          "source": "Al Jazeera English",
+          "summary": "Kyiv says Russian strikes killed six people, including a child at a supermarket in Chernihiv, while Moscow says Ukrainian strikes killed four — the latest exchange in a war showing no sign of slowing even as Ukraine pushes allies for a prototype European missile-defense system by mid-2027.",
+          "flags": [
+            "Casualty attribution disputed between Kyiv and Moscow"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "Trump vows to investigate EU over fining of US tech companies",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "After the EU fined Google $1.02B for favoring its own services, Trump said antitrust fines against Google, Apple, Meta and Amazon should be \"entirely reversed\" and vowed to investigate the EU — the latest flashpoint in a running US-EU fight over who gets to regulate American tech giants.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "#CommonwealthGames | Mirabai Chanu ने जीता लगातार तीसरा गोल्ड",
+          "origTitle": "#CommonwealthGames | Mirabai Chanu ने जीता लगातार तीसरा गोल्ड",
+          "link": "https://www.youtube.com/shorts/yJl8fI5tlW4",
+          "source": "DD News (Hindi)",
+          "summary": "State broadcaster DD News celebrates weightlifter Mirabai Chanu winning her third consecutive Commonwealth Games gold medal in Glasgow, part of a run of Indian medal coverage (including a second boxing silver) dominating state news today.",
+          "flags": [],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "क्या इन पांच वजहों से धर्मेंद्र प्रधान को शिक्षा मंत्री पद से देना पड़ा इस्तीफ़ा",
+          "origTitle": "क्या इन पांच वजहों से धर्मेंद्र प्रधान को शिक्षा मंत्री पद से देना पड़ा इस्तीफ़ा",
+          "link": "https://www.bbc.com/hindi/articles/c204l459wj2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Hindi",
+          "summary": "Education Minister Dharmendra Pradhan resigned after more than a month of youth protests at Jantar Mantar over recurring exam paper leaks; BBC Hindi lays out five reasons behind the resignation and notes his own history protesting a paper leak as a student in 1997.",
+          "flags": [
+            "Independent coverage foregrounds sustained protest pressure the state broadcaster's Games coverage omits"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "金正恩参谒中国人民志愿军烈士陵园",
+          "origTitle": "金正恩参谒中国人民志愿军烈士陵园",
+          "link": "https://www.chinanews.com.cn/gj/2026/07-27/10667105.shtml",
+          "source": "China News Service (Chinese)",
+          "summary": "North Korean leader Kim Jong Un visited the cemetery for Chinese People's Volunteer Army martyrs in South Pyongan province on the 73rd anniversary of the Korean War armistice, a symbolic gesture underscoring the China-North Korea relationship as state media also reported Pentagon figures of 642 US casualties from the Iran campaign.",
+          "flags": [
+            "State-media source — treat framing with caution"
+          ],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "Беспилотники ВСУ атаковали коммерческий объект в Белгороде",
+          "origTitle": "Беспилотники ВСУ атаковали коммерческий объект в Белгороде",
+          "link": "https://ria.ru/20260727/belgorod-2107214704.html",
+          "source": "RIA Novosti (Russian)",
+          "summary": "Russian state media reports Ukrainian drones struck a commercial facility in Belgorod, part of a steady drumbeat of state coverage today also featuring candlelight vigils in Crimea for children it says were killed by Ukrainian forces.",
+          "flags": [
+            "State-media source — treat framing with caution"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "Глава LVMH Бернар Арно скупает французские СМИ — чтобы давить на журналистов, продвигать правую повестку, унижать своих конкурентов и, конечно, богатеть",
+          "origTitle": "Глава LVMH Бернар Арно скупает французские СМИ — чтобы давить на журналистов, продвигать правую повестку, унижать своих конкурентов и, конечно, богатеть",
+          "link": "https://meduza.io/feature/2026/07/26/glava-lvmh-bernar-arno-skupaet-frantsuzskie-smi-chtoby-davit-na-zhurnalistov-prodvigat-pravuyu-povestku-unizhat-svoih-konkurentov-i-konechno-bogatet",
+          "source": "Meduza (Russian)",
+          "summary": "Meduza summarizes a Le Monde investigation into LVMH chief Bernard Arnault's buyout of French media outlets, alleging he uses them to pressure journalists, push a conservative/right-wing agenda, undercut business rivals, and shield LVMH from unflattering coverage.",
+          "flags": [
+            "Allegations sourced to a rival outlet's (Le Monde) investigation into a media-owning billionaire"
+          ],
+          "lang": "ru",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Puerto Rico",
+          "title": "Polvo del Sahara llega antes, con mayor frecuencia y permanece más tiempo en Puerto Rico: ¿qué implica?",
+          "origTitle": "Polvo del Sahara llega antes, con mayor frecuencia y permanece más tiempo en Puerto Rico: ¿qué implica?",
+          "link": "https://www.elnuevodia.com/noticias/locales/notas/polvo-del-sahara-llega-antes-con-mayor-frecuencia-y-permanece-mas-tiempo-en-puerto-rico-que-implica/",
+          "source": "El Nuevo Día (Spanish)",
+          "summary": "Saharan dust is arriving earlier in the season, more frequently, and lingering longer over Puerto Rico, a shift experts say is driving up respiratory and inflammatory illness even among otherwise healthy residents.",
+          "flags": [],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
+          "link": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
+          "source": "Ars Technica",
+          "summary": "A proposed EPA rule change would let states decide how much — if any — public input communities get before new AI data centers are approved nearby, as the industry pushes to speed up construction.",
+          "flags": [
+            "Rule would reduce, not expand, affected residents' input"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
+          "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
+          "source": "Ars Technica",
+          "summary": "US robotics researchers flew snake-like search robots to Venezuela to help hunt for survivors trapped in buildings collapsed by an earthquake, showcasing a niche disaster-response robotics application getting real-world use.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    }
+  ]
+}
