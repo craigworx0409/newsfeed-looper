@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-28",
+  "generatedAt": "2026-07-28T07:56:31Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
+          "link": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war",
+          "source": "NPR News",
+          "summary": "Netanyahu and Trump meet for the first time since the Iran war began, with both leaders facing domestic pressure — Netanyahu ahead of reelection amid a strained relationship with Trump, and Trump under pressure to end an unpopular war.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "With wildfires raging in France and Spain, fire crews race against next heat wave",
+          "link": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires",
+          "source": "NPR News",
+          "summary": "French President Macron called the wildfires devastating France \"completely unprecedented,\" describing the country's worst fire-related crisis since World War II, as crews in France and Spain brace for another heat wave.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "Trump calls protester 'communist' after Michigan speech interruption",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_trump-calls-heckler-communist-speech-interruption-280726?traffic_source=rss",
+          "source": "Al Jazeera English",
+          "summary": "A protester was removed after interrupting a Trump speech at a Michigan auto event, with international outlets like Al Jazeera closely tracking the moment as a snapshot of US political polarization.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "Paper leak crisis: Parliament's trial by fire | Monsoon Session | Anti Paper Leak Bill 2026",
+          "origTitle": "'पेपर लीक' संसद की 'अग्नि-परीक्षा' | Monsoon Session | Anti Paper Leak Bill 2026",
+          "link": "https://www.youtube.com/watch?v=RC0rYXLMD5Y",
+          "source": "DD News (Hindi)",
+          "summary": "State broadcaster coverage of Parliament's monsoon session debating a new anti-paper-leak bill aimed at cracking down on exam-paper-leak scandals.",
+          "flags": [],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "10 years jail, 10 crore rupee fine: what's special about the new proposed anti-paper-leak law?",
+          "origTitle": "10 साल की जेल, 10 करोड़ रुपये का जुर्माना: पेपर लीक रोकने वाले नए प्रस्तावित क़ानून में क्या है ख़ास?",
+          "link": "https://www.bbc.com/hindi/articles/c9d8qg5wv17o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Hindi",
+          "summary": "The central government has amended the 2024 Public Examinations (Prevention of Unfair Means) law to add tougher penalties — up to 10 years in prison and a 10-crore-rupee fine — for exam paper leaks; the article breaks down the new provisions.",
+          "flags": [
+            "Same story as the state-media pick above — useful to compare framing/detail"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "Foreign Ministry responds to US and European calls to create an Asian NATO analog",
+          "origTitle": "В МИД высказались о призывах США и Европы создать азиатский аналог НАТО",
+          "link": "https://ria.ru/20260728/mid-2107461919.html",
+          "source": "RIA Novosti (Russian)",
+          "summary": "Russia's Foreign Ministry commented on Western calls to build an Asian equivalent of NATO, framing it as part of broader US/European containment strategy.",
+          "flags": [
+            "State-media source — treat framing with caution"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "Moscow and the surrounding region hit by nearly 400 Ukrainian drones; one strikes an apartment building in Chekhov, warehouse fire in Podolsk",
+          "origTitle": "Москву и Подмосковье атаковали почти 400 украинских беспилотников. В Чехове дрон попал в многоэтажный дом, в Подольске горит склад",
+          "link": "https://meduza.io/news/2026/07/28/moskvu-i-podmoskovie-atakovali-pochti-400-ukrainskih-bespilotnikov-v-chehove-dron-popal-v-mnogoetazhnyy-dom-v-podolske-gorit-sklad",
+          "source": "Meduza (Russian)",
+          "summary": "A mass Ukrainian drone attack targeted the Moscow region, with one drone striking an apartment building in Chekhov (two flats damaged, no reported casualties per the regional governor) and a warehouse fire in Podolsk.",
+          "flags": [
+            "Casualty/damage figures come from Russian regional officials and are unverified independently"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "US concerned about China laying undersea cables in the Pacific; China's foreign ministry responds",
+          "origTitle": "美国担心中方在太平洋地区布设海底光缆 中国外交部回应",
+          "link": "https://www.chinanews.com.cn/gj/2026/07-28/10667892.shtml",
+          "source": "China News Service (Chinese)",
+          "summary": "At a routine briefing, a Chinese foreign ministry spokesperson responded to a reporter's question about US concerns over China laying undersea cables in the Pacific region.",
+          "flags": [
+            "State-media source; China's response framing not independently verified"
+          ],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "state",
+          "title": "M7.1 earthquake near Kumamoto hits intensity 7 in Uki and Hikawa; tsunami advisory for Ariake and Yatsushiro seas",
+          "origTitle": "熊本 宇城市と氷川町で震度7 有明・八代海に津波注意報",
+          "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188221000.html",
+          "source": "NHK (Japanese)",
+          "summary": "A magnitude 7.1 earthquake struck the Kumamoto region at a depth of 10km, registering the maximum intensity-7 shaking in Uki City and Hikawa Town, with intensity-6 shaking across several other municipalities; a tsunami advisory (up to 1m) was issued for the Ariake and Yatsushiro seas, and Kyushu Shinkansen and all JR Kyushu trains were halted.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "Immigration agency plans to raise income threshold for permanent residency when supporting 5+ foreign family dependents",
+          "origTitle": "永住許可の年収水準、外国の親族含む扶養5人以上で加算　入管庁方針",
+          "link": "http://www.asahi.com/articles/ASV7X1JSJV7XUTIL00KM.html?ref=rss",
+          "source": "Asahi Shimbun (Japanese)",
+          "summary": "Japan's Immigration Services Agency plans to require a higher minimum income for permanent residency applicants who support five or more dependents, including foreign relatives, as part of tightening residency criteria.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Vermont",
+          "title": "Audit reveals Brattleboro hospital's multiyear budget deficit has risen to at least $30 million",
+          "link": "https://vtdigger.org/2026/07/27/audit-reveals-brattleboro-hospitals-multiyear-budget-deficit-has-risen-to-at-least-30-million/",
+          "source": "VTDigger",
+          "summary": "A new audit found Brattleboro Memorial Hospital's multiyear budget deficit has grown to at least $30 million, which a hospital administrator attributed partly to financial reporting systems being \"in shambles.\"",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "place": "Puerto Rico",
+          "title": "Do 55,521 unowned properties exist in Puerto Rico? CRIM begins project to identify them",
+          "origTitle": "¿Existen 55,521 propiedades sin dueños en Puerto Rico? El CRIM comienza proyecto para identificarlas",
+          "link": "https://www.elnuevodia.com/noticias/gobierno/notas/existen-55521-propiedades-sin-duenos-en-puerto-rico-el-crim-comienza-proyecto-para-identificarlas/",
+          "source": "El Nuevo Día (Spanish)",
+          "summary": "Puerto Rico's municipal revenue agency (CRIM) is launching a project to identify tens of thousands of properties with no registered owner, one of several mechanisms approved by the fiscal oversight board to raise funds for municipal governments.",
+          "flags": [],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "Why China is giving away its best AI models",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+          "source": "The Verge",
+          "summary": "Moonshot AI's Kimi K3, a Chinese open-weight model that reportedly beats some top US systems at a fraction of the cost, has intensified the US-China AI rivalry and raised questions about the strategy behind giving away frontier-level open models.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+          "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+          "source": "Ars Technica",
+          "summary": "Microsoft announced new AI-focused security tools it claims cost less and outperform competing platforms, part of the broader vendor race to secure enterprise AI deployments.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "X Money is launching in the US starting today",
+          "link": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
+          "source": "The Verge",
+          "summary": "X Money, Elon Musk's payments push for turning X into an \"everything app,\" is rolling out in the US with a digital wallet, peer-to-peer payments similar to Venmo, and a metal Visa card.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "title": "Anime",
+      "picks": [
+        {
+          "title": "Crunchyroll to Stream Romelia War Chronicle Anime",
+          "link": "https://www.animenewsnetwork.com/news/2026-07-27/crunchyroll-to-stream-romelia-war-chronicle-anime/.240021",
+          "source": "Anime News Network",
+          "summary": "Crunchyroll announced it will stream Romelia War Chronicle, with the anime's world premiere screening at Otakon on July 31.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "True to the Source Material: An Interview with Suikoden: The Anime's Producers",
+          "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/true-to-the-source-material-an-interview-with-suikoden-the-anime-producers/.239735",
+          "source": "Anime News Network",
+          "summary": "Producers of the Suikoden anime discuss what inspired KONAMI to bring the beloved RPG franchise back as a new anime series.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "comedy",
+      "title": "Comedy",
+      "picks": [
+        {
+          "title": "# 666 Ottomans Piglet",
+          "link": "https://2218a635-1d78-4a47-a42f-37c1d7825f1d.libsyn.com/-666-ottomans-piglet",
+          "source": "Mark Normand - Tuesdays with Stories",
+          "summary": "New episode of Tuesdays with Stories with Mark Normand and Joe List swapping old comedy-circuit stories.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "podcast",
+      "title": "Podcasts",
+      "picks": []
+    }
+  ]
+}
