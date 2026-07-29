@@ -1,0 +1,262 @@
+{
+  "_schema": "Newsfeed v2 curated data — produced by the loop each digest from state/news-scan.json, consumed by generate.ps1 (-CuratedFile) and the digest DM. The loop does the selection + one-paragraph summaries + controversy flags + translation. NO full article text is stored.",
+  "date": "2026-07-29",
+  "generatedAt": "2026-07-29T07:56:47Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "Jordan intercepts Iranian missiles as US and Saudi Arabia launch strikes against militias in Iraq",
+          "link": "https://apnews.com/article/iran-war-us-hormuz-strait-july-29-2026-e31d249ba6443decdd3e63cd00f0fb84",
+          "source": "AP News",
+          "summary": "The US-Iran conflict widened overnight: Jordan shot down Iranian missiles transiting its airspace, while US and Saudi forces struck Iran-backed militia positions in Iraq after the group attacked US bases and Saudi energy infrastructure. Iran separately struck three ships in the Strait of Hormuz and rejected an Omani proposal to manage the waterway, and analysts say the fighting is drawing down key US Patriot/THAAD missile-defense stockpiles.",
+          "flags": [
+            "Active, escalating multi-country conflict — casualty and strike details still emerging"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "‘Race against time’: Japan earthquake death toll rises as rescue teams search for missing",
+          "link": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-death-aftershocks",
+          "source": "The Guardian (World)",
+          "summary": "A magnitude 6.8–7.1 earthquake struck Kumamoto on Japan's Kyushu island, registering a maximum of 7 on the Japanese intensity scale; a shopping mall in Kashima collapsed and an explosion followed, and Japanese authorities now count at least 12–13 dead with several more in cardiac/respiratory arrest and multiple people unaccounted for. PM Sanae Takaichi has mobilized thousands of military personnel, Toyota and Honda have suspended local factory operations, and officials are warning of aftershocks up to magnitude 7 for another week.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "FCC bans humanoid robots from China, citing ‘unacceptable risks’",
+          "link": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china",
+          "source": "The Guardian (World)",
+          "summary": "The FCC announced a ban on Chinese-made \"advanced robotic devices\" — including humanoid and quadruped robots — plus foreign power inverters, citing national-security risk; it's the latest move in the Trump administration's effort to keep Chinese technology out of the US and lands as the US and China race for leadership in robotics and AI.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "देश के औद्योगिक उत्पादन में जोरदार उछाल, Production Growth रेट बढ़कर 7.3% पर पहुंची",
+          "origTitle": "देश के औद्योगिक उत्पादन में जोरदार उछाल, Production Growth रेट बढ़कर 7.3% पर पहुंची | Samachar",
+          "link": "https://www.youtube.com/watch?v=i-_BPERx_Ro",
+          "source": "DD News (Hindi)",
+          "summary": "State broadcaster DD News reports India's industrial production growth rate jumped to 7.3%, framed as a strong economic signal, alongside same-day coverage of an anti-paper-leak bill moving through the monsoon session of parliament.",
+          "flags": [],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "एके-47 भारत में कब आई थी, क्या पुलिस ऐसे हथियार इस्तेमाल कर सकती है?",
+          "origTitle": "एके-47 भारत में कब आई थी, क्या पुलिस ऐसे हथियार इस्तेमाल कर सकती है?",
+          "link": "https://www.bbc.com/hindi/articles/cewrdj1kll0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Hindi",
+          "summary": "BBC Hindi examines the fallout from a viral video showing a police officer firing an AK-47 into a crowd of protesting students in Siwan, Bihar on July 25, raising questions about why such weapons are issued to police and how they're allowed to be used against civilians.",
+          "flags": [
+            "Police use of assault rifles against protesters is the core controversy"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "谢锋：中美只有对话合作的责任，没有冲突对抗的理由",
+          "origTitle": "谢锋：中美只有对话合作的责任，没有冲突对抗的理由",
+          "link": "https://www.chinanews.com.cn/gj/2026/07-29/10668585.shtml",
+          "source": "China News Service (Chinese)",
+          "summary": "China's ambassador to the US, Xie Feng, said in Washington that as the world's two largest economies, China and the US have a responsibility to dialogue and cooperate, not confront each other — official framing aimed at lowering the temperature amid ongoing US-China tension.",
+          "flags": [
+            "State-media source — treat framing with caution"
+          ],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "FT: Венгрия заблокировала два кластера по вступлению Украины в Евросоюз",
+          "origTitle": "FT: Венгрия заблокировала два кластера по вступлению Украины в Евросоюз",
+          "link": "https://ria.ru/20260729/vengrija-2107681338.html",
+          "source": "RIA Novosti (Russian)",
+          "summary": "Citing the Financial Times, Russian state agency RIA Novosti reports Hungary has blocked two negotiating clusters in Ukraine's EU accession process, another sign of internal EU friction over Ukraine's membership path.",
+          "flags": [
+            "State-media source — treat framing with caution"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "ФСБ обвинила Павла Дурова в содействии терроризму, его объявят в международный розыск",
+          "origTitle": "ФСБ обвинила Павла Дурова в содействии терроризму, его объявят в международный розыск",
+          "link": "https://meduza.io/news/2026/07/29/fsb-obvinila-pavla-durova-v-sodeystvii-terrorizmu-ego-ob-yavyat-v-mezhdunarodnyy-rozysk",
+          "source": "Meduza (Russian)",
+          "summary": "Russia's FSB has charged Telegram founder Pavel Durov with facilitating terrorism, alleging the platform fails to remove channels and bots used to coordinate attacks in Russia, and says it will seek an international arrest warrant — though Interpol's database reportedly shows no such request yet.",
+          "flags": [
+            "Widely seen as politically motivated pressure on Telegram/Durov"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "state",
+          "title": "【熊本県まとめ】12人死亡 6人心肺停止 少なくとも4人安否不明",
+          "origTitle": "【熊本県まとめ】12人死亡 6人心肺停止 少なくとも4人安否不明",
+          "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189221000.html",
+          "source": "NHK (Japanese)",
+          "summary": "Public broadcaster NHK's official Kumamoto prefecture tally: 12 confirmed dead, 6 in cardiopulmonary arrest, 62 injured, and at least 4 unaccounted for after the quake and mall explosion, with rescue and recovery operations ongoing.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "新幹線も激しい横揺れ「死ぬかも」　車内で14時間、割れていた地面",
+          "origTitle": "新幹線も激しい横揺れ「死ぬかも」　車内で14時間、割れていた地面",
+          "link": "http://www.asahi.com/articles/ASV7Y2D6RV7YPTIL00ZM.html?ref=rss",
+          "source": "Asahi Shimbun (Japanese)",
+          "summary": "Asahi Shimbun tells the story of bullet-train passengers who thought \"I might die\" during the violent shaking, then spent 14 hours stuck aboard the train as cracked ground and damaged track halted service — a human-interest counterpoint to the official casualty updates.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Vermont",
+          "title": "Judge finds Vermont's federal grants can't be rescinded if political priorities shift",
+          "link": "https://vtdigger.org/2026/07/28/judge-finds-vermonts-federal-grants-cant-be-rescinded-if-political-priorities-shift/",
+          "source": "VTDigger",
+          "summary": "A judge ruled that Vermont's federal grants cannot be clawed back simply because federal political priorities changed; Attorney General Charity Clark called it an important step protecting the state's federal funding from arbitrary termination by the Trump administration.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "place": "Puerto Rico",
+          "title": "Neveritas de \"foam\" en playas y balnearios: ¿hay avances desde su prohibición por ley hace cinco años?",
+          "origTitle": "Neveritas de \"foam\" en playas y balnearios: ¿hay avances desde su prohibición por ley hace cinco años?",
+          "link": "https://www.elnuevodia.com/noticias/locales/notas/neveritas-de-foam-en-playas-y-otros-cuerpos-de-agua-hay-avances-desde-su-prohibicion-por-ley-hace-cinco-anos/",
+          "source": "El Nuevo Día (Spanish)",
+          "summary": "Five years after Puerto Rico banned foam coolers at beaches and other bodies of water, El Nuevo Día finds enforcement has lagged — sources cite a lack of public education, signage, and tracking data undermining the law's environmental goals.",
+          "flags": [],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "AI leaders sign a statement asking the government to do something about automated AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+          "source": "The Verge",
+          "summary": "Employees of OpenAI, Anthropic, Google, Meta, Microsoft, Mistral, and Thinking Machines signed a statement urging the US government to slow or better coordinate frontier AI development, arguing AI could be transformative but the pace of progress is outstripping governance.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "AI's finally expensive enough to make Wall Street nervous",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+          "source": "The Verge",
+          "summary": "Google raised its 2026 capex guidance to as much as $205 billion (from $190 billion last quarter), and investors reacted badly — a sign that AI infrastructure spending is starting to worry markets even as the underlying business case remains unproven.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
+          "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+          "source": "Ars Technica",
+          "summary": "An analysis of 15 million real AI interactions found that most tasks in most jobs remain largely unaffected by AI so far, pushing back on fears of imminent mass automation.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Study: Dinosaurs were charbroiled after Chicxulub impact",
+          "link": "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
+          "source": "Ars Technica",
+          "summary": "New modeling suggests the dust cloud thrown up by the Chicxulub asteroid impact heated Earth's surface enough to kill many organisms within the first hour or two, well before the longer \"impact winter\" everyone learned about in school.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "title": "Anime",
+      "picks": [
+        {
+          "title": "Gachiakuta Anime Streams 'First Look' Video for 2nd Season",
+          "link": "https://www.animenewsnetwork.com/news/2026-07-28/gachiakuta-anime-streams-first-look-video-for-2nd-season/.240062",
+          "source": "Anime News Network",
+          "summary": "A first-look video for Gachiakuta's second season has dropped, following the anime's first-season debut in July 2025.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "The Apothecary Diaries Announces New Collaboration With Ibaraki Prefecture",
+          "link": "https://www.animenewsnetwork.com/interest/2026-07-28/the-apothecary-diaries-announces-new-collaboration-with-ibaraki-prefecture/.240053",
+          "source": "Anime News Network",
+          "summary": "The Apothecary Diaries is teaming up with Ibaraki Prefecture for a tourism collaboration featuring leads Jinshi and Maomao exploring the region across a four-season video series.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "podcast",
+      "title": "Podcasts",
+      "picks": [
+        {
+          "title": "Episode 337: First Contact? (Tarkovsky's \"Solaris\")",
+          "link": "https://78700ea2-cdf8-41c6-b616-fd5f05b760d7.libsyn.com/episode-337-first-contact-tarkovskys-solaris",
+          "source": "Very Bad Wizards",
+          "summary": "David and Tamler discuss Andrei Tarkovsky's 1972 film adaptation of Solaris, covering how it diverges from Stanislaw Lem's novel, its ambiguous ending, the famous five-minute driving scene, and a contrast with Kubrick's 2001: A Space Odyssey.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    }
+  ]
+}
