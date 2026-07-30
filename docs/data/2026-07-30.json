@@ -1,0 +1,216 @@
+{
+  "date": "2026-07-30",
+  "generatedAt": "2026-07-30T08:03:52Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "US launches fresh strikes on Iran after days-long pause, amid fears the war is widening",
+          "link": "https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq",
+          "source": "The Guardian (World)",
+          "summary": "The US military struck Iranian targets again after Trump vowed to hit Iran \"very hard\" following Tehran's attack on American forces in Jordan, raising fears of a return to all-out regional war after a days-long pause and joint US-Saudi strikes on Iran-backed militia in Iraq.",
+          "flags": [
+            "Casualty and target-scope claims come mainly from US Central Command and Iranian state media, which disagree on scale"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "Ukraine says Russian missile entered Polish airspace overnight",
+          "link": "https://www.reuters.com/world/europe/polish-police-find-crater-debris-unidentified-object-russia-strikes-ukraine-2026-07-30/",
+          "source": "Reuters World",
+          "summary": "A Russian cruise missile crossed into NATO member Poland's airspace overnight during a large missile and drone barrage on Ukraine that killed at least 13 people, with Polish authorities finding a crater and debris field and PM Tusk traveling to the impact site.",
+          "flags": [
+            "Direct NATO-territory incursion claim raises escalation stakes and is still being investigated"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "The US government just banned Roombas",
+          "link": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
+          "source": "The Verge",
+          "summary": "The Trump administration's new ban on \"advanced robotic devices\" from China, framed around humanoid robots and spying concerns, turns out to also sweep up ordinary robot vacuum cleaners, the FCC confirmed.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "11 बजे LIVE : संसद में आज बड़े कामकाज | राज्यसभा में Anti Paper Leak Bill",
+          "origTitle": "11 बजे LIVE : संसद में आज बड़े कामकाज | राज्यसभा में Anti Paper Leak Bill",
+          "link": "https://www.youtube.com/watch?v=EgL3f6Clpcg",
+          "source": "DD News (Hindi)",
+          "summary": "India's state broadcaster covers a busy parliamentary day, with the Rajya Sabha taking up an anti-paper-leak bill aimed at exam-cheating scandals.",
+          "flags": [],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "मनमोहन सिंह हुए 'बेदाग़', क्या था 'कोयला घोटाला' मामला जिसमें तत्कालीन पीएम को किया गया था तलब",
+          "origTitle": "मनमोहन सिंह हुए 'बेदाग़', क्या था 'कोयला घोटाला' मामला जिसमें तत्कालीन पीएम को किया गया था तलब",
+          "link": "https://www.bbc.com/hindi/articles/c141elelxk4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Hindi",
+          "summary": "India's Supreme Court accepted the CBI's closure report in the long-running coal allocation scam, clearing former PM Manmohan Singh and other accused; the Congress party is now demanding an apology from PM Modi.",
+          "flags": [
+            "Politically charged given ongoing Congress-BJP dispute over the case"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "日媒：日本熊本县地震死亡人数升至28人",
+          "origTitle": "日媒：日本熊本县地震死亡人数升至28人",
+          "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669065.shtml",
+          "source": "China News Service (Chinese)",
+          "summary": "Chinese state media reports, citing Japanese broadcaster NHK, that the death toll from the Kumamoto earthquake in Japan has risen to 28, with some cases still under investigation for disaster linkage.",
+          "flags": [],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "Число погибших из-за землетрясения на острове Кюсю выросло до 34",
+          "origTitle": "Число погибших из-за землетрясения на острове Кюсю выросло до 34",
+          "link": "https://ria.ru/20260730/zemletryasenie-2107862477.html",
+          "source": "RIA Novosti (Russian)",
+          "summary": "Russian state media reports the Kyushu, Japan earthquake death toll has climbed to 34 — a higher figure than the Chinese state report, reflecting the fast-moving and still-uncertain casualty count.",
+          "flags": [
+            "State-media source — casualty figure differs from other outlets' counts"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "ФСБ предъявила Павлу Дурову обвинения в содействии терроризму. В ответ он поставил себе на аватарку фото в образе террориста",
+          "origTitle": "ФСБ предъявила Павлу Дурову обвинения в содействии терроризму. В ответ он поставил себе на аватарку фото в образе террориста",
+          "link": "https://meduza.io/feature/2026/07/29/fsb-pred-yavila-pavlu-durovu-obvineniya-v-sodeystvii-terrorizmu-v-otvet-on-postavil-sebe-na-avatarku-foto-v-obraze-terrorista-glavnoe",
+          "source": "Meduza (Russian)",
+          "summary": "Russia's FSB has formally charged Telegram founder Pavel Durov with aiding terrorism, alleging the platform refuses to remove channels used by Ukrainian intelligence for sabotage and fraud; Durov responded by setting his avatar to a photo of himself styled as a terrorist.",
+          "flags": [
+            "FSB allegations against Durov are politically motivated per independent Russian press framing; unverified by Western outlets"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "ソニーが光学レンズ製造のタムロンに買収提案、カメラ事業の強化狙う",
+          "origTitle": "ソニーが光学レンズ製造のタムロンに買収提案、カメラ事業の強化狙う",
+          "link": "https://www.asahi.com/articles/ASV7Z2DJQV7ZULFA016M.html?ref=rss",
+          "source": "Asahi Shimbun (Japanese)",
+          "summary": "Sony has proposed acquiring lens maker Tamron, aiming to strengthen its camera business. No new item from a Japan state outlet appeared in this scan cycle.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Vermont",
+          "title": "Williston Newspaper Owners Open Bookstore and Café as a Spot to Congregate and Celebrate the Written Word",
+          "link": "https://www.sevendaysvt.com/news/media-news/williston-newspaper-owners-open-bookstore-and-cafe-as-a-spot-to-congregate-and-celebrate-the-written-word/",
+          "source": "Seven Days",
+          "summary": "Susan and Rick Cote, owners of the Williston Observer, opened a new bookstore and café in Finney Crossing, hoping to give the community a gathering space.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "place": "Puerto Rico",
+          "title": "\"Se debieron a fallas de personal\": Josué Colón apunta a despidos en Genera PR como causa de averías en centrales",
+          "origTitle": "\"Se debieron a fallas de personal\": Josué Colón apunta a despidos en Genera PR como causa de averías en centrales",
+          "link": "https://www.elnuevodia.com/noticias/locales/notas/se-debieron-a-fallas-de-personal-josue-colon-apunta-a-despidos-en-genera-pr-como-causa-de-averias-en-centrales/",
+          "source": "El Nuevo Día (Spanish)",
+          "summary": "Puerto Rico's energy czar Josué Colón said recent power plant breakdowns stem from staffing cuts at grid operator Genera PR, and the company is now exploring ways to reinforce its management team.",
+          "flags": [
+            "Blame-attribution for outages is contested between officials and the operator"
+          ],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+          "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+          "source": "Ars Technica",
+          "summary": "Microsoft is racing behind the scenes to patch security exploits that Anthropic's AI-driven bug hunting is surfacing faster than the company can fix them.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+          "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+          "source": "Hacker News",
+          "summary": "A technical writeup timelines a July 2026 security incident involving an AI agent at a frontier lab, offering a detailed post-mortem of how the intrusion unfolded.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Elon Musk's xAI sues Minnesota over its first-in-the-nation law banning 'nudification' technology",
+          "link": "https://apnews.com/article/minnesota-artificial-intelligence-nudification-x-elon-musk-deepfake-131184be939d540de093b567b12c9e16",
+          "source": "AP News",
+          "summary": "xAI is challenging a new Minnesota law that bans AI \"nudification\" technology, the first state law of its kind targeting deepfake image generation.",
+          "flags": [
+            "Ongoing litigation — legal outcome undecided"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "title": "Anime",
+      "picks": []
+    },
+    {
+      "key": "comedy",
+      "title": "Comedy",
+      "picks": []
+    },
+    {
+      "key": "podcast",
+      "title": "Podcasts",
+      "picks": []
+    }
+  ]
+}
