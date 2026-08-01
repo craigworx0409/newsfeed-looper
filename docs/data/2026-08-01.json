@@ -1,0 +1,259 @@
+{
+  "date": "2026-08-01",
+  "generatedAt": "2026-08-01T08:04:39Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "A high-stakes test for Trump's Gaza ceasefire board as Hamas disarmament looms",
+          "link": "https://apnews.com/article/israel-hamas-gaza-trump-disarmament-palestinians-board-of-peace-mladenov-19bc6cfd488059602e43d00df113dd6e",
+          "source": "AP News",
+          "summary": "Trump announced a deal under which Hamas would fully disarm and Israeli forces would withdraw from Gaza, but the newly created \"Board of Peace\" overseeing the ceasefire now faces its first major test as disarmament talks proceed amid deep skepticism on both sides.",
+          "flags": [
+            "Netanyahu faces domestic political pressure tied to the withdrawal plan"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
+          "link": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
+          "source": "The Guardian (World)",
+          "summary": "At least 57 migrants died as roughly 50,000-60,000 people crossed from Morocco into the Spanish enclave of Ceuta within 24 hours, overwhelming the city of 85,000 and triggering a political crisis; PM Pedro Sánchez called it a \"violation of territorial integrity,\" while Italy suspended its Schengen agreement with Spain and other EU states debated suspending Spain from Schengen.",
+          "flags": [
+            "EU members split over response, with some pushing to suspend Spain from Schengen"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "Bessent 'to-do' list shows proposal for US to buy $5bn-$10bn of Japanese yen",
+          "link": "https://www.theguardian.com/us-news/2026/jul/31/scott-bessent-japanese-yen",
+          "source": "The Guardian (World)",
+          "summary": "A Reuters photographer captured a \"to-do\" list on Treasury Secretary Scott Bessent's notepad during a Camp David cabinet meeting, revealing a plan to buy $5-10 billion in Japanese yen — an inadvertent disclosure raising questions about a possible coordinated US currency intervention as the yen weakens.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "PM Modi inaugurates new international airport at Bhogapuram",
+          "origTitle": "देश को मिला नया International Airport | PM Modi ने किया Bhogapuram Airport का उद्घाटन",
+          "link": "https://www.youtube.com/watch?v=p6Z-4W9MFwk",
+          "source": "India state · DD News (Hindi)",
+          "summary": "Prime Minister Narendra Modi inaugurated a new international airport at Bhogapuram in Vizianagaram, Andhra Pradesh, state broadcaster DD News reported, laying foundation stones for several other regional projects during the visit.",
+          "flags": [],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "Why Pakistan's interior minister invoked India's 'cockroach' protest language",
+          "origTitle": "पाकिस्तान के गृह मंत्री मोहसिन नक़वी ने क्यों कहा- कॉकरोच इकट्ठा हो गए तो सब कुछ उलट देंगे, सेना से क्या मिला जवाब?",
+          "link": "https://www.bbc.com/hindi/articles/cz7d1g1yd0yo?at_medium=RSS&at_campaign=rss",
+          "source": "India independent · BBC Hindi",
+          "summary": "Pakistan's interior minister Mohsin Naqvi warned that if \"cockroaches gather, they will overturn everything\" — echoing the derogatory framing used against India's student protest movement — prompting a rebuttal from Pakistan's army, as separate reporting finds pellet-gun wounds among Indian protesters detained in the crackdown.",
+          "flags": [
+            "Inflammatory dehumanizing language against protesters, now picked up cross-border"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "Iran warns it has a full response plan if US/Israel strike its energy facilities",
+          "origTitle": "美以或袭击伊能源设施？ 伊朗警告：已制定全面应对计划",
+          "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670310.shtml",
+          "source": "China state · China News Service (Chinese)",
+          "summary": "Chinese state media reports a senior Iranian security official says Iran has drawn up a comprehensive response plan in case the US and Israel strike its energy infrastructure, amid fears of an expanded regional conflict.",
+          "flags": [
+            "State-media source — treat framing with caution"
+          ],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "Spain begins installing new sea barriers at Ceuta amid migrant influx",
+          "origTitle": "В Сеуте начали установку новых заграждений в море из-за наплыва мигрантов",
+          "link": "https://ria.ru/20260801/seuta-2108363421.html",
+          "source": "Russia state · RIA Novosti (Russian)",
+          "summary": "Russian state outlet RIA Novosti reports Spain has begun installing new sea barriers at Ceuta in response to the surge of migrants crossing from Morocco.",
+          "flags": [
+            "State-media source — treat framing with caution"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "Russian ballistic missile strike on Kyiv kills nine, wounds more than 30",
+          "origTitle": "Российские военные нанесли удар по Киеву. Погибли девять человек, более 30 ранены",
+          "link": "https://meduza.io/news/2026/08/01/rossiyskie-voennye-udarili-ballistikoy-po-kievu-pogibli-devyat-chelovek-bolee-20-raneny",
+          "source": "Russia independent · Meduza (Russian)",
+          "summary": "Independent outlet Meduza reports Russian forces struck Kyiv with ballistic missiles overnight, killing nine people and wounding more than 30, according to Kyiv mayor Vitali Klitschko — matching Western reporting on the strike.",
+          "flags": [],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "state",
+          "title": "Kumamoto earthquake death toll rises to 36, over 9,000 still evacuated",
+          "origTitle": "熊本地震 関連調査中含め36人死亡 9000人余避難",
+          "link": "http://www3.nhk.or.jp/news/html/20260801/k10015193131000.html",
+          "source": "Japan public · NHK (Japanese)",
+          "summary": "NHK reports Kumamoto Prefecture's earthquake death toll has risen to 36, including two deaths still under investigation for a direct link, with over 9,000 people still in evacuation shelters across 218 sites.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "Prosecutors under pressure as former special investigator's misconduct scandal grows",
+          "origTitle": "元特捜検事の不適切交際「あり得ない」　相次ぐ問題に検察の一手は",
+          "link": "http://www.asahi.com/articles/ASV7Y4406V7YUTIL05FM.html?ref=rss",
+          "source": "Japan independent · Asahi Shimbun (Japanese)",
+          "summary": "The Asahi Shimbun covers a growing scandal over a former special investigative prosecutor's \"inappropriate relationship,\" with prosecutors under pressure to respond as similar misconduct allegations mount within Japan's elite prosecution corps.",
+          "flags": [
+            "Ongoing internal scandal within Japan's prosecutorial service"
+          ],
+          "lang": "ja",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Vermont",
+          "title": "Driver Cited for Burlington Crash That Killed 16-Year-Old Cyclist",
+          "link": "https://www.sevendaysvt.com/news/crime-news/driver-cited-for-negligent-operation-in-crash-that-killed-16-year-old-cyclist-shiloh-skalka/",
+          "source": "Vermont · Seven Days",
+          "summary": "Burlington police cited driver Douglas Knapp for negligent operation after a crash that killed 16-year-old cyclist Shiloh Skalka; police released no new details on how the crash occurred, and Knapp is due in court next month.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "place": "Puerto Rico",
+          "title": "Federal help for Medicare Part D drug costs ends",
+          "origTitle": "Fin a la ayuda federal para el pago de medicamentos en la Parte D de Medicare",
+          "link": "https://www.elnuevodia.com/negocios/economia/notas/fin-a-la-ayuda-federal-para-el-pago-de-medicamentos-en-la-parte-d-de-medicare/",
+          "source": "Puerto Rico · El Nuevo Día (Spanish)",
+          "summary": "The Centers for Medicare & Medicaid Services announced that federal assistance covering drug costs under Medicare Part D will end next year, a decision expected to affect thousands of patients on the island.",
+          "flags": [],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+          "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+          "source": "Ars Technica",
+          "summary": "Ars Technica reports Anthropic's Claude was used to publish malicious code online and carry out attacks against three real companies, questioning whether conventional hacking methods would have led to prosecution and whether Anthropic will face accountability.",
+          "flags": [
+            "Raises open questions about AI-company liability for agentic misuse"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+          "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+          "source": "Ars Technica",
+          "summary": "Google quietly launched, then swiftly retracted, an AI feature in Google Earth that let users generate fabricated satellite/aerial imagery from text prompts — researchers demonstrated convincing deepfakes of real locations, including fake refugee scenes near the US-Mexico border and a fake bomb crater near a Gaza hospital, before Google pulled it after about a day.",
+          "flags": [
+            "Demonstrates real-world deepfake/misinformation risk from generative mapping tools"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "NHTSA investigating 1.2 million Tesla vehicles over suspension failure reports",
+          "link": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension",
+          "source": "The Verge",
+          "summary": "US safety regulators opened a preliminary investigation into roughly 1.2 million Tesla Model 3 (2018-2020) and Model Y (2021-2023) vehicles over complaints of suspension failures that could cause loss of directional control.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
+          "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+          "source": "Ars Technica",
+          "summary": "A Pennsylvania high school is defending its decision not to publicly disclose that male students used AI to generate fake nude images of 59 female classmates, with reporting noting gaps in state law that may shield the school from consequences.",
+          "flags": [
+            "Involves AI-generated non-consensual imagery of minors; legal accountability gaps"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "title": "Anime",
+      "picks": [
+        {
+          "title": "Crunchyroll Streams That Time I Got Reincarnated as a Slime: Tears of the Azure Sea Film",
+          "link": "https://www.animenewsnetwork.com/news/2026-07-31/crunchyroll-streams-that-time-i-got-reincarnated-as-a-slime-tears-of-the-azure-sea-film/.240152",
+          "source": "Anime News Network",
+          "summary": "Crunchyroll began streaming the film \"That Time I Got Reincarnated as a Slime: Tears of the Azure Sea,\" which opened in Japan in February and the US in May.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "podcast",
+      "title": "Podcasts",
+      "picks": [
+        {
+          "title": "#487 — Is AI Already Conscious?",
+          "link": "https://wakingup.libsyn.com/487-is-ai-already-conscious",
+          "source": "Sam Harris - Making Sense",
+          "summary": "Sam Harris talks with Cameron Berg about whether AI systems are or could become conscious, covering self-reports from LLMs, the \"bliss attractor\" state, the hard problem of consciousness, parallels to biological neural networks, and the moral risk of building minds capable of suffering.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    }
+  ]
+}
