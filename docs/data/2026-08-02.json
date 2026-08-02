@@ -1,0 +1,258 @@
+{
+  "date": "2026-08-02",
+  "generatedAt": "2026-08-02T08:02:00Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+          "link": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+          "source": "NPR News",
+          "summary": "Trump announced he is halting planned strikes on Iran, saying Mideast allies have reached the outlines of a deal to end the confrontation, contingent on it being finalized quickly. Even as the announcement landed, Israeli strikes reportedly killed several people in Gaza, and Iran's Revolutionary Guard claimed to have destroyed US F-35 jets — a claim state media in China and Russia are amplifying.",
+          "flags": [
+            "Iran's claimed F-35 losses are unverified and being pushed heavily by state media",
+            "Ceasefire timeline is vague ('rapidly') and fighting continued on the ground after the announcement"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+          "link": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+          "source": "The Guardian (World)",
+          "summary": "Spain's PM Pedro Sánchez has called an urgent EU interior ministers' meeting after a surge of migrant crossings into the Spanish enclave of Ceuta turned into a political crisis, reportedly following a large death toll among migrants. Spain has since installed a maritime barrier at Ceuta, and Germany's foreign ministry is publicly pushing for the EU's external borders to be better protected.",
+          "flags": [
+            "Sánchez has long been seen as migrant-friendly, so this reversal is politically fraught for him"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "Trump stands to profit off US policy announcements by selling fast access to his social media posts",
+          "link": "https://apnews.com/article/trump-truth-social-media-insider-trading-posts-feeds-traders-25c2c5be926f2650d0610c84100cffb8",
+          "source": "AP News",
+          "summary": "AP reports Trump personally stands to profit from a scheme selling paid, faster access to his Truth Social policy posts to traders — meaning market-moving government announcements can effectively be monetized by the person making them, raising conflict-of-interest concerns unique to his dual role as president and platform owner.",
+          "flags": [
+            "Direct financial conflict-of-interest between the presidency and a business Trump owns"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "नशा मुक्त युवा, विकसित भारत — Drug Free India drive gains momentum",
+          "origTitle": "'नशा मुक्त युवा, विकसित भारत' संकल्प अभियान | नशे के खिलाफ PM मोदी का बड़ा संदेश",
+          "link": "https://www.youtube.com/watch?v=NSP4gkJ-0F4",
+          "source": "DD News (Hindi)",
+          "summary": "India's state broadcaster is heavily promoting PM Modi's 'Drug-Free Youth, Developed India' anti-narcotics campaign, framing it as a nation-building initiative reaching villages and youth nationwide.",
+          "flags": [],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "Who were the two migrant workers killed in Kashmir? LG calls it a 'brutal terror attack'",
+          "origTitle": "कश्मीर में मारे गए दो प्रवासी मज़दूर कौन थे, एलजी ने कहा- 'क्रूर आतंकी हमला'",
+          "link": "https://www.bbc.com/hindi/articles/cn8n5e9d6x8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Hindi",
+          "summary": "Two migrant laborers were killed in Kashmir in an attack the region's Lieutenant Governor has condemned as a brutal act of terrorism, reviving concerns about the safety of non-local workers in the valley.",
+          "flags": [],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "Iran's Revolutionary Guard claims it destroyed 3 US F-35 fighter jets",
+          "origTitle": "伊朗革命卫队称摧毁3架美军F-35战机",
+          "link": "https://www.chinanews.com.cn/gj/2026/08-02/10670779.shtml",
+          "source": "China News Service (Chinese)",
+          "summary": "Chinese state media is amplifying Iran's unverified claim that its Revolutionary Guard shot down three American F-35 fighter jets, a framing that undercuts the US's narrative of a de-escalating conflict.",
+          "flags": [
+            "Unverified claim from a combatant, presented uncritically by state media"
+          ],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "Zelensky has launched a plan to destroy Ukraine, Duma deputy claims",
+          "origTitle": "Зеленский запустил план по уничтожению Украины, считает депутат Госдумы",
+          "link": "https://ria.ru/20260802/zelenskij-2108482835.html",
+          "source": "RIA Novosti (Russian)",
+          "summary": "A Russian State Duma deputy is quoted claiming Ukrainian President Zelensky has set in motion a plan to destroy his own country — typical framing from Russian state media casting Ukraine's leadership, not Russia's invasion, as the source of Ukraine's suffering.",
+          "flags": [
+            "State-media source — treat framing with caution; presents a partisan Duma deputy's claim as news"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "Explosion at a Moscow restaurant killed three, reportedly targeting a general's birthday party",
+          "origTitle": "Взрыв в московском ресторане. Бомбу должны были пронести на празднование дня рождения главкома ВКС Александра Чайко. Погибли три человека, 21 получил ранения",
+          "link": "https://meduza.io/feature/2026/08/01/v-kafe-na-kudrinskoy-ploschadi-v-moskve-proizoshel-vzryv-est-postradavshie",
+          "source": "Meduza (Russian)",
+          "summary": "An explosion, reportedly involving a female bomber, struck a Moscow restaurant hosting a birthday celebration for the commander of Russia's Aerospace Forces, killing three and wounding 21 — an apparent targeted attack inside Russia itself amid the ongoing war.",
+          "flags": [
+            "Reported target (a top military commander) and attacker details are still developing"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "state",
+          "title": "Kumamoto earthquake: 38 dead including cases still under investigation as disaster-related deaths",
+          "origTitle": "熊本地震 関連調査中含め38人死亡 初の災害関連死の疑いも",
+          "link": "http://www3.nhk.or.jp/news/html/20260802/k10015193881000.html",
+          "source": "NHK (Japanese)",
+          "summary": "Public broadcaster NHK reports the Kumamoto earthquake death toll has risen to 38, including a suspected first case of a disaster-related death (an indirect death from evacuation conditions), as extreme heat complicates relief efforts.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "Fake nude images leave a student unable to go to school — damage spreads with no law directly regulating it",
+          "origTitle": "偽の裸画像作られ学校に行けず…広がる被害、直接規制する法律なし",
+          "link": "http://www.asahi.com/articles/ASV7X2DF5V7XUCVL00QM.html?ref=rss",
+          "source": "Asahi Shimbun (Japanese)",
+          "summary": "The Asahi Shimbun reports on the spread of AI-generated fake nude images targeting Japanese students, leaving victims unable to attend school, and notes Japan currently has no law that directly regulates this kind of synthetic-image harassment.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Vermont",
+          "title": "After years of debate, Stowe caps short-term rentals",
+          "link": "https://vtdigger.org/2026/08/01/after-years-of-debate-stowe-caps-short-term-rentals/",
+          "source": "VTDigger",
+          "summary": "After a years-long local debate, the town of Stowe has adopted a cap on short-term rentals, joining other Vermont towns grappling with the tension between tourism revenue and housing availability for residents.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "place": "Puerto Rico",
+          "title": "Responsible responses to water scarcity",
+          "origTitle": "Respuestas responsables ante la escasez de agua",
+          "link": "https://www.elnuevodia.com/opinion/editorial/respuestas-responsables-ante-la-escasez-de-agua/",
+          "source": "El Nuevo Día (Spanish)",
+          "summary": "An editorial in Puerto Rico's leading newspaper calls for responsible, coordinated policy responses to the island's ongoing water scarcity problems, urging authorities to act before shortages worsen.",
+          "flags": [],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+          "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+          "source": "Ars Technica",
+          "summary": "Reddit's CEO publicly questioned whether Google's AI Overviews are a fair trade for the platform, amid a falling stock price, reigniting the debate over whether AI summary features cannibalize traffic to the sites they're trained on.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
+          "link": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
+          "source": "Ars Technica",
+          "summary": "A judge ruled that Waymo must halt overnight charging of its self-driving fleet in Santa Monica after residents complained about noise, another instance of local pushback against robotaxi infrastructure.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Researchers devise a full-color night vision goggle",
+          "link": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
+          "source": "Ars Technica",
+          "summary": "Scientists have built an infrared imaging system that outputs full color rather than the traditional monochrome green, a potential leap forward for night-vision technology.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Pixel 11 specs and price leak with no surprises",
+          "link": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+          "source": "The Verge",
+          "summary": "Leaked specs and pricing for Google's upcoming Pixel 11 have surfaced online, largely matching expectations with no major surprises ahead of its official unveiling.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Running Kimi K3 on MI355X at better performance per dollar than B300",
+          "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "Hacker News",
+          "summary": "A benchmark writeup claims running the Kimi K3 model on AMD's MI355X accelerators delivers better performance-per-dollar than Nvidia's B300, adding to the ongoing debate over AMD's competitiveness in AI inference hardware.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "title": "Anime",
+      "picks": [
+        {
+          "title": "Crunchyroll to stream Eleceed, FX Fighter Kurumi-chan, Uncle's Obsession with Cute Things, more; English dub for Sound! Euphonium",
+          "link": "https://www.animenewsnetwork.com/news/2026-08-02/crunchyroll-to-stream-eleceed-fx-fighter-kurumi-chan-uncle-obsession-with-cute-things-more-anime-/.240182",
+          "source": "Anime News Network",
+          "summary": "Crunchyroll announced a new slate of anime it will stream, including Eleceed, FX Fighter Kurumi-chan, and Uncle's Obsession with Cute Things, alongside an English dub for Sound! Euphonium.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "comedy",
+      "title": "Comedy",
+      "picks": []
+    },
+    {
+      "key": "podcast",
+      "title": "Podcasts",
+      "picks": []
+    }
+  ]
+}
