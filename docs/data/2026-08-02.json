@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "generatedAt": "2026-08-02T08:02:00Z",
+  "generatedAt": "2026-08-02T12:01:00Z",
   "sections": [
     {
       "key": "world",
@@ -8,13 +8,12 @@
       "picks": [
         {
           "bucket": "Middle East",
-          "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
-          "link": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
-          "source": "NPR News",
-          "summary": "Trump announced he is halting planned strikes on Iran, saying Mideast allies have reached the outlines of a deal to end the confrontation, contingent on it being finalized quickly. Even as the announcement landed, Israeli strikes reportedly killed several people in Gaza, and Iran's Revolutionary Guard claimed to have destroyed US F-35 jets — a claim state media in China and Russia are amplifying.",
+          "title": "Hamas agrees to Trump's plan to disarm in Gaza",
+          "link": "https://www.theguardian.com/news/audio/2026/jul/31/hamas-agrees-trump-plan-disarm-gaza-the-latest",
+          "source": "The Guardian (World)",
+          "summary": "Hamas has agreed to Trump's plan to disarm in Gaza, a major step in the ceasefire framework, coming alongside Trump's announcement that he is holding off on further strikes on Iran while a broader regional deal is negotiated.",
           "flags": [
-            "Iran's claimed F-35 losses are unverified and being pushed heavily by state media",
-            "Ceasefire timeline is vague ('rapidly') and fighting continued on the ground after the announcement"
+            "Whether Hamas actually follows through on disarmament, and whether Israeli forces withdraw as promised, remains to be seen"
           ],
           "lang": "en",
           "translated": false,
@@ -22,12 +21,12 @@
         },
         {
           "bucket": "World (ex-US, ex-ME)",
-          "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-          "link": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-          "source": "The Guardian (World)",
-          "summary": "Spain's PM Pedro Sánchez has called an urgent EU interior ministers' meeting after a surge of migrant crossings into the Spanish enclave of Ceuta turned into a political crisis, reportedly following a large death toll among migrants. Spain has since installed a maritime barrier at Ceuta, and Germany's foreign ministry is publicly pushing for the EU's external borders to be better protected.",
+          "title": "Spain installs sea barrier on Ceuta's border with Morocco after frontier rush that killed 67",
+          "link": "https://apnews.com/article/migration-spain-ceuta-morocco-d76c6dc9d2da828907a1c04e1d482bbe",
+          "source": "AP News",
+          "summary": "Spain has installed a physical sea barrier at its Ceuta enclave after a mass border rush from Morocco left 67 people dead, escalating the crisis that has already triggered an emergency EU meeting; residents of Ceuta have separately pushed back against a far-right anti-migrant rally.",
           "flags": [
-            "Sánchez has long been seen as migrant-friendly, so this reversal is politically fraught for him"
+            "Confirmed death toll of 67 makes this one of the deadliest migration incidents at this border in years"
           ],
           "lang": "en",
           "translated": false,
@@ -35,13 +34,11 @@
         },
         {
           "bucket": "US as the world sees it",
-          "title": "Trump stands to profit off US policy announcements by selling fast access to his social media posts",
-          "link": "https://apnews.com/article/trump-truth-social-media-insider-trading-posts-feeds-traders-25c2c5be926f2650d0610c84100cffb8",
+          "title": "Idaho fast food restaurant shooting leaves 3 dead and 7 injured",
+          "link": "https://apnews.com/article/shooting-idaho-twin-falls-15be31e5c532e7dfe4b7108d83dd47be",
           "source": "AP News",
-          "summary": "AP reports Trump personally stands to profit from a scheme selling paid, faster access to his Truth Social policy posts to traders — meaning market-moving government announcements can effectively be monetized by the person making them, raising conflict-of-interest concerns unique to his dual role as president and platform owner.",
-          "flags": [
-            "Direct financial conflict-of-interest between the presidency and a business Trump owns"
-          ],
+          "summary": "A shooting at a fast food restaurant in Twin Falls, Idaho left three dead and seven injured, the latest in a string of American mass-shooting incidents that continue to draw international attention to US gun violence.",
+          "flags": [],
           "lang": "en",
           "translated": false,
           "origTitle": null
@@ -55,11 +52,11 @@
         {
           "country": "India",
           "outlet": "state",
-          "title": "नशा मुक्त युवा, विकसित भारत — Drug Free India drive gains momentum",
-          "origTitle": "'नशा मुक्त युवा, विकसित भारत' संकल्प अभियान | नशे के खिलाफ PM मोदी का बड़ा संदेश",
-          "link": "https://www.youtube.com/watch?v=NSP4gkJ-0F4",
+          "title": "Nation 2 Nation: America's F-35 fighter jet crashed",
+          "origTitle": "Nation 2 Nation: अमेरिका का F-35 विमान हुआ क्रैश | America Fighter Jet Accident",
+          "link": "https://www.youtube.com/watch?v=Tjdp6pJqojk",
           "source": "DD News (Hindi)",
-          "summary": "India's state broadcaster is heavily promoting PM Modi's 'Drug-Free Youth, Developed India' anti-narcotics campaign, framing it as a nation-building initiative reaching villages and youth nationwide.",
+          "summary": "India's state broadcaster's international affairs show covers a reported American F-35 fighter jet crash, part of its coverage of the broader Iran conflict fallout.",
           "flags": [],
           "lang": "hi",
           "translated": true
@@ -67,11 +64,11 @@
         {
           "country": "India",
           "outlet": "independent",
-          "title": "Who were the two migrant workers killed in Kashmir? LG calls it a 'brutal terror attack'",
-          "origTitle": "कश्मीर में मारे गए दो प्रवासी मज़दूर कौन थे, एलजी ने कहा- 'क्रूर आतंकी हमला'",
-          "link": "https://www.bbc.com/hindi/articles/cn8n5e9d6x8o?at_medium=RSS&at_campaign=rss",
+          "title": "Did Iran's 'dangerous' plan stop Trump from attacking?",
+          "origTitle": "क्या ईरान के इस 'ख़तरनाक' प्लान ने ट्रंप को हमला करने से रोक दिया है?",
+          "link": "https://www.bbc.com/hindi/articles/c74g0n0d83po?at_medium=RSS&at_campaign=rss",
           "source": "BBC Hindi",
-          "summary": "Two migrant laborers were killed in Kashmir in an attack the region's Lieutenant Governor has condemned as a brutal act of terrorism, reviving concerns about the safety of non-local workers in the valley.",
+          "summary": "BBC Hindi analyzes whether a threatened Iranian retaliation plan is what actually pushed Trump to hold off on further strikes, offering independent analysis beyond the official 'deal is near' framing.",
           "flags": [],
           "lang": "hi",
           "translated": true
@@ -79,13 +76,13 @@
         {
           "country": "China",
           "outlet": "state",
-          "title": "Iran's Revolutionary Guard claims it destroyed 3 US F-35 fighter jets",
-          "origTitle": "伊朗革命卫队称摧毁3架美军F-35战机",
-          "link": "https://www.chinanews.com.cn/gj/2026/08-02/10670779.shtml",
+          "title": "5G didn't stop China — now the US wants to trip it up on 6G",
+          "origTitle": "5G没拦住中国，美国又想在6G上使绊｜真相",
+          "link": "https://www.chinanews.com.cn/gj/2026/08-02/10670870.shtml",
           "source": "China News Service (Chinese)",
-          "summary": "Chinese state media is amplifying Iran's unverified claim that its Revolutionary Guard shot down three American F-35 fighter jets, a framing that undercuts the US's narrative of a de-escalating conflict.",
+          "summary": "Chinese state media frames US moves around 6G standards as another attempt to contain China's tech rise, following the same pattern it says failed to stop China's 5G lead.",
           "flags": [
-            "Unverified claim from a combatant, presented uncritically by state media"
+            "Framed explicitly as US containment narrative — a recurring state-media theme"
           ],
           "lang": "zh",
           "translated": true
@@ -93,13 +90,13 @@
         {
           "country": "Russia",
           "outlet": "state",
-          "title": "Zelensky has launched a plan to destroy Ukraine, Duma deputy claims",
-          "origTitle": "Зеленский запустил план по уничтожению Украины, считает депутат Госдумы",
-          "link": "https://ria.ru/20260802/zelenskij-2108482835.html",
+          "title": "A refugee from Rodinske described how Ukrainian forces drone-attacked homes with people inside",
+          "origTitle": "Беженка из Родинского рассказала, как ВСУ дронами атаковали дома с людьми",
+          "link": "https://ria.ru/20260802/vsu-2108513645.html",
           "source": "RIA Novosti (Russian)",
-          "summary": "A Russian State Duma deputy is quoted claiming Ukrainian President Zelensky has set in motion a plan to destroy his own country — typical framing from Russian state media casting Ukraine's leadership, not Russia's invasion, as the source of Ukraine's suffering.",
+          "summary": "Russian state media features testimony from a refugee accusing Ukrainian forces of drone-striking occupied homes, part of a recurring narrative casting Ukraine as targeting civilians.",
           "flags": [
-            "State-media source — treat framing with caution; presents a partisan Duma deputy's claim as news"
+            "State-media source — treat framing with caution; a single unverified testimony presented as fact"
           ],
           "lang": "ru",
           "translated": true
@@ -107,13 +104,13 @@
         {
           "country": "Russia",
           "outlet": "independent",
-          "title": "Explosion at a Moscow restaurant killed three, reportedly targeting a general's birthday party",
-          "origTitle": "Взрыв в московском ресторане. Бомбу должны были пронести на празднование дня рождения главкома ВКС Александра Чайко. Погибли три человека, 21 получил ранения",
-          "link": "https://meduza.io/feature/2026/08/01/v-kafe-na-kudrinskoy-ploschadi-v-moskve-proizoshel-vzryv-est-postradavshie",
+          "title": "Moscow's mayor calls the restaurant blast a terror attack; death toll rises to five",
+          "origTitle": "Собянин назвал взрыв в московском ресторане терактом. По данным телеграм-каналов, число погибших выросло до пяти человек",
+          "link": "https://meduza.io/news/2026/08/02/sobyanin-nazval-vzryv-v-moskovskom-restorane-teraktom-po-dannym-telegram-kanalov-chislo-pogibshih-vyroslo-do-pyati-chelovek",
           "source": "Meduza (Russian)",
-          "summary": "An explosion, reportedly involving a female bomber, struck a Moscow restaurant hosting a birthday celebration for the commander of Russia's Aerospace Forces, killing three and wounding 21 — an apparent targeted attack inside Russia itself amid the ongoing war.",
+          "summary": "Moscow's mayor Sergei Sobyanin has officially labeled the restaurant explosion a terrorist attack; Telegram channels now report the death toll has risen to five, up from the initial count of three.",
           "flags": [
-            "Reported target (a top military commander) and attacker details are still developing"
+            "Death toll based on Telegram channel reports, not yet officially confirmed"
           ],
           "lang": "ru",
           "translated": true
@@ -121,11 +118,11 @@
         {
           "country": "Japan",
           "outlet": "state",
-          "title": "Kumamoto earthquake: 38 dead including cases still under investigation as disaster-related deaths",
-          "origTitle": "熊本地震 関連調査中含め38人死亡 初の災害関連死の疑いも",
-          "link": "http://www3.nhk.or.jp/news/html/20260802/k10015193881000.html",
+          "title": "Japan and US to intervene jointly against yen weakness, joint statement expected August 3",
+          "origTitle": "円安是正へ日米が異例の協調介入 3日に日米共同の声明発表へ",
+          "link": "http://www3.nhk.or.jp/news/html/20260802/k10015194291000.html",
           "source": "NHK (Japanese)",
-          "summary": "Public broadcaster NHK reports the Kumamoto earthquake death toll has risen to 38, including a suspected first case of a disaster-related death (an indirect death from evacuation conditions), as extreme heat complicates relief efforts.",
+          "summary": "Japan and the US are preparing an unusual coordinated currency intervention to correct yen weakness, with a joint Japan-US statement expected August 3 — a significant and rare bilateral monetary move.",
           "flags": [],
           "lang": "ja",
           "translated": true
@@ -133,11 +130,11 @@
         {
           "country": "Japan",
           "outlet": "independent",
-          "title": "Fake nude images leave a student unable to go to school — damage spreads with no law directly regulating it",
-          "origTitle": "偽の裸画像作られ学校に行けず…広がる被害、直接規制する法律なし",
-          "link": "http://www.asahi.com/articles/ASV7X2DF5V7XUCVL00QM.html?ref=rss",
+          "title": "No water, no power — 8 staff carried patients up six flights as the hospital itself was damaged",
+          "origTitle": "断水、停電･･･8人で患者担ぎ6階へ　病院も被災、葛藤の医療現場",
+          "link": "http://www.asahi.com/articles/ASV822P81V82OXIE00BM.html?ref=rss",
           "source": "Asahi Shimbun (Japanese)",
-          "summary": "The Asahi Shimbun reports on the spread of AI-generated fake nude images targeting Japanese students, leaving victims unable to attend school, and notes Japan currently has no law that directly regulates this kind of synthetic-image harassment.",
+          "summary": "The Asahi Shimbun reports from inside a Kumamoto hospital damaged by the earthquake, where staff carried patients up six flights of stairs by hand amid water and power outages — a ground-level look beyond the official casualty figures.",
           "flags": [],
           "lang": "ja",
           "translated": true
@@ -150,22 +147,24 @@
       "picks": [
         {
           "place": "Vermont",
-          "title": "After years of debate, Stowe caps short-term rentals",
-          "link": "https://vtdigger.org/2026/08/01/after-years-of-debate-stowe-caps-short-term-rentals/",
+          "title": "Vermont keeps a list of where large crowds gather. The feds get a copy.",
+          "link": "https://vtdigger.org/2026/08/02/vermont-keeps-a-list-of-where-large-crowds-gather-the-feds-get-a-copy/",
           "source": "VTDigger",
-          "summary": "After a years-long local debate, the town of Stowe has adopted a cap on short-term rentals, joining other Vermont towns grappling with the tension between tourism revenue and housing availability for residents.",
-          "flags": [],
+          "summary": "VTDigger reports that Vermont maintains a list of locations where large crowds gather, and that this information is shared with federal authorities, raising questions about surveillance and civil liberties.",
+          "flags": [
+            "Raises privacy/surveillance concerns about state-federal data sharing"
+          ],
           "lang": "en",
           "translated": false,
           "origTitle": null
         },
         {
           "place": "Puerto Rico",
-          "title": "Responsible responses to water scarcity",
-          "origTitle": "Respuestas responsables ante la escasez de agua",
-          "link": "https://www.elnuevodia.com/opinion/editorial/respuestas-responsables-ante-la-escasez-de-agua/",
+          "title": "'Sowing in the sea': researchers and fishermen optimize oyster farming in Puerto Rico",
+          "origTitle": "\"Sembrar en el mar\": investigadores y pescadores optimizan el cultivo de ostras en Puerto Rico",
+          "link": "https://www.elnuevodia.com/ciencia-ambiente/flora-fauna/notas/sembrar-en-el-mar-investigadores-y-pescadores-optimizan-el-cultivo-de-ostras-en-puerto-rico/",
           "source": "El Nuevo Día (Spanish)",
-          "summary": "An editorial in Puerto Rico's leading newspaper calls for responsible, coordinated policy responses to the island's ongoing water scarcity problems, urging authorities to act before shortages worsen.",
+          "summary": "Researchers and local fishermen in Puerto Rico are collaborating to improve oyster farming techniques, a small but notable step toward diversifying the island's coastal economy and food production.",
           "flags": [],
           "lang": "es",
           "translated": true
@@ -177,50 +176,40 @@
       "title": "Tech & Science",
       "picks": [
         {
-          "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-          "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+          "title": "Sony acknowledges backlash, 'cautiously' moves ahead with end of PlayStation discs",
+          "link": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
           "source": "Ars Technica",
-          "summary": "Reddit's CEO publicly questioned whether Google's AI Overviews are a fair trade for the platform, amid a falling stock price, reigniting the debate over whether AI summary features cannibalize traffic to the sites they're trained on.",
+          "summary": "Sony acknowledged strong backlash over its plan to end physical PlayStation discs, but says it will proceed cautiously rather than reverse course, keeping the digital-only transition on track for now.",
           "flags": [],
           "lang": "en",
           "translated": false,
           "origTitle": null
         },
         {
-          "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
-          "link": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
+          "title": "AI scammers outperform humans when it comes to building trust",
+          "link": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
           "source": "Ars Technica",
-          "summary": "A judge ruled that Waymo must halt overnight charging of its self-driving fleet in Santa Monica after residents complained about noise, another instance of local pushback against robotaxi infrastructure.",
+          "summary": "New research finds AI-driven scam operations are more effective than human scammers at building victims' trust, raising fresh concerns about the scale and sophistication of AI-enabled fraud.",
           "flags": [],
           "lang": "en",
           "translated": false,
           "origTitle": null
         },
         {
-          "title": "Researchers devise a full-color night vision goggle",
-          "link": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
-          "source": "Ars Technica",
-          "summary": "Scientists have built an infrared imaging system that outputs full color rather than the traditional monochrome green, a potential leap forward for night-vision technology.",
-          "flags": [],
-          "lang": "en",
-          "translated": false,
-          "origTitle": null
-        },
-        {
-          "title": "Pixel 11 specs and price leak with no surprises",
-          "link": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
-          "source": "The Verge",
-          "summary": "Leaked specs and pricing for Google's upcoming Pixel 11 have surfaced online, largely matching expectations with no major surprises ahead of its official unveiling.",
-          "flags": [],
-          "lang": "en",
-          "translated": false,
-          "origTitle": null
-        },
-        {
-          "title": "Running Kimi K3 on MI355X at better performance per dollar than B300",
-          "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "title": "Generative AI floods and dilutes the market for books",
+          "link": "https://arxiv.org/abs/2607.20349",
           "source": "Hacker News",
-          "summary": "A benchmark writeup claims running the Kimi K3 model on AMD's MI355X accelerators delivers better performance-per-dollar than Nvidia's B300, adding to the ongoing debate over AMD's competitiveness in AI inference hardware.",
+          "summary": "A new study finds generative AI is flooding the book market with low-effort titles, diluting discoverability and quality for readers and human authors alike.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "A big win for Android interoperability",
+          "link": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
+          "source": "Hacker News",
+          "summary": "The Open Home Foundation reports a significant interoperability win for Android, easing integration for smart-home and third-party developers.",
           "flags": [],
           "lang": "en",
           "translated": false,
@@ -233,10 +222,10 @@
       "title": "Anime",
       "picks": [
         {
-          "title": "Crunchyroll to stream Eleceed, FX Fighter Kurumi-chan, Uncle's Obsession with Cute Things, more; English dub for Sound! Euphonium",
-          "link": "https://www.animenewsnetwork.com/news/2026-08-02/crunchyroll-to-stream-eleceed-fx-fighter-kurumi-chan-uncle-obsession-with-cute-things-more-anime-/.240182",
+          "title": "Chained Soldier TV Anime Gets 3rd Season",
+          "link": "https://www.animenewsnetwork.com/news/2026-08-02/chained-soldier-tv-anime-gets-3rd-season/.240191",
           "source": "Anime News Network",
-          "summary": "Crunchyroll announced a new slate of anime it will stream, including Eleceed, FX Fighter Kurumi-chan, and Uncle's Obsession with Cute Things, alongside an English dub for Sound! Euphonium.",
+          "summary": "Chained Soldier has been renewed for a third TV anime season, continuing the series' run.",
           "flags": [],
           "lang": "en",
           "translated": false,
