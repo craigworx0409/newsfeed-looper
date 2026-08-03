@@ -1,0 +1,239 @@
+{
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-03T12:04:07Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "Israel defies Trump's peace plan as it escalates deadly attacks on Gaza",
+          "link": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss",
+          "source": "Al Jazeera English",
+          "summary": "Israel is escalating attacks on Gaza and pushing hardline demands even as Washington tries to hold together a US-backed peace roadmap, raising doubts about whether the plan can survive.",
+          "flags": [
+            "Israeli government framing vs. ceasefire-plan status disputed"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "Spain's Ceuta overwhelmed as thousands remain after migrant border rush",
+          "link": "https://www.reuters.com/world/europe/spains-ceuta-overwhelmed-as-thousands-remain-after-migrant-border-rush-2026-08-03/",
+          "source": "Reuters World",
+          "summary": "Hundreds of migrants, part of a larger wave of roughly 50,000 who crossed from Morocco last week, are camped on a beach in Spain's North African enclave of Ceuta, overwhelming local authorities who are struggling to house and process them.",
+          "flags": [
+            "EU/Spain and Morocco offering differing accounts of what triggered the border rush"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "US and Japan take action to prop up yen in rare joint move",
+          "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "The US and Japan carried out a rare joint currency intervention to support the yen, which hit a three-month high afterward; both governments say they won't hesitate to intervene again if needed.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "Jharkhand News | JPSC गड़बड़ी मामले में भाजपा ने उठाई CBI जांच की मांग",
+          "link": "https://www.youtube.com/watch?v=DG7vNvZf-3Y",
+          "source": "DD News (Hindi)",
+          "summary": "State broadcaster DD News covers the BJP's demand for a CBI investigation into alleged irregularities at the Jharkhand Public Service Commission (JPSC), amid ongoing student protests in Ranchi.",
+          "flags": [],
+          "lang": "hi",
+          "translated": true,
+          "origTitle": "Jharkhand News | JPSC गड़बड़ी मामले में भाजपा ने उठाई CBI जांच की मांग"
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "भारत में जेन ज़ी के प्रदर्शन को चीन के टिप्पणीकार क्यों बता रहे पीएम मोदी की नाकामी",
+          "origTitle": "भारत में जेन ज़ी के प्रदर्शन को चीन के टिप्पणीकार क्यों बता रहे पीएम मोदी की नाकामी",
+          "link": "https://www.bbc.com/hindi/articles/cp8ejl0pgllo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Hindi",
+          "summary": "Gen Z-led protests that began at Delhi's Jantar Mantar have spread nationwide and forced the resignation of Education Minister Dharmendra Pradhan; Chinese commentators are framing the unrest as a failure of PM Modi's government.",
+          "flags": [
+            "Chinese state-adjacent commentary on India's domestic unrest — geopolitically loaded framing"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "伊朗称击落一架美国MQ-9无人机",
+          "origTitle": "伊朗称击落一架美国MQ-9无人机",
+          "link": "https://www.chinanews.com.cn/gj/2026/08-03/10671359.shtml",
+          "source": "China News Service (Chinese)",
+          "summary": "Chinese state media reports that Iran's Revolutionary Guard says it shot down a US MQ-9 drone over the Strait of Hormuz, amid renewed talk of US-Iran talks.",
+          "flags": [
+            "Unverified by US/Western sources at time of report"
+          ],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "США выделили 40 миллионов долларов Марокко незадолго до кризиса в Сеуте",
+          "origTitle": "США выделили 40 миллионов долларов Марокко незадолго до кризиса в Сеуте",
+          "link": "https://ria.ru/20260803/marokko-2108718136.html",
+          "source": "RIA Novosti (Russian)",
+          "summary": "Russian state media reports the US gave Morocco $40 million shortly before the mass border crossing into Spain's Ceuta enclave, implying a link between the funding and the crisis.",
+          "flags": [
+            "State-media source implies causation between US aid and the border crisis without evidence"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "Погиб Глен Хансард — музыкант, ставший одним из символов Ирландии",
+          "origTitle": "Погиб Глен Хансард — музыкант, ставший одним из символов Ирландии. Если он шептал, то так, как будто рядом — никого. Если кричал, то так, что тряслись стены",
+          "link": "https://meduza.io/feature/2026/08/03/pogib-glen-hansard-muzykant-stavshiy-odnim-iz-simvolov-irlandii",
+          "source": "Meduza (Russian)",
+          "summary": "Irish musician Glen Hansard, Oscar winner for 'Falling Slowly' and frontman of The Frames, died at 56 in a motorcycle accident in Dublin; tributes have poured in from Ed Sheeran, Bruce Springsteen, Barack Obama, and others.",
+          "flags": [],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "state",
+          "title": "熊本地震 激甚災害に指定へ あす予備費使用閣議決定 高市首相",
+          "origTitle": "熊本地震 激甚災害に指定へ あす予備費使用閣議決定 高市首相",
+          "link": "http://www3.nhk.or.jp/news/html/20260803/k10015194841000.html",
+          "source": "NHK (Japanese)",
+          "summary": "PM Takaichi says the Kumamoto earthquake will be designated a 'severe disaster,' triggering national reconstruction funding, with a cabinet decision on over ¥20 billion in reserve-fund spending expected the next day.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "「大阪地検特捜部でパワハラ」退職の検事が手記 別の女性検事が公表",
+          "origTitle": "「大阪地検特捜部でパワハラ」退職の検事が手記 別の女性検事が公表",
+          "link": "http://www.asahi.com/articles/ASV830J7XV83PTIL00CM.html?ref=rss",
+          "source": "Asahi Shimbun (Japanese)",
+          "summary": "A former prosecutor's memoir alleging power harassment within the Osaka District Public Prosecutors Office's elite Special Investigation Unit has been made public by another female prosecutor, raising questions about workplace culture in Japan's justice system.",
+          "flags": [
+            "Allegations are from a single memoir account, not independently adjudicated"
+          ],
+          "lang": "ja",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Vermont",
+          "title": "Vermont Democrats turn to second home taxes as a matter of principle – and cash",
+          "link": "https://vtdigger.org/2026/08/03/vermont-democrats-turn-to-second-home-taxes-as-a-matter-of-principle-and-cash/",
+          "source": "VTDigger",
+          "summary": "Vermont Democratic candidates are increasingly counting on new taxes on second homes to fund campaign promises, even though the state doesn't yet have reliable data on how many homes would actually be affected.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "place": "Puerto Rico",
+          "title": "Índice sobre los 100 grados Fahrenheit: emiten advertencia de calor para 61 municipios",
+          "origTitle": "Índice sobre los 100 grados Fahrenheit: emiten advertencia de calor para 61 municipios",
+          "link": "https://www.elnuevodia.com/noticias/el-tiempo/notas/indice-sobre-los-100-grados-fahrenheit-emiten-advertencia-de-calor-para-61-municipios/",
+          "source": "El Nuevo Día (Spanish)",
+          "summary": "The National Weather Service issued a heat advisory for 61 Puerto Rico municipalities as the heat index is expected to top 100°F, compounded by high concentrations of Saharan dust.",
+          "flags": [],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "China's Alibaba takes another swipe at America's AI supremacy",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "source": "The Verge",
+          "summary": "Alibaba released Qwen3.8-Max, which it calls its largest and most capable model yet, claiming performance rivaling top US labs like Anthropic and OpenAI as well as domestic rival Moonshot AI's Kimi K3, and is making it widely available.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+          "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+          "source": "Hacker News / JFrog",
+          "summary": "A critical CVE was issued for a SQLite vulnerability that turned out to be an AI-hallucinated finding, illustrating growing risk of LLM-generated 'security research' slop polluting vulnerability databases.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "ICE Collected Nearly 1M People's DNA Last Year—Including Young Children",
+          "link": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+          "source": "Wired via Hacker News",
+          "summary": "ICE collected DNA from nearly a million people last year, including young children, feeding the samples into the FBI's CODIS database — raising privacy and civil-liberties concerns about permanent genetic surveillance of immigrants and their families.",
+          "flags": [
+            "Contentious immigration-enforcement practice; framing disputed by advocacy groups vs. DHS"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "title": "Anime",
+      "picks": [
+        {
+          "title": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Anime Shorts Get 4th Season on August 7",
+          "link": "https://www.animenewsnetwork.com/news/2026-08-03/fate-grand-order-fujimaru-ritsuka-wa-wakaranai-anime-shorts-get-4th-season-on-august-7/.240194",
+          "source": "Anime News Network",
+          "summary": "The Fate/Grand Order comedy shorts series is getting a 4th season starting August 7, following its 3rd season run from August-December 2025.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "comedy",
+      "title": "Comedy",
+      "picks": []
+    },
+    {
+      "key": "podcast",
+      "title": "Podcasts",
+      "picks": []
+    }
+  ]
+}
