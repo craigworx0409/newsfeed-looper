@@ -1,0 +1,278 @@
+{
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-04T12:03:36Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "Who is behind settler violence in the occupied West Bank?",
+          "link": "https://www.aljazeera.com/news/2026/8/4/who-is-behind-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
+          "source": "Al Jazeera English",
+          "summary": "Al Jazeera examines the main Israeli settler groups driving an escalation of violence against Palestinians in the occupied West Bank, part of the broader unrest running alongside the wider Gaza war.",
+          "flags": [
+            "Casualty and attribution figures for settler violence are frequently contested between Israeli and Palestinian sources"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
+          "link": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
+          "source": "The Guardian (World)",
+          "summary": "European Commission president Ursula von der Leyen has called for stronger EU border security, including physical barriers, after roughly 69,500 people crossed from Morocco into the Spanish enclave of Ceuta last week; Spain says most have since returned to Morocco, but the episode has triggered a political row between Madrid, Rabat and other EU states, and Italy has now suspended Schengen free movement with Spain over the fallout.",
+          "flags": [
+            "Spain has accused Morocco of encouraging or permitting the mass crossing; Rabat's role and intent are disputed",
+            "Death toll among migrants during the crossing is not precisely confirmed"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "Analysis: Trump challenged by cold reality from top allies",
+          "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "A BBC analysis argues that a president used to bending US politics to his will is now running into the limits of his influence abroad, after absorbing two stinging setbacks with key US allies within a matter of days.",
+          "flags": [
+            "Framed explicitly as BBC analysis/opinion rather than straight news reporting"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "विदेश मंत्रालय की साप्ताहिक प्रेस वार्ता | MEA Weekly Press Briefing | Randhir Jaiswal | Hindi News",
+          "origTitle": "विदेश मंत्रालय की साप्ताहिक प्रेस वार्ता | MEA Weekly Press Briefing | Randhir Jaiswal | Hindi News",
+          "link": "https://www.youtube.com/watch?v=-MMCEaE9VtI",
+          "source": "DD News (Hindi)",
+          "summary": "At India's Ministry of External Affairs' weekly press briefing, spokesperson Randhir Jaiswal said the Indus Waters Treaty will remain suspended until cross-border terrorism stops, pushed back sharply on elections held in Pakistan-administered Kashmir, and confirmed India has invited Bangladesh's prime minister to the 18th BRICS summit.",
+          "flags": [
+            "State broadcaster framing on Kashmir and the Indus Waters Treaty reflects the Indian government's official line"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "युवाओं का ग़ुस्सा पीएम मोदी के लिए सबसे बड़ी चुनौती क्यों बन गया है?",
+          "origTitle": "युवाओं का ग़ुस्सा पीएम मोदी के लिए सबसे बड़ी चुनौती क्यों बन गया है?",
+          "link": "https://www.bbc.com/hindi/articles/c07rmpyyrlzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Hindi",
+          "summary": "BBC Hindi looks at why youth anger is becoming Prime Minister Modi's biggest political challenge: India has the world's largest young population and rising education levels, but very few young people are able to land good jobs.",
+          "flags": [],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "借\"防卫\"之名推进国家军事化",
+          "origTitle": "借\"防卫\"之名推进国家军事化",
+          "link": "https://www.chinanews.com.cn/gj/2026/08-04/10671839.shtml",
+          "source": "China News Service (Chinese)",
+          "summary": "Chinese state media, via China Daily, cites Japanese scholars accusing Tokyo of using \"defense\" as a pretext to push national militarization, following Japan's newly released 2026 Defense White Paper, which Chinese outlets frame as laying groundwork for expanded rearmament.",
+          "flags": [
+            "State-media source critical of a rival power (Japan) — framing reflects Beijing's official position, not independent Japanese reporting",
+            "No independent Chinese-language outlet in today's source list; state media only"
+          ],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "Премьер Ливана обвинил «Хезболлу» во втягивании страны в войну с Израилем",
+          "origTitle": "Премьер Ливана обвинил «Хезболлу» во втягивании страны в войну с Израилем",
+          "link": "https://ria.ru/20260804/hezboll-2108956125.html",
+          "source": "RIA Novosti (Russian)",
+          "summary": "RIA Novosti reports that Lebanon's prime minister publicly blamed Hezbollah for dragging the country into war with Israel, a story Russian state media is amplifying as part of its coverage of regional tensions.",
+          "flags": [
+            "State-media source — treat framing/selection with caution",
+            "Original RSS blurb was empty; this gist is based on the headline only"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "В Ленинградской области после атаки украинских беспилотников горит логистический центр Wildberries. Фотографии и видео. С середины июля ВСУ атаковали уже 20 складов маркетплейса",
+          "origTitle": "В Ленинградской области после атаки украинских беспилотников горит логистический центр Wildberries. Фотографии и видео. С середины июля ВСУ атаковали уже 20 складов маркетплейса",
+          "link": "https://meduza.io/feature/2026/08/04/v-leningradskoy-oblasti-posle-ataki-ukrainskih-bespilotnikov-gorit-logisticheskiy-tsentr-wildberries-fotografii-i-video",
+          "source": "Meduza (Russian)",
+          "summary": "Meduza reports Ukrainian drones struck a Wildberries logistics warehouse in Russia's Leningrad region overnight, sparking a large fire; the company says staff were evacuated in advance and no one there was hurt, though the regional governor said one worker at a neighboring hypermarket distribution center was injured — the latest of roughly 20 Wildberries warehouses Ukraine has hit since mid-July.",
+          "flags": [],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "state",
+          "title": "熊本地震1週間 38人死亡 断水は今月末までに応急復旧の見込み",
+          "origTitle": "熊本地震1週間 38人死亡 断水は今月末までに応急復旧の見込み",
+          "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195471000.html",
+          "source": "NHK (Japanese)",
+          "summary": "NHK reports it has been one week since the magnitude-7.1 Kumamoto earthquake; the death toll, including suspected disaster-related deaths, now stands at 38, with over 7,500 people still in shelters. More than 44,000 households remain without running water, though officials expect phased restoration to be largely complete by the end of the month.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "永住外国人の「生活保護」回避狙った政府　許可要件の厳格化案を発表",
+          "origTitle": "永住外国人の「生活保護」回避狙った政府　許可要件の厳格化案を発表",
+          "link": "http://www.asahi.com/articles/ASV840D3PV84UTIL00KM.html?ref=rss",
+          "source": "Asahi Shimbun (Japanese)",
+          "summary": "Asahi Shimbun reports the Japanese government has unveiled a plan to tighten permanent-residency requirements for foreign nationals, a move Asahi characterizes as aimed at making it harder for permanent residents to access welfare benefits.",
+          "flags": [
+            "Politically sensitive immigration/welfare policy; the framing of government intent is Asahi's characterization",
+            "Original RSS blurb was empty; gist is based on the headline only"
+          ],
+          "lang": "ja",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Vermont",
+          "title": "Judge allows clergy abuse claimants to sue for parish assets in Vermont Catholic bankruptcy case",
+          "link": "https://vtdigger.org/2026/08/04/judge-allows-clergy-abuse-claimants-to-sue-for-parish-assets-in-vermont-catholic-bankruptcy-case/",
+          "source": "VTDigger",
+          "summary": "A judge has ruled that clergy sexual-abuse claimants can sue for parish assets in the Vermont Catholic diocese's bankruptcy case, opening the door to roughly $500 million in local church properties and holdings previously sheltered in trusts; the diocese, Vermont's largest religious denomination, has not yet responded to the ruling.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "place": "Puerto Rico",
+          "title": "¿Cuándo regresará el agua? AAA realiza nuevos ajustes para recuperar el sistema de Cupey",
+          "origTitle": "¿Cuándo regresará el agua? AAA realiza nuevos ajustes para recuperar el sistema de Cupey",
+          "link": "https://www.elnuevodia.com/noticias/locales/notas/cuando-regresara-el-agua-aaa-realiza-nuevos-ajustes-para-recuperar-el-sistema-de-cupey/",
+          "source": "El Nuevo Día (Spanish)",
+          "summary": "Puerto Rico's water utility (AAA) is making new adjustments to try to restore the Cupey system, after output from the Carraízo plant has been running roughly 10 million gallons a day short of demand, leaving communities in four municipalities with ongoing outages and fueling protests in San Juan demanding changes at the utility.",
+          "flags": [],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "US company's AI lets Ukraine's cheap kamikaze drones track targets on their own",
+          "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+          "source": "Ars Technica",
+          "summary": "A US AI company has struck a roughly $100 million deal to give about 50,000 Ukrainian kamikaze drones autonomous target-tracking capability, part of a broader push toward AI-enabled drone swarms in the war with Russia.",
+          "flags": [
+            "Raises autonomous-weapons/AI-targeting ethics concerns"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "OpenAI drags Apple's lawsuit into the court of public opinion",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+          "source": "The Verge",
+          "summary": "OpenAI publicly hit back at Apple's trade-secrets lawsuit in a blog post titled \"Apple is getting this wrong,\" calling the suit \"careless, aggressive, and oddly personal\" and sharing iMessage and email exchanges to counter Apple's version of events, escalating the legal fight into a public messaging battle.",
+          "flags": [
+            "Dueling PR narratives from both companies; underlying facts of the dispute are contested"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Europe's AI labeling and transparency rules are now in effect",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge",
+          "summary": "New EU AI Act transparency rules took effect August 2, requiring companies to disclose when users are interacting with a chatbot or AI system and to label AI-generated content, including deepfakes.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "The next Xbox could play every Xbox game ever made",
+          "link": "https://www.theverge.com/games/974773/xbox-helix-disc-digital-backwards-compatibility-leaked-memo-opt-in",
+          "source": "The Verge",
+          "summary": "A leaked internal memo obtained by The Verge indicates Microsoft's next console, code-named Project Helix, will offer backwards compatibility with games from every prior Xbox generation going back to the original 2001 console, in addition to PC game support.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "title": "Anime",
+      "picks": [
+        {
+          "title": "Super Psychic Policeman Chojo Anime Reveals October 6 TV Debut",
+          "link": "https://www.animenewsnetwork.com/daily-briefs/2026-08-04/super-psychic-policeman-chojo-anime-reveals-october-6-tv-debut/.240259",
+          "source": "Anime News Network",
+          "summary": "The TV anime adaptation of Shun Numa's manga Super Psychic Policeman Chojo has set an October 6 broadcast debut.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Star Wars: Visions Presents - The Ninth Jedi Anime Streams Final Trailer",
+          "link": "https://www.animenewsnetwork.com/news/2026-08-03/star-wars-visions-presents-the-ninth-jedi-anime-streams-final-trailer/.240246",
+          "source": "Anime News Network",
+          "summary": "The limited anime spin-off series Star Wars: Visions Presents - The Ninth Jedi has released its final trailer ahead of its premiere this Wednesday.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "comedy",
+      "title": "Comedy",
+      "picks": [
+        {
+          "title": "#667 Fairy Kisses",
+          "link": "https://2218a635-1d78-4a47-a42f-37c1d7825f1d.libsyn.com/667-fairy-kisses",
+          "source": "Mark Normand - Tuesdays with Stories",
+          "summary": "New episode of Mark Normand's Tuesdays with Stories podcast, covering a beach trip and an urgent-care run, plus the regular Listicle and Papa List Senior segments.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "podcast",
+      "title": "Podcasts",
+      "picks": []
+    }
+  ]
+}
