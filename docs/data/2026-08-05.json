@@ -1,0 +1,278 @@
+{
+  "date": "2026-08-05",
+  "generatedAt": "2026-08-05T12:03:00Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "Israeli raid deepens fears across West Bank refugee camps",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss",
+          "source": "Al Jazeera English",
+          "summary": "Israeli forces carried out a raid and detained Palestinians in the occupied West Bank, part of a pattern of operations that residents in the territory's refugee camps say is deepening fear and disruption to daily life, even as separate talks between Lebanon and Israel over disarming Hezbollah remain stalled in Rome.",
+          "flags": [
+            "Al Jazeera's framing of Israeli operations differs sharply from Israeli government characterizations of the same raids"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
+          "link": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
+          "source": "NPR News",
+          "summary": "A large-scale Russian strike on Kyiv and the surrounding region killed at least 17 people; Ukraine's president said better air-defense interceptors could have prevented some of the deaths, while Russia's defense ministry said the strike targeted Ukrainian military storage and equipment facilities.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "US revokes Brazil ambassador's visa in escalation of diplomatic feud",
+          "link": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
+          "source": "The Guardian (World)",
+          "summary": "Washington revoked the visa of Brazil's ambassador, escalating a diplomatic dispute between the two countries and drawing attention abroad to the Trump administration's more confrontational approach toward Latin American governments.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "Samachar | बाढ़ प्रभावित राज्यों में राहत-बचाव अभियान युद्ध स्तर पर जारी",
+          "origTitle": "Samachar | बाढ़ प्रभावित राज्यों में राहत-बचाव अभियान युद्ध स्तर पर जारी",
+          "link": "https://www.youtube.com/watch?v=zpza2wPDzQw",
+          "source": "DD News (Hindi)",
+          "summary": "State broadcaster DD News reports that relief and rescue operations continue on a war footing in Indian states affected by flooding, alongside coverage of ongoing opposition uproar in parliament.",
+          "flags": [],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "सीजेपी के प्रदर्शन के बाद मोहन भागवत क्यों करने जा रहे हैं जेन ज़ी से बातचीत",
+          "origTitle": "सीजेपी के प्रदर्शन के बाद मोहन भागवत क्यों करने जा रहे हैं जेन ज़ी से बातचीत",
+          "link": "https://www.bbc.com/hindi/articles/c78g39zz7w2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Hindi",
+          "summary": "Following recent protests by the CJP (Cockroach Janata Party) movement at Delhi's Jantar Mantar, RSS chief Mohan Bhagwat is preparing to hold a dialogue with Gen Z, raising questions about what the organization hopes to achieve by engaging young protesters directly.",
+          "flags": [
+            "Independent coverage frames the RSS outreach as a reaction to youth unrest that state media does not directly address"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "日本加速向“军事国家”转变，新版《防卫白皮书》释放危险信号",
+          "origTitle": "日本加速向“军事国家”转变，新版《防卫白皮书》释放危险信号",
+          "link": "https://www.chinanews.com.cn/gj/2026/08-05/10672377.shtml",
+          "source": "China News Service (Chinese)",
+          "summary": "Chinese state media accuses Japan's newly released 2026 defense white paper of exaggerating so-called regional security threats, framing it as evidence that Japan's government is accelerating a shift toward becoming a more militarized state.",
+          "flags": [
+            "State-media source — presents Japan's defense policy in explicitly critical, editorialized terms rather than as neutral reporting"
+          ],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "Пентагон убрал из открытого доступа отчеты об испытаниях оружия за 25 лет",
+          "origTitle": "Пентагон убрал из открытого доступа отчеты об испытаниях оружия за 25 лет",
+          "link": "https://ria.ru/20260805/pentagon-2109157621.html",
+          "source": "RIA Novosti (Russian)",
+          "summary": "RIA Novosti reports that the Pentagon has removed 25 years of publicly available weapons-testing reports from open access, without detailing the reason for the withdrawal.",
+          "flags": [
+            "State-media source — treat framing with caution"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "Путин произвел масштабные перестановки в военном командовании",
+          "origTitle": "Путин произвел масштабные перестановки в военном командовании. Главой Войск беспилотных систем (оказывается, все еще не созданных) станет генерал Денис Лямин",
+          "link": "https://meduza.io/feature/2026/08/05/putin-proizvel-masshtabnye-perestanovki-v-voennom-komandovanii-glavoy-voysk-bespilotnyh-sistem-okazyvaetsya-vse-esche-ne-sozdannyh-stanet-general-denis-lyamin",
+          "source": "Meduza (Russian)",
+          "summary": "Putin announced sweeping reshuffles in Russia's military command, including naming Gen. Denis Lyamin to head a still-not-yet-created Unmanned Systems Force; Meduza notes RIA Novosti reported the same reshuffle only as a string of terse, context-free appointment notices, while Meduza supplies the fuller picture of what's driving the changes.",
+          "flags": [
+            "Contrast with RIA's bare-bones state coverage of the same reshuffle is itself notable"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "state",
+          "title": "食料品消費税減税 政府が基本方針決定 来年4月から2年間1％に",
+          "origTitle": "食料品消費税減税 政府が基本方針決定 来年4月から2年間1％に",
+          "link": "http://www3.nhk.or.jp/news/html/20260805/k10015197191000.html",
+          "source": "NHK (Japanese)",
+          "summary": "Japan's government adopted a basic policy to cut the consumption tax on food to 1% for two years starting next April, aimed at easing the tax and social-insurance burden on low- and middle-income households.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "広島の被爆3世「政治に怒り。戦争しない平和の先進国に」",
+          "origTitle": "広島の被爆3世「政治に怒り。戦争しない平和の先進国に」",
+          "link": "http://www.asahi.com/articles/ASV850CG9V85OXIE038M.html?ref=rss",
+          "source": "Asahi Shimbun (Japanese)",
+          "summary": "Ahead of Hiroshima's atomic-bombing anniversary, a third-generation hibakusha (bombing survivor descendant) speaks about her anger at current politics and her hope that Japan becomes a peaceful, advanced nation that renounces war.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Vermont",
+          "title": "Phil Scott administration pushes through wetlands changes, despite lawmakers' objections",
+          "link": "https://vtdigger.org/2026/08/04/phil-scott-administration-pushes-through-wetlands-changes-despite-lawmakers-objections/",
+          "source": "VTDigger",
+          "summary": "The Scott administration scaled back its original proposal to loosen Vermont wetland protections, winning support from an environmental group that had threatened a lawsuit — but lawmakers who wanted a bigger role in the process still objected to how the changes were pushed through.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "place": "Puerto Rico",
+          "title": "Estos son los puntos clave que debes saber sobre el racionamiento para abonados de la represa Carraízo",
+          "link": "https://www.elnuevodia.com/noticias/locales/notas/estos-son-los-puntos-claves-que-debes-saber-sobre-el-racionamiento-para-abonados-de-la-represa-carraizo/",
+          "source": "El Nuevo Día (Spanish)",
+          "summary": "A new water-rationing plan for customers served by the Carraízo dam begins at 6 a.m. Friday and will affect residents across seven municipalities; the capital has also opened 16 municipal water-distribution points for those affected by the cuts.",
+          "flags": [],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "Texas halts data center connections to power grid amid overwhelming demand",
+          "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+          "source": "Ars Technica",
+          "summary": "Texas has paused new data center connections to its power grid as AI-driven demand overwhelms capacity — notable because the state's governor had been promoting Texas as an AI 'epicenter.'",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "SpaceX is coming for T-Mobile, AT&T and Verizon",
+          "link": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company",
+          "source": "The Verge",
+          "summary": "SpaceX says it's building a terrestrial mobile network to compete directly with the major US carriers, with president Gwynne Shotwell and CEO Elon Musk describing plans to acquire a significant share of their customers.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Google Assistant will disappear from your phone next month",
+          "link": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+          "source": "The Verge",
+          "summary": "Google will remove Google Assistant access from Android phones, tablets, and paired devices starting September 4th, as the company completes its shift to Gemini.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "title": "Anime",
+      "picks": [
+        {
+          "title": "Sakamoto Days Manga Tops 18 Million Copies in Circulation Worldwide",
+          "link": "https://www.animenewsnetwork.com/daily-briefs/2026-08-04/sakamoto-days-manga-tops-18-million-copies-in-circulation-worldwide/.240277",
+          "source": "Anime News Network",
+          "summary": "Yuuto Suzuki's Sakamoto Days manga has passed 18 million copies in worldwide circulation, per an announcement from the series' official account.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "comedy",
+      "title": "Comedy",
+      "picks": [
+        {
+          "title": "Colin Quinn & Jim Norton",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/u8u9X/mgln.ai/e/1118/clrtpod.com/m/arttrk.com/p/YMH00/traffic.megaphone.fm/YMH1596983797.mp3",
+          "source": "Mark Normand - We Might Be Drunk",
+          "summary": "Colin Quinn and Jim Norton join Mark Normand and Sam Morril for a deep dive into the early, brutal days of New York stand-up — road gigs, dangerous hecklers, the rise of the Comedy Cellar, and stories about Patrice O'Neal, Bill Hicks, and Pat Cooper.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Big Jay Oakerson Goes to Germany & Amsterdam",
+          "link": "https://pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/u8u9X/mgln.ai/e/1118/clrtpod.com/m/arttrk.com/p/YMH00/traffic.megaphone.fm/YMH5325995850.mp3",
+          "source": "Ari Shaffir - You Be Trippin'",
+          "summary": "Big Jay Oakerson recounts a mini European comedy tour gone sideways — lost luggage, a Red Light District swindle — plus some inside scoop on the Roast of Kevin Hart.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "podcast",
+      "title": "Podcasts",
+      "picks": [
+        {
+          "title": "Buckle Up for “the Manosphere 2.0” - Helen Lewis",
+          "link": "https://episode.flightcast.com/01KYR922N91CCWVWSPHCDQXQV9.mp3",
+          "source": "Josh Szeps - Uncomfortable Conversations",
+          "summary": "The Atlantic's Helen Lewis joins Josh Szeps to unpack the rise of a more organized, professionalized backlash to feminism and liberalism — from online manosphere influencers to Christian-nationalist gender politics.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Is this Child Psychiatrist \"Anti-Trans\"?",
+          "link": "https://episode.flightcast.com/01KY66DKCW1244A0A2VG63EFSE.mp3",
+          "source": "Josh Szeps - Uncomfortable Conversations",
+          "summary": "Child and adolescent psychiatrist Dr. Jillian Spencer, fired after publicly criticizing how puberty blockers and cross-sex hormones were being prescribed to minors, discusses her employer's recent reversal and withdrawal of its misconduct allegations against her.",
+          "flags": [
+            "Topic sits at the center of an active, polarized policy debate"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    }
+  ]
+}
