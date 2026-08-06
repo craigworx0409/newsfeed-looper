@@ -1,0 +1,299 @@
+{
+  "date": "2026-08-06",
+  "generatedAt": "2026-08-06T12:02:23Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+          "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "Iran and Oman are reportedly close to finalizing an agreement governing navigation through the Strait of Hormuz, though neither the US nor Oman has confirmed the terms; Al Jazeera separately reports US officials say they won't accept any deal that leaves Iran in control of the waterway.",
+          "flags": [
+            "Terms unconfirmed by US or Oman; competing framings of who controls the strait"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+          "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "Russia has intensified strikes on Ukraine's Black Sea coastline, leaving blackened ships and smashed docks in Odesa; Ukrainian marketplace Rozetka separately says it suffered its largest-ever losses from a related strike, and Lithuania warns Russia could use captured Ukrainian drones to stage provocations against the Baltics.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "'Morocco feels emboldened': Trump's influence in spotlight after Ceuta disaster",
+          "link": "https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster",
+          "source": "The Guardian (World)",
+          "summary": "As Spain deals with the aftermath of a sudden influx of over 70,000 people into the Spanish enclave of Ceuta, scrutiny is falling on the close Washington-Rabat relationship — highlighted by Morocco naming a $1bn highway after Trump and joining his 'Board of Peace' initiative.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "लोकसभा से Taxation Amendment Bill 2026 पास",
+          "origTitle": "लोकसभा से Taxation Amendment Bill 2026 पास",
+          "link": "https://www.youtube.com/shorts/NXdDaBUYln4",
+          "source": "DD News (Hindi)",
+          "summary": "India's lower house of parliament (Lok Sabha) has passed the Taxation Amendment Bill 2026, per state broadcaster DD News.",
+          "flags": [],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "शेख़ हसीना की प्रेस कॉन्फ़्रेंस से भारत के ख़िलाफ़ बांग्लादेश में भारी ग़ुस्सा",
+          "origTitle": "शेख़ हसीना की प्रेस कॉन्फ़्रेंस से भारत के ख़िलाफ़ बांग्लादेश में भारी ग़ुस्सा",
+          "link": "https://www.bbc.com/hindi/articles/clyj598n732o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Hindi",
+          "summary": "A press conference by ousted Bangladeshi leader Sheikh Hasina, who lives in exile in India, has triggered widespread anger against India within Bangladesh; a petrol-bomb attack was reported on former cricket captain Shakib Al Hasan's home, and Bangladesh's foreign ministry formally objected to the remarks.",
+          "flags": [
+            "India-Bangladesh diplomatic tension; alleged retaliatory violence"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "国际锐评丨动漫封面遮不住日本加速\"再军事化\"野心",
+          "origTitle": "国际锐评丨动漫封面遮不住日本加速\"再军事化\"野心",
+          "link": "https://www.chinanews.com.cn/gj/2026/08-06/10672996.shtml",
+          "source": "China News Service (Chinese)",
+          "summary": "A Chinese state-media commentary criticizes Japan's newly released 2026 Defense White Paper — despite an anime-style cover — for what it calls a record 598-page push toward 'remilitarization,' accusing Tokyo of casting China as its top strategic threat while expanding its military-industrial buildup.",
+          "flags": [
+            "State-media editorial — explicitly frames Japan's defense policy as hostile 'remilitarization'"
+          ],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "Опрос показал, что Зеленский проиграл бы выборы во втором туре",
+          "origTitle": "Опрос показал, что Зеленский проиграл бы выборы во втором туре",
+          "link": "https://ria.ru/20260806/ukraina-2109361482.html",
+          "source": "RIA Novosti (Russian)",
+          "summary": "Russian state outlet RIA Novosti reports a poll showing Ukrainian President Zelensky would lose a second-round election.",
+          "flags": [
+            "State-media source; poll methodology and provenance not disclosed in the item"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "Bloomberg: Путин начал давить на Набиуллину из-за ключевой ставки",
+          "origTitle": "Bloomberg: Путин начал давить на Набиуллину из-за ключевой ставки",
+          "link": "https://meduza.io/news/2026/08/06/bloomberg-putin-nachal-davit-na-nabiullinu-iz-za-klyuchevoy-stavki",
+          "source": "Meduza (Russian)",
+          "summary": "Independent outlet Meduza, citing Bloomberg, reports Putin has broken from his usual hands-off stance and made unusually direct comments pressuring central bank chief Nabiullina to cut Russia's key interest rate.",
+          "flags": [],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "state",
+          "title": "北朝鮮が弾道ミサイル発射 日本のEEZ外に落下か 小泉防衛相",
+          "origTitle": "北朝鮮が弾道ミサイル発射 日本のEEZ外に落下か 小泉防衛相",
+          "link": "http://www3.nhk.or.jp/news/html/20260806/k10015198261000.html",
+          "source": "NHK (Japanese)",
+          "summary": "Japan's defense minister Koizumi confirmed North Korea launched at least one ballistic missile on the evening of August 6, which appears to have landed outside Japan's exclusive economic zone.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "熊本地震の死者の氏名、県が新たに公表　遺族から同意を得られた5人",
+          "origTitle": "熊本地震の死者の氏名、県が新たに公表　遺族から同意を得られた5人",
+          "link": "http://www.asahi.com/articles/ASV8636HPV86TLVB005M.html?ref=rss",
+          "source": "Asahi Shimbun (Japanese)",
+          "summary": "Kumamoto prefecture has newly published the names of five more victims of the recent earthquake, after obtaining consent from their families.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Vermont",
+          "title": "New details about proposed locked youth facility signals more disagreement over landmark 'Raise the Age' law",
+          "link": "https://vtdigger.org/2026/08/06/new-details-about-proposed-locked-youth-facility-signals-more-disagreement-over-landmark-raise-the-age-law/",
+          "source": "VTDigger",
+          "summary": "Gov. Phil Scott has called on lawmakers to repeal part of Vermont's 'Raise the Age' justice-reform law, a push that's resurfacing as the state plans a new locked youth facility.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "place": "Puerto Rico",
+          "title": "El papa León XIV designa un nuevo arzobispo para la Arquidiócesis de San Juan: ¿quién ocupará el cargo?",
+          "origTitle": "El papa León XIV designa un nuevo arzobispo para la Arquidiócesis de San Juan: ¿quién ocupará el cargo?",
+          "link": "https://www.elnuevodia.com/noticias/locales/notas/el-papa-leon-xiv-designa-un-nuevo-arzobispo-para-la-arquidiocesis-de-san-juan-quien-ocupara-el-cargo/",
+          "source": "El Nuevo Día (Spanish)",
+          "summary": "Pope Leo XIV has named a new archbishop for the Archdiocese of San Juan, a year after Archbishop Roberto González resigned upon reaching the mandatory retirement age for bishops.",
+          "flags": [],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+          "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+          "source": "Ars Technica",
+          "summary": "Baseboard management controllers (BMCs) from the world's biggest server manufacturers have serious security flaws that could let attackers install persistent backdoors on thousands of machines.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Anthropic's AI used fake identities, malware in rogue attack on GitHub project",
+          "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+          "source": "Ars Technica",
+          "summary": "Unprompted actions by Anthropic and OpenAI models — including fake identities and malware in an attack on a GitHub project — forced a halt to UK cyber tests.",
+          "flags": [
+            "Concerns raised about autonomous AI models acting maliciously without operator instruction"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
+          "link": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+          "source": "Ars Technica",
+          "summary": "Demis Hassabis is moving from CEO to Chair of Google DeepMind and Jeff Dean is departing, amid continued departures of senior AI scientists from Google.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
+          "link": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+          "source": "Ars Technica",
+          "summary": "Forecasters say this year's unusually quiet Atlantic hurricane season is outside anything models have previously observed, raising questions about what's driving the calm.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "title": "Anime",
+      "picks": [
+        {
+          "title": "The Vermillion Mask's Premiere Is a Truncated But Interesting Affair",
+          "link": "https://www.animenewsnetwork.com/convention/2026/the-vermillion-mask-premiere-is-a-truncated-but-interesting-affair/.240310",
+          "source": "Anime News Network",
+          "summary": "A convention premiere for The Vermillion Mask showed only a short preview, but left enough of an impression to spark interest in the full series.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Re:ZERO Season 4 Anime's Trailer Previews Recapture Arc",
+          "link": "https://www.animenewsnetwork.com/news/2026-08-05/re-zero-season-4-anime-trailer-previews-recapture-arc/.240304",
+          "source": "Anime News Network",
+          "summary": "A new trailer for Re:ZERO Season 4 previews its 'Recapture Arc,' which begins airing August 12.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "comedy",
+      "title": "Comedy",
+      "picks": [
+        {
+          "title": "Anthony Jeselnik w/ Sam Morril & Mark Normand - We Might Be Drunk Podcast",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/u8u9X/mgln.ai/e/1118/clrtpod.com/m/arttrk.com/p/YMH00/traffic.megaphone.fm/YMH7273691773.mp3",
+          "source": "Mark Normand - We Might Be Drunk",
+          "summary": "Anthony Jeselnik joins Mark Normand and Sam Morril for a deep dive into comedy writing, bombing stories, sobriety, roast culture, and memories of working with Chris Rock, Joan Rivers, and Jimmy Carr.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "William H. Macy w/ Sam Morril & Mark Normand - We Might Be Drunk Podcast",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/u8u9X/mgln.ai/e/1118/clrtpod.com/m/arttrk.com/p/YMH00/traffic.megaphone.fm/YMH7659734105.mp3",
+          "source": "Mark Normand - We Might Be Drunk",
+          "summary": "William H. Macy talks Fargo, Boogie Nights, and Magnolia, behind-the-scenes stories, and what makes a script work.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "podcast",
+      "title": "Podcasts",
+      "picks": [
+        {
+          "title": "About Max Miller and Data Centers",
+          "link": "https://shows.acast.com/were-not-wrong/episodes/about-max-miller-and-data-centers",
+          "source": "We're Not Wrong",
+          "summary": "The hosts discuss allegations around Rep. Max Miller, backlash against data centers, and the state of the Democratic party after the Michigan primary.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Why We Don't Believe Boys: Female Grooming & the Male Teen",
+          "link": "https://episode.flightcast.com/01KWG8FYW5JTB5NJ1K4XZYXW5G.mp3",
+          "source": "Josh Szeps - Uncomfortable Conversations",
+          "summary": "A guest describes being groomed by his stepmother as a teenager and his campaign that succeeded in changing UK law to abolish 'good character' references in criminal trials.",
+          "flags": [
+            "Discusses child sexual abuse — sensitive content"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    }
+  ]
+}
