@@ -1,0 +1,285 @@
+{
+  "date": "2026-08-07",
+  "generatedAt": "2026-08-07T12:04:33Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+          "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "Saudi Arabia, Turkey and Pakistan signed a mutual-defence pact in Mecca stating an attack on any one of the three will be treated as an attack on all, a move announced amid escalating regional turmoil including Houthi strikes on Saudi Arabia and rising US-Iran tension over the Strait of Hormuz.",
+          "flags": [
+            "Timing reads as a direct response to the US-Israel-Iran standoff, not just a routine alliance"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
+          "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
+          "source": "NPR News",
+          "summary": "The UN warns that hundreds of thousands of civilians in el-Obeid, Sudan are being battered by relentless drone strikes, facing critical water shortages and a worsening cholera outbreak, with women and girls reporting high rates of sexual violence as the war grinds on largely out of Western headlines.",
+          "flags": [
+            "UN language ('risk of mass atrocities') is a strong, deliberate escalation in tone"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+          "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "summary": "President Trump signed new executive orders banning 'birth tourism' and expanding the definition of children ineligible for US birthright citizenship, the latest in a series of attempts to reshape the policy that international outlets are following closely as a test of executive power versus the 14th Amendment.",
+          "flags": [
+            "Legality is contested — prior similar orders have been blocked in court"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "Foreign Ministry weekly press briefing: Somalia to West Asia, MEA lays out India's policy",
+          "link": "https://www.youtube.com/shorts/ekImNX9Strs",
+          "source": "India state — DD News (Hindi)",
+          "summary": "India's Ministry of External Affairs used its weekly briefing to outline its diplomatic posture across a wide arc from Somalia to West Asia, part of state broadcaster DD News's routine coverage of government foreign-policy positioning this week (no transcript/summary was provided upstream, so this is a title-level gist).",
+          "flags": [
+            "Source item had no body text — headline-only gist"
+          ],
+          "lang": "hi",
+          "translated": true,
+          "origTitle": "सोमालिया से पश्चिम एशिया तक, MEA ने रखी भारत की नीति"
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "Bangladesh's former foreign minister under Yunus makes claims about India",
+          "link": "https://www.bbc.com/hindi/articles/c70glkx3gkxo?at_medium=RSS&at_campaign=rss",
+          "source": "India independent — BBC Hindi",
+          "summary": "Touhid Hussain, who served as Bangladesh's foreign affairs adviser under Muhammad Yunus's interim government, said Yunus viewed India as a 'geopolitical reality' and had sought time with PM Modi to work out a way to engage with New Delhi, offering a rare inside account of Dhaka-Delhi relations during the transition government.",
+          "flags": [],
+          "lang": "hi",
+          "translated": true,
+          "origTitle": "मोहम्मद यूनुस की सरकार में बांग्लादेश के 'विदेश मंत्री' रहे तौहीद हुसैन ने भारत को लेकर किए कई दावे"
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "Lawyer assesses prospects of a lawsuit to remove Yabloko from Duma elections",
+          "link": "https://ria.ru/20260807/vs-2109560385.html",
+          "source": "Russia state — RIA Novosti (Russian)",
+          "summary": "State-run RIA Novosti covered a legal expert's assessment of the odds that a lawsuit seeking to strike the liberal Yabloko party from the State Duma election list will succeed, part of a wider push this week by the nationalist Rodina party to have Yabloko disqualified.",
+          "flags": [
+            "State-media source — treat framing with caution; effort to remove an opposition party from ballots"
+          ],
+          "lang": "ru",
+          "translated": true,
+          "origTitle": "Юрист оценил перспективу иска о снятии списка \"Яблока\" с выборов в ГД"
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "FSB raids crypto exchangers in Moscow City, detains over 20 — some thought they worked for the FSB",
+          "link": "https://meduza.io/feature/2026/08/07/fsb-ustroila-oblavu-na-kriptoobmenniki-v-moskva-siti-cherez-nih-yakoby-vyvodili-dengi-rossiyan-v-ukrainu",
+          "source": "Russia independent — Meduza (Russian)",
+          "summary": "Independent outlet Meduza reports the FSB raided crypto exchange operations in the Moscow City business complex and detained more than 20 people, alleging the exchangers illegally moved Russians' money to Ukraine via scam call centers — with the twist that some detainees believed they were themselves working for the FSB.",
+          "flags": [
+            "Bizarre entrapment angle — detainees reportedly believed they were FSB assets"
+          ],
+          "lang": "ru",
+          "translated": true,
+          "origTitle": "ФСБ устроила облаву на криптообменники в «Москва-Сити» — через них якобы выводили деньги россиян в Украину. Задержаны больше 20 человек. Некоторые из них считали, что работают на ФСБ"
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "Seoul temperature tops 40°C as South Korea suffers worst heatwave in its history",
+          "link": "https://www.chinanews.com.cn/gj/2026/08-07/10673842.shtml",
+          "source": "China state — China News Service (Chinese)",
+          "summary": "Chinese state media reports Seoul's temperature has broken 40°C for the first time as South Korea endures its most severe heatwave on record, following earlier record highs in Gyeonggi, Gyeongsan and Gwangyang.",
+          "flags": [],
+          "lang": "zh",
+          "translated": true,
+          "origTitle": "首尔气温突破40摄氏度，韩国遭遇史上最严重热浪"
+        },
+        {
+          "country": "Japan",
+          "outlet": "state",
+          "title": "Kumamoto earthquake: 38 dead including suspected disaster-related deaths, 6,651 in shelters",
+          "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198921000.html",
+          "source": "Japan public — NHK (Japanese)",
+          "summary": "Public broadcaster NHK reports the death toll from the Kumamoto earthquake has reached 38, including suspected disaster-related deaths, with 6,651 people still in evacuation shelters as of the afternoon of August 7 — an ongoing disaster compounded by a heatwave and an approaching typhoon.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true,
+          "origTitle": "熊本地震 災害関連死の疑い含め38人死亡 避難所に6651人避難"
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "Kyoto University Hospital medical accident: wrong site removed in brain tumor surgery, patient left unable to breathe on own",
+          "link": "http://www.asahi.com/articles/ASV872V1RV87PLBJ001M.html?ref=rss",
+          "source": "Japan independent — Asahi Shimbun (Japanese)",
+          "summary": "Asahi Shimbun reports Kyoto University Hospital removed healthy brain tissue instead of the intended tumor during surgery, leaving the patient unable to breathe spontaneously — a serious medical-error case now under scrutiny.",
+          "flags": [
+            "Serious medical malpractice allegation"
+          ],
+          "lang": "ja",
+          "translated": true,
+          "origTitle": "京大病院で医療事故　脳腫瘍の手術で正常部位摘出、自発呼吸不能に"
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Vermont",
+          "title": "A walk through downtown Burlington shows a city in crisis",
+          "link": "https://vtdigger.org/2026/08/06/opinion-a-walk-through-downtown-burlington-shows-a-city-in-crisis/",
+          "source": "VTDigger",
+          "summary": "An opinion piece describes a walk from St. Paul Street to Church Street in downtown Burlington turning up open drug use on nearly every block despite a new state police presence — published alongside a companion VTDigger opinion piece arguing that blaming addicts for the city's problems misses the point.",
+          "flags": [
+            "Opinion piece with a direct rebuttal opinion running the same day — contested framing of Burlington's addiction crisis"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "place": "Puerto Rico",
+          "title": "Daily reservoir monitor: 13 reservoirs drop, five see slight rise, as rationing begins",
+          "link": "https://www.elnuevodia.com/noticias/locales/notas/monitoreo-diario-13-embalses-reducen-sus-niveles-de-agua-y-cinco-registran-un-leve-aumento/",
+          "source": "Puerto Rico — El Nuevo Día (Spanish)",
+          "summary": "El Nuevo Día's daily reservoir tracker shows 13 of Puerto Rico's reservoirs losing water and only five gaining slightly, on the same day official water rationing begins in several municipalities served by the Carraízo reservoir.",
+          "flags": [],
+          "lang": "es",
+          "translated": true,
+          "origTitle": "Monitoreo diario: 13 embalses reducen sus niveles de agua y cinco registran un leve aumento"
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "Anthropic will design its own hardware to power Claude",
+          "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+          "source": "Ars Technica",
+          "summary": "Anthropic confirmed plans to build an in-house silicon team to design custom hardware for running Claude, joining OpenAI in a race to scale AI compute while reducing dependence on Nvidia.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "AMD acquires Taalas to boost inference performance by etching models into silicon",
+          "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+          "source": "Hacker News",
+          "summary": "AMD acquired AI chip startup Taalas, which etches trained models directly into silicon to speed up inference, part of the broader wave of chipmakers racing to specialize hardware for AI workloads.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Jony Ive's first OpenAI gadget is reportedly a hockey-puck-sized smart speaker",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+          "source": "The Verge",
+          "summary": "Bloomberg reports the AI device OpenAI is developing with former Apple designer Jony Ive is a battery-powered, display-less smart speaker roughly the size of a hockey puck, expected to launch in 2027 for over $300.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Large genome models used to design new viruses",
+          "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+          "source": "Ars Technica",
+          "summary": "Researchers used a large genome AI model to design genetically distant new versions of a bacteria-killing virus, demonstrating generative models can now create novel viral genomes rather than just analyze existing ones.",
+          "flags": [
+            "Dual-use biosecurity concern — AI-designed viral genomes raise obvious safety questions even for benign (bacteriophage) targets"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "anime",
+      "title": "Anime",
+      "picks": [
+        {
+          "title": "Giant Ojō-sama TV Anime Reveals Visual, Staff, January 2027 Premiere",
+          "link": "https://www.animenewsnetwork.com/news/2026-08-06/giant-ojo-sama-tv-anime-reveals-visual-staff-january-2027-premiere/.240354",
+          "source": "Anime News Network",
+          "summary": "An anime adaptation of Nikumura Q's manga 'Giant Ojō-sama' has revealed its key visual and staff, with Hiroshi Ikehata directing at Tatsunoko Production ahead of a January 2027 premiere.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "comedy",
+      "title": "Comedy",
+      "picks": [
+        {
+          "title": "We Might Be Drunk Ep 273: Adam Carolla",
+          "link": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/u8u9X/mgln.ai/e/1118/clrtpod.com/m/arttrk.com/p/YMH00/traffic.megaphone.fm/YMH3154568650.mp3",
+          "source": "Mark Normand - We Might Be Drunk",
+          "summary": "Adam Carolla joins Mark Normand and Sam Morril for a wide-ranging episode covering vintage Porsches, old Seinfeld snubs, and boutique-hotel horror stories.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "podcast",
+      "title": "Podcasts",
+      "picks": [
+        {
+          "title": "Matt Taibbi, America's Top Gonzo Journalist, on How the Media Lost Its Mind",
+          "link": "https://episode.flightcast.com/01KT0Z19H2NAWT3V83HWH22WT6.mp3",
+          "source": "Josh Szeps - Uncomfortable Conversations",
+          "summary": "Rolling Stone reporter Matt Taibbi joins Josh Szeps to discuss what happened to American news media, why diversity-driven staffing debates coincided with a decline in objective journalism, and why he remains optimistic about what comes next.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "WTF? Gladiator Battles on the White House Lawn: How MMA & the Manosphere Took Over America",
+          "link": "https://episode.flightcast.com/01KTTG04CPSBQSFZAW57EBS30T.mp3",
+          "source": "Josh Szeps - Uncomfortable Conversations",
+          "summary": "TIME's Sean Gregory joins Josh Szeps to explain how UFC boss Dana White turned MMA from a banned pay-per-view novelty into a mainstream force now literally staged on the White House lawn, and what that says about masculinity and MAGA politics.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    }
+  ]
+}
