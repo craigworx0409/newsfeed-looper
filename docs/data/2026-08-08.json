@@ -1,0 +1,230 @@
+{
+  "_schema": "Newsfeed v2 curated data",
+  "date": "2026-08-08",
+  "generatedAt": "2026-08-08T12:04:01Z",
+  "sections": [
+    {
+      "key": "world",
+      "title": "World",
+      "picks": [
+        {
+          "bucket": "Middle East",
+          "title": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz",
+          "link": "https://www.reuters.com/business/energy/uae-says-iran-attacked-adnoc-vessel-with-missile-strait-hormuz-2026-08-08/",
+          "source": "Reuters World",
+          "summary": "The UAE condemned what it called an Iranian missile strike on a tanker linked to its state oil company as it transited the Strait of Hormuz, accusing Tehran of \"acts of piracy\" — a fresh escalation as the wider US-Iran standoff drags on.",
+          "flags": [
+            "Iran has not confirmed the attack; account so far is UAE-sourced only"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "World (ex-US, ex-ME)",
+          "title": "Russian attacks kill 4 in Kyiv and surrounding region as air defenses fall short",
+          "link": "https://apnews.com/article/russia-ukraine-war-missiles-patriot-zelenskyy-492d334e26b5485dbf74d7ae9c9d33ce",
+          "source": "AP News",
+          "summary": "Overnight Russian missile and drone strikes killed four people including a child in and around Kyiv, with Zelensky warning that dwindling Patriot interceptor stocks are letting more of the barrage through.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "bucket": "US as the world sees it",
+          "title": "Bluster and backdown have turned Iran war into Trump's own Groundhog Day",
+          "link": "https://www.theguardian.com/world/ng-interactive/2026/aug/08/trump-iran-war-criticism-groundhog-day",
+          "source": "The Guardian (World)",
+          "summary": "Five months into his war of choice against Iran, Trump keeps threatening devastating bombardment then backing down for renewed talks — a repeating cycle international analysts say reflects a poor read of his adversary and is inviting ridicule abroad.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "international",
+      "title": "International (in-language)",
+      "picks": [
+        {
+          "country": "India",
+          "outlet": "state",
+          "title": "Asian Aerobic Gymnastics Championships में अरिहा का गोल्ड, भारत ने रचा इतिहास",
+          "origTitle": "Asian Aerobic Gymnastics Championships में अरिहा का गोल्ड, भारत ने रचा इतिहास",
+          "link": "https://www.youtube.com/shorts/44SSApJfvzM",
+          "source": "India state — DD News (Hindi)",
+          "summary": "Indian gymnast Ariha won gold at the Asian Aerobic Gymnastics Championships, a result state broadcaster DD News is framing as a historic first for India in the sport.",
+          "flags": [],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "India",
+          "outlet": "independent",
+          "title": "एफ़सीआरए क़ानून में संशोधनों के प्रस्ताव को अमेरिकी सांसद ने बताया 'ईसाई विरोधी', क्या है पूरा मामला?",
+          "origTitle": "एफ़सीआरए क़ानून में संशोधनों के प्रस्ताव को अमेरिकी सांसद ने बताया 'ईसाई विरोधी', क्या है पूरा मामला?",
+          "link": "https://www.bbc.com/hindi/articles/ce8knxjvx7ko?at_medium=RSS&at_campaign=rss",
+          "source": "India independent — BBC Hindi",
+          "summary": "A US congressman has called proposed amendments to India's FCRA law (which governs foreign funding of NGOs) \"anti-Christian,\" warning the bill, if passed as-is, would strain India-US relations.",
+          "flags": [
+            "Framing/motive of the amendments is contested between the Indian government and US critics"
+          ],
+          "lang": "hi",
+          "translated": true
+        },
+        {
+          "country": "China",
+          "outlet": "state",
+          "title": "日媒：中国企业高校研发总投入超美国，居世界第一",
+          "origTitle": "日媒：中国企业高校研发总投入超美国，居世界第一",
+          "link": "https://www.chinanews.com.cn/gj/2026/08-08/10674179.shtml",
+          "source": "China state — China News Service (Chinese)",
+          "summary": "Citing Japanese media, Chinese state outlet China News reports that combined R&D spending by Chinese companies and universities has now overtaken the US, putting China first in the world by that measure.",
+          "flags": [
+            "State-media source — treat the framing/comparison methodology with caution"
+          ],
+          "lang": "zh",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "state",
+          "title": "Зеленский заявил о якобы договоренности с США о поставках ракет для ПВО",
+          "origTitle": "Зеленский заявил о якобы договоренности с США о поставках ракет для ПВО",
+          "link": "https://ria.ru/20260808/zelenskij-2109742156.html",
+          "source": "Russia state — RIA Novosti (Russian)",
+          "summary": "RIA Novosti reports — using skeptical framing (\"allegedly\") — that Zelensky claims Ukraine has reached a deal with the US for more air-defense missile deliveries.",
+          "flags": [
+            "State-media source — treat framing with caution"
+          ],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Russia",
+          "outlet": "independent",
+          "title": "Почти 400 украинских беспилотников атаковали регионы России и Крым. В Самарской области и Краснодарском крае горят НПЗ",
+          "origTitle": "Почти 400 украинских беспилотников атаковали регионы России и Крым. В Самарской области и Краснодарском крае горят НПЗ",
+          "link": "https://meduza.io/news/2026/08/08/pochti-400-ukrainskih-bespilotnikov-atakovali-regiony-rossii-i-krym-v-samarskoy-oblasti-i-krasnodarskom-krae-goryat-npz",
+          "source": "Russia independent — Meduza (Russian)",
+          "summary": "Russia's defense ministry says it intercepted 397 Ukrainian drones overnight over Russian regions, annexed Crimea, and the Sea of Azov; refineries are burning in Samara and Krasnodar regions.",
+          "flags": [],
+          "lang": "ru",
+          "translated": true
+        },
+        {
+          "country": "Japan",
+          "outlet": "independent",
+          "title": "3輪EV、リキシャで狙う低所得者層　インド「次の10億人」争奪戦",
+          "origTitle": "3輪EV、リキシャで狙う低所得者層　インド「次の10億人」争奪戦",
+          "link": "http://www.asahi.com/articles/ASV7R1PWRV7RULFA00PM.html?ref=rss",
+          "source": "Japan independent — Asahi Shimbun (Japanese)",
+          "summary": "Asahi Shimbun covers the battle for India's low-income \"next billion\" consumers, with manufacturers pushing three-wheel EV rickshaws as an affordable entry point.",
+          "flags": [],
+          "lang": "ja",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "local",
+      "title": "Local",
+      "picks": [
+        {
+          "place": "Puerto Rico",
+          "title": "Fiesta sorpresa para Carlos Beltrán en el Coca-Cola Music Hall: \"Me alegra que sea en vida\"",
+          "origTitle": "Fiesta sorpresa para Carlos Beltrán en el Coca-Cola Music Hall: \"Me alegra que sea en vida\"",
+          "link": "https://www.elnuevodia.com/deportes/beisbol/notas/fiesta-sorpresa-para-carlos-beltran-en-el-coca-cola-music-hall-me-alegra-que-sea-en-vida/",
+          "source": "Puerto Rico — El Nuevo Día (Spanish)",
+          "summary": "Puerto Rico threw a surprise celebration for baseball legend Carlos Beltrán at the Coca-Cola Music Hall following his recent Hall of Fame induction; Beltrán said he was glad to see the tributes while he's still alive to enjoy them.",
+          "flags": [],
+          "lang": "es",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "key": "tech-science",
+      "title": "Tech & Science",
+      "picks": [
+        {
+          "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+          "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+          "source": "Ars Technica",
+          "summary": "TikTok owner ByteDance is training a roughly 10-trillion-parameter model as it pushes to compete directly with frontier labs like Anthropic.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "Report: White House drafting executive order linking vaccines and autism",
+          "link": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
+          "source": "Ars Technica",
+          "summary": "The administration is reportedly drafting an executive order asserting a vaccine-autism link, a claim unsupported by scientific evidence, drawing warnings about both public-health and political fallout.",
+          "flags": [
+            "Scientific consensus does not support a vaccine-autism link; expect pushback from health authorities"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+          "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+          "source": "Ars Technica",
+          "summary": "Clinicians and researchers argue AI companies need to be more transparent with their safety data after multiple documented cases of chatbots mishandling users in mental-health crises.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+          "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+          "source": "Hacker News / NYT",
+          "summary": "A new Amazon data center in Texas is being paired with what would be the most polluting power plant in the country, spotlighting the environmental cost of the AI buildout.",
+          "flags": [
+            "Contested by Amazon on emissions figures per some reporting"
+          ],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    },
+    {
+      "key": "comedy",
+      "title": "Comedy",
+      "picks": []
+    },
+    {
+      "key": "podcast",
+      "title": "Podcasts",
+      "picks": [
+        {
+          "title": "'Truth' in an Age of A.I.",
+          "link": "https://episode.flightcast.com/01KQ8VKDPGXGAZ4YDVF7MCG0EC.mp3",
+          "source": "Josh Szeps - Uncomfortable Conversations",
+          "summary": "Former TV news producer Steve Rosenbaum joins Josh Szeps to discuss whether AI can help re-establish shared facts after social media fractured them, or will just make truth slipperier — drawing on his book \"The Future of Truth.\"",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        },
+        {
+          "title": "BLOCKADE COUNTDOWN: What's the End Game?",
+          "link": "https://episode.flightcast.com/01KPAK1X8K4KC9GH1XFQGT7DB2.mp3",
+          "source": "Josh Szeps - Uncomfortable Conversations",
+          "summary": "Former NSC Middle East director Steven Simon breaks down the logic of Trump's Iran blockade, what leverage Iran still has, and how the standoff is likely to end.",
+          "flags": [],
+          "lang": "en",
+          "translated": false,
+          "origTitle": null
+        }
+      ]
+    }
+  ]
+}
